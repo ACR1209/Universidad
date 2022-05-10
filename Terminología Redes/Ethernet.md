@@ -1,0 +1,2 @@
+## Ethernet
+Estándar de redes de área local. define las caracteríscas de cableado y señalización de nivel físico. Estándar parte de la IEEE 802.3

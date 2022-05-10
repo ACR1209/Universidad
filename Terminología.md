@@ -1,0 +1,18 @@
+# Terminología
+1. La siguiente terminologia es util
+	- [[Switch]]
+	- [[Router]]
+	- [[Firewall]]
+	- [[Backbone o enlaces troncales]]
+	- [[AP]]
+	- [[Ethernet]]
+	- [[Topologia de redes]]
+	- [[Cable Directo y Cruzado]]
+	- [[Intranet]]
+	- [[Extranet]]
+	- [[Internet]]
+	- [[Centro de datos]]
+	- [[DNS]]
+	- [[Terminología Redes/IP|IP]]
+	- [[Terminología Redes/TCP/IP|TCP/IP]]
+	- [[OSI]]
