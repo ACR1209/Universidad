@@ -16,7 +16,7 @@ Hay diferentes tipos de revisiones:
 - SLR (Buscan experimentos y sintetizan datos, se obtiene de 5 bases digitales)
 	Es la busqueda de literatura desde diferentes fuentes, más esta es estructurada y sistematica. Estas fuentes son generalmente obtenidades de base de datos o librerias digitales. 
 	
-	Su proposito es encontrar datos empiricos de los experimentos similares.Es decir, resume los datos empiricos y los analiza dando una respuesta a una pregunta de investigación, encontrando nuevos hallazgos.
+	Su propósito es encontrar datos empiricos de los experimentos similares.Es decir, resume los datos empiricos y los analiza dando una respuesta a una pregunta de investigación, encontrando nuevos hallazgos.
 - SMS (Buscan conecptos especificos en la literatura, se obtiene de 5 bases digitales)
 	Es la búsqueda de literatura de diferentes fuentes, estructurada y sistematica. Su proposito es encontrar información especifica en las fuentes para posteriormente sintetizar la información, de igual manera da respuesta a una pregunta de investigación.
 - PLR (Mismo proceso pero en una sola base digital)
