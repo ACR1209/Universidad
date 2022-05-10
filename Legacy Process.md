@@ -3,4 +3,4 @@ Sistema anticuado que sigue siendo utilizado por el usuario y no se quiere o no 
 
 Tienden a hacer dificil el desarrollo, ya que estos procesos actuan como una caja negra (_Black Box_) y se debe trabajar alrededor de este.
 
-It should work tbh
+It should work tbh.
