@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminología Redes/Cable Directo y Cruzado.md",
+            "file": "Legacy Process.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Redes/Cable Directo y Cruzado.md",
+                "file": "Legacy Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Legacy Process.md",
+    "Terminología Redes/Topologia de redes.md",
     "Terminología Redes/Cable Directo y Cruzado.md",
     "Terminología Redes/Intranet.md",
     "Quinto Semestre.md",
@@ -104,8 +106,6 @@
     "Sistema de información.md",
     "Sistema.md",
     "Revisión preliminar de literatura.md",
-    "Investigación en Ingenieria en Software.md",
-    "Terminología.md",
-    "Tipos de redes.md"
+    "Investigación en Ingenieria en Software.md"
   ]
 }
