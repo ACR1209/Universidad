@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistema de Base de Datos Avanzados.md",
+            "file": "Atributo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistema de Base de Datos Avanzados.md",
+                "file": "Atributo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Atributo.md",
+    "Mandatory.md",
+    "Indice.md",
+    "Primary Key.md",
+    "Row ID.md",
+    "Entidad.md",
+    "Modelo.md",
     "Sistema de Base de Datos Avanzados.md",
     "Investigación en Ingenieria en Software.md",
-    "Legacy Process.md",
-    "Análisis de requisitos.md",
-    "Ingeniería de Requisitos.md",
-    "Obtención de Requerimientos.md",
-    "Requerimiento.md",
-    "Requisito.md",
-    "Computación Gráfica.md",
-    "Gráfico sistema de información.png"
+    "Legacy Process.md"
   ]
 }
