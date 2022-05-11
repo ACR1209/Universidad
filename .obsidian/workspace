@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Revisión preliminar de literatura.md",
-            "mode": "source"
+            "file": "Ingeniería de Requisitos.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revisión preliminar de literatura.md",
+                "file": "Ingeniería de Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Ingeniería de Requisitos.md",
+    "Computación Gráfica.md",
+    "Gráfico sistema de información.png",
+    "Legacy Process.md",
+    "Dato.md",
     "Revisión preliminar de literatura.md",
     "Investigación en Ingenieria en Software.md",
-    "Legacy Process.md",
     "Terminología Redes/Topologia de redes.md",
     "Terminología Redes/Cable Directo y Cruzado.md",
-    "Terminología Redes/Intranet.md",
-    "Quinto Semestre.md",
-    "Información.md",
-    "Sistema de información.md",
-    "Sistema.md"
+    "Terminología Redes/Intranet.md"
   ]
 }
