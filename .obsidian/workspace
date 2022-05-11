@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atributo.md",
+            "file": "Displayed.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atributo.md",
+                "file": "Displayed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Displayed.md",
     "Atributo.md",
-    "Mandatory.md",
     "Indice.md",
+    "Mandatory.md",
     "Primary Key.md",
     "Row ID.md",
     "Entidad.md",
     "Modelo.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Investigación en Ingenieria en Software.md",
-    "Legacy Process.md"
+    "Investigación en Ingenieria en Software.md"
   ]
 }

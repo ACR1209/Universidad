@@ -1,2 +1,2 @@
 # Atributo
-Son un aspecto de una [[Entidad]]. Tiene propiedades de [[Mandatory]],  [[Primary Key]] 
+Son un aspecto de una [[Entidad]]. Tiene propiedades de [[Mandatory]],  [[Primary Key]] y [[Displayed]]
