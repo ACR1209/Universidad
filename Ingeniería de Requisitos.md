@@ -5,7 +5,19 @@ Es la parte de la ingeniería en software en la que se aborda el problema de la 
 
 \- Loucopoulus y Karakostas, 1995
 
+## Proceso de la Ingeniería de Requisitos
+Los elementos que forman parte del este es:
+1. [[Obtención de Requerimientos]]
+2. [[Análisis de requisitos]]
+
+Este se unen y se utilizan como se identifica en el siguiente diagrama: 
+
+![[Pasted image 20220511085833.png]]
+
+
 Temas:
 1. Primer Parcial:
 	- [[Requisito]]
 	- [[Requerimiento]]
+	- [[Obtención de Requerimientos]]
+	- [[Análisis de requisitos]]

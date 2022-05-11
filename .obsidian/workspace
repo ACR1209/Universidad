@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingeniería de Requisitos.md",
+            "file": "Análisis de requisitos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Requisitos.md",
+                "file": "Análisis de requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 190
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Análisis de requisitos.md",
     "Ingeniería de Requisitos.md",
+    "Obtención de Requerimientos.md",
     "Requerimiento.md",
     "Requisito.md",
     "Computación Gráfica.md",
     "Gráfico sistema de información.png",
     "Legacy Process.md",
     "Dato.md",
-    "Revisión preliminar de literatura.md",
-    "Investigación en Ingenieria en Software.md",
-    "Terminología Redes/Topologia de redes.md"
+    "Revisión preliminar de literatura.md"
   ]
 }
