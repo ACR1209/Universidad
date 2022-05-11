@@ -5,4 +5,5 @@ Se refiere a la petición que se hace de algo, se requiere o solicita.
 
 ## Tipos de requerimiento
 - Requerimientos del software (del sistema de software)
+	Propiedad o restricción, determinada con precisión, que un producto de software debe satisfacer. Hace referencia a la parte digital e intangible del producto. 
 - Requerimientos del sistema basado en computadoras (requerimientos del sistema)
