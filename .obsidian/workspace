@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingeniería de Requisitos.md",
+            "file": "Requisito.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Requisitos.md",
+                "file": "Requisito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Requisito.md",
+    "Requerimiento.md",
     "Ingeniería de Requisitos.md",
     "Computación Gráfica.md",
     "Gráfico sistema de información.png",
@@ -104,8 +106,6 @@
     "Dato.md",
     "Revisión preliminar de literatura.md",
     "Investigación en Ingenieria en Software.md",
-    "Terminología Redes/Topologia de redes.md",
-    "Terminología Redes/Cable Directo y Cruzado.md",
-    "Terminología Redes/Intranet.md"
+    "Terminología Redes/Topologia de redes.md"
   ]
 }

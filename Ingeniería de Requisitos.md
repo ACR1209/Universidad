@@ -3,4 +3,5 @@ Es la parte de la ingeniería en software en la que se aborda el problema de la 
 
 Temas:
 1. Primer Parcial:
-	- 
+	- [[Requisito]]
+	- [[Requerimiento]]
