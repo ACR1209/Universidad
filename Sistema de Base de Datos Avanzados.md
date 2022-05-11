@@ -6,3 +6,5 @@ Temas:
 	- [[Sistema de información]]
 	- [[Legacy Process]]
 	- [[Dato]]
+	- [[Información]]
+	- 
