@@ -19,9 +19,17 @@ Este nos da el propósito y la dirección del proceso de investigación.
 	
 	__Subfases__
 	- Objetivos.
-	Es necesario establecer lo que se quiere hacer en la investigación. Debe mencionar el problema y la manera en la que se solucionará. Son guias del estudio a realizar.
+		Es necesario establecer lo que se quiere hacer en la investigación. Debe mencionar el problema y la manera en la que se solucionará. Son guias del estudio a realizar.
+		
+		Deben ser claramente expresados para evitar posibles desviaciones en el proceso de investigación. Los objetivos específicos deben ser consistentes con el objetivo general. 
 	
-	Deben ser claramente expresados para evitar posibles desviaciones en el proceso de investigación. Los objetivos específicos deben ser consistentes con el objetivo general. 
+		Hay sugerencias para dar los objetivos como decir cada objetivo en una oración diferente; concentrarse en explorar y entender un solo fenómeno, concepto o idea; usar verbos para comunicar las acciones que se realizarán para entender el fenómeno; evitar usar palabras que denoten sesgo hacia un resultado específico; mencionar los participantes de un estudio como animales, especies vegetales y humanos; identificar el lugar inicial o ambiente del estudio ^1fd6e0
+	- Preguntas de investigación.
+		Son el complemento para asegurar el cumplimiento de [[#^1fd6e0|los objetivos]] y estos deben ser consistentes con los mismos.
+	- Justificación
+		Es importante plantear la relevancia de hacer la investigación tomando en consideración: conveniencia; relavancia social; implicaciones prácticas; valor teórico y la utilidad metodológica. Los datos cuantitativos deben presentarse para determinar el tamaño del problema y justificar la investigación del mismo. 
 
-	Hay sugerencias para dar los objetivos como decir cada objetivo en una oración diferente; concentrarse en explorar y entender un solo fenómeno, concepto o idea; usar verbos para comunicar las acciones que se realizarán para entender el fenómeno; evitar usar palabras que denoten sesgo hacia un resultado específico; mencionar los participantes de un estudio como animales, especies vegetales y humanos; identificar el lugar inicial o ambiente del estudio
-	- 
+		Se debe de conocer el contexto, que es donde se desarrolla el problema, son los factores que positivamente y negativamente afectan al fenómeno. Este contexto puede ser generalizado o no.   
+
+	
+	
