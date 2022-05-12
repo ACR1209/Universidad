@@ -7,12 +7,8 @@
         "id": "c26cdb7624a3b7e7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mandatory.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mandatory.md",
+                "file": "Tipos de redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +92,7 @@
   },
   "active": "c26cdb7624a3b7e7",
   "lastOpenFiles": [
+    "Tipos de redes.md",
     "Mandatory.md",
     "Displayed.md",
     "Primary Key.md",
@@ -105,7 +101,6 @@
     "Análisis de requisitos.md",
     "Indice.md",
     "Entidad.md",
-    "Modelo.md",
-    "Sistema de Base de Datos Avanzados.md"
+    "Modelo.md"
   ]
 }
