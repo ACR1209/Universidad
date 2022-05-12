@@ -5,7 +5,7 @@ Es el proceso de descubir hechos e información acerca sobre los fenómenos que 
 - Conciente: debe tener un objetivo o propósito.
 - Sistemática: debe seguir un plan definido de investigación.
 - Objetiva: debe estar separado de las opiniones y sentimientos del investigador.
-- Replicable: debe ser posible que sea replicada por los demás.
+- Replicable: debe ser posible que la investigació sea reproducida por los demás.
 
 ## Pasos
 1. [[Definición del problema|Definir el problema]].
