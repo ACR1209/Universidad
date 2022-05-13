@@ -1,4 +1,4 @@
-# Redes de computadoras
+# Redes De Computadoras
 
 Temas:
 1. Primer Parcial
