@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "c26cdb7624a3b7e7",
+        "id": "fe1a9e1c757c9a79",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -90,8 +90,10 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "c26cdb7624a3b7e7",
+  "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Ae.md",
+    "AE.md",
     "Redes De Computadoras.md",
     "Terminología Redes/TCP/IP.md",
     "Sistema de Base de Datos Avanzados.md",
@@ -99,8 +101,6 @@
     "Ingeniería de Requisitos.md",
     "Quinto Semestre.md",
     "Definición del problema.md",
-    "análisis de articulos existentes de fuentes fiables.md",
-    "Proceso de Investigación Científico.md",
-    "Reporte de hallazgos.md"
+    "análisis de articulos existentes de fuentes fiables.md"
   ]
 }
