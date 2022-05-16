@@ -9,6 +9,8 @@ Es la parte de la ingeniería en software en la que se aborda el problema de la 
 Los elementos que forman parte del este es:
 1. [[Obtención de Requerimientos]]
 2. [[Análisis de requisitos]]
+3. [[Especificación de los requerimientos]]
+4. [[Validación de los requerimientos]]
 
 Este se unen y se utilizan como se identifica en el siguiente diagrama: 
 
@@ -19,5 +21,8 @@ Temas:
 1. Primer Parcial:
 	- [[Requisito]]
 	- [[Requerimiento]]
-	- [[Obtención de Requerimientos]]
-	- [[Análisis de requisitos]]
+	- [[#Proceso de la Ingeniería de Requisitos]]
+		- [[Obtención de Requerimientos]]
+		- [[Análisis de requisitos]]
+		- [[Especificación de los requerimientos]]
+		- [[Validación de los requerimientos]]
