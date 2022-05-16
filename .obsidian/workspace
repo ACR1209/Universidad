@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Normalización.md",
+            "file": "Primary Key.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalización.md",
+                "file": "Primary Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Primary Key.md",
     "Normalización.md",
     "Dependecia Funcional.md",
     "Indice.md",
-    "Primary Key.md",
     "Sistema de Base de Datos Avanzados.md",
     "Ingeniería de Requisitos.md",
     "Atomicidad.md",
