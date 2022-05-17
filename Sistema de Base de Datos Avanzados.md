@@ -16,4 +16,5 @@ Temas:
 			- [[Row ID]]
 		- [[Indice]]
 	- [[Base de datos]]
+		- [[Atomicidad]]
 	
