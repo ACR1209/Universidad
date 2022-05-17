@@ -1,6 +1,5 @@
 # Topología de redes
 
-
 Hace referencia a la forma en la que se conectan las computadoras para formar redes e intercambiar datos entre si. Esto puede resumirse como las maneras que se coloca el cableado para conectar las computadores y formar redes con estas. Los tipos de redes son: 
 
 - ### Topología de anillo
