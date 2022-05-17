@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proceso de Investigación Científico.md",
+            "file": "Terminología Redes/Topología de redes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proceso de Investigación Científico.md",
+                "file": "Terminología Redes/Topología de redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
-    "Proceso de Investigación Científico.md",
-    "Investigación en Ingenieria en Software.md",
     "Terminología Redes/Topología de redes.md",
+    "Terminología.md",
+    "Primary Key.md",
     "Normalización.md",
+    "Dependecia Funcional.md",
+    "Indice.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Validación de los requerimientos.md",
-    "Definición del problema.md",
+    "Ingeniería de Requisitos.md",
     "Atomicidad.md",
-    "Tipos de redes.md",
-    "Base de datos.md"
+    "Validación de los requerimientos.md"
   ]
 }
