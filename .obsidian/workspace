@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminología Redes/Topología de redes.md",
+            "file": "Lista enlazada.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Redes/Topología de redes.md",
+                "file": "Lista enlazada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Lista enlazada.md",
+    "Estructura de datos.md",
+    "Proceso de Investigación Científico.md",
+    "Investigación en Ingenieria en Software.md",
     "Terminología Redes/Topología de redes.md",
-    "Terminología.md",
-    "Primary Key.md",
     "Normalización.md",
-    "Dependecia Funcional.md",
-    "Indice.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Ingeniería de Requisitos.md",
-    "Atomicidad.md",
-    "Validación de los requerimientos.md"
+    "Validación de los requerimientos.md",
+    "Definición del problema.md",
+    "Atomicidad.md"
   ]
 }
