@@ -7,12 +7,8 @@
         "id": "fe1a9e1c757c9a79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base de datos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +92,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Tipos de redes.md",
+    "Atomicidad.md",
+    "Definición del problema.md",
     "Base de datos.md",
     "Mandatory.md",
-    "Atomicidad.md",
     "Sistema de Base de Datos Avanzados.md",
     "Redes De Computadoras.md",
     "Entidad.md",
     "Ae.md",
-    "AE.md",
-    "Terminología Redes/TCP/IP.md",
-    "Investigación en Ingenieria en Software.md"
+    "AE.md"
   ]
 }
