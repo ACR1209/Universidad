@@ -6,7 +6,7 @@
 	- [[Backbone o enlaces troncales]]
 	- [[AP]]
 	- [[Ethernet]]
-	- [[Topologia de redes]]
+	- [[Topología de redes]]
 	- [[Cable Directo y Cruzado]]
 	- [[Intranet]]
 	- [[Extranet]]

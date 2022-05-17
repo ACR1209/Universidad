@@ -1,2 +1,0 @@
-## Topologia de redes
-Es una forma de expresar una red, principalmente la fisicas y lógicas. Las fisicas existen P2P (de un computador a otro), bus (necesario un switch), estrella (permite la redundancia de las comunicaciones) o hibrida (reune las caracteristicas de las topologias anteriores)

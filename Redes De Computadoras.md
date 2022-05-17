@@ -11,7 +11,7 @@ Temas:
 		- [[Intranet]]
 		- [[Extranet]]
 		- [[Cable Directo y Cruzado]]
-		- [[Topologia de redes]]
+		- [[Topología de redes]]
 		- [[Backbone o enlaces troncales]]
 		- [[Firewall]]
 		- [[AP]]
