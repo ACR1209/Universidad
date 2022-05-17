@@ -1,4 +1,4 @@
-# Investigación en ingeniería en software
+# Investigación en Ingenieria en Software
 
 Temas:
 
