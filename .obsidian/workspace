@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Implementación de la lista simplemente enlazada.md",
+            "file": "Estructuras de datos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementación de la lista simplemente enlazada.md",
+                "file": "Estructuras de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
-    "Implementación de la lista simplemente enlazada.md",
-    "Lista enlazada.md",
-    "Estructura de datos.md",
-    "Proceso de Investigación Científico.md",
-    "Investigación en Ingenieria en Software.md",
-    "Terminología Redes/Topología de redes.md",
+    "Estructuras de datos.md",
+    "Implementación de la lista enlazada circular.md",
     "Normalización.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Validación de los requerimientos.md",
-    "Definición del problema.md"
+    "Dependencia Funcional.md",
+    "Ingenieria en Software.md",
+    "Lista enlazada.md",
+    "Implementación de la lista doblemente enlazada.md",
+    "Implementación de la lista simplemente enlazada.md",
+    "Proceso de Investigación Científico.md"
   ]
 }
