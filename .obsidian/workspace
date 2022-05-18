@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1a9e1c757c9a79",
+        "id": "2966cbb35f453cc0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Requisito.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Requisito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +95,10 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "fe1a9e1c757c9a79",
+  "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
+    "Requisito.md",
+    "Ingeniería de Requisitos.md",
     "Estructuras de datos.md",
     "Implementación de la lista enlazada circular.md",
     "Definición del problema.md",
@@ -99,8 +106,6 @@
     "Investigación en Ingenieria en Software.md",
     "Terminología Redes/Topología de redes.md",
     "Terminología.md",
-    "Primary Key.md",
-    "Normalización.md",
-    "Dependecia Funcional.md"
+    "Primary Key.md"
   ]
 }
