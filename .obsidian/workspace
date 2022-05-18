@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lista enlazada.md",
+            "file": "Implementación de la lista simplemente enlazada.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lista enlazada.md",
+                "file": "Implementación de la lista simplemente enlazada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Implementación de la lista simplemente enlazada.md",
     "Lista enlazada.md",
     "Estructura de datos.md",
     "Proceso de Investigación Científico.md",
@@ -105,7 +106,6 @@
     "Normalización.md",
     "Sistema de Base de Datos Avanzados.md",
     "Validación de los requerimientos.md",
-    "Definición del problema.md",
-    "Atomicidad.md"
+    "Definición del problema.md"
   ]
 }
