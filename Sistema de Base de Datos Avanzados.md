@@ -17,4 +17,7 @@ Temas:
 		- [[Indice]]
 	- [[Base de datos]]
 		- [[Atomicidad]]
+	- [[Normalización]]
+		- [[Dependencia Funcional]]
+
 	
