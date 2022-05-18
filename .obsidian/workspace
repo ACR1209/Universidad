@@ -7,12 +7,8 @@
         "id": "fe1a9e1c757c9a79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Estructuras de datos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estructuras de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +94,13 @@
   "lastOpenFiles": [
     "Estructuras de datos.md",
     "Implementación de la lista enlazada circular.md",
+    "Definición del problema.md",
+    "Proceso de Investigación Científico.md",
+    "Investigación en Ingenieria en Software.md",
+    "Terminología Redes/Topología de redes.md",
+    "Terminología.md",
+    "Primary Key.md",
     "Normalización.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Dependencia Funcional.md",
-    "Ingenieria en Software.md",
-    "Lista enlazada.md",
-    "Implementación de la lista doblemente enlazada.md",
-    "Implementación de la lista simplemente enlazada.md",
-    "Proceso de Investigación Científico.md"
+    "Dependecia Funcional.md"
   ]
 }
