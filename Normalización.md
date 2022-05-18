@@ -6,3 +6,4 @@ Un modelo esta en primera forma normal si los [[Atributo|atributos]] tienen un s
 ## Segunda forma normal
 Es necesario que todas las entidades se encuentren cumpliendo correctamente sus [[Dependencia Funcional|dependecias funcionales]]
 ## Tercera forma normal
+

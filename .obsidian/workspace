@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Requisito.md",
+            "file": "Normalización.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requisito.md",
+                "file": "Normalización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
-    "Requisito.md",
-    "Ingeniería de Requisitos.md",
+    "Normalización.md",
     "Estructuras de datos.md",
+    "Sistema de Base de Datos Avanzados.md",
+    "Requisito.md",
+    "Excalidraw/Drawing 2022-05-18 09.36.38.excalidraw.md",
+    "Base de datos.md",
+    "Ingeniería de Requisitos.md",
     "Implementación de la lista enlazada circular.md",
     "Definición del problema.md",
-    "Proceso de Investigación Científico.md",
-    "Investigación en Ingenieria en Software.md",
-    "Terminología Redes/Topología de redes.md",
-    "Terminología.md",
-    "Primary Key.md"
+    "Proceso de Investigación Científico.md"
   ]
 }
