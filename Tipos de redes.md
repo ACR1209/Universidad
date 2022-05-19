@@ -1,5 +1,8 @@
 # Tipos de redes
 - ## PAN
+	Una red _PAN_ (del inglés _Personal Area Network_) o Red de Área Personal es un protocolo de red para establecer conexión entre dispositivos de poco alcance orientado al uso personal, es decir: diseñada para cubrir un área de trabajo individual. Esta estructura de redes busca dar a las personas la posibilidad de establecer una conexión con sus dispositivos de uso personal.
+	
+	Una red PAN puede cubrir tanto el entorno inmediato de un individuo, una oficina o una casa. El primero de los casos es ahora posible inclusive estando en movimiento gracias a la tecnología bluetooth y [[WiFi]], permitiendo que varios dispositivos de uso personal se encuentren sincronizados.
 - ## LAN
 	Significa *Local Area Network* o red de área local conecta a dispositvos en cercania mediate cables y debe expandirse a máximo 100 metos
 	
