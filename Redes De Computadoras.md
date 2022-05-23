@@ -23,5 +23,6 @@ Temas:
 	- [[Elementos de una red]]
 	- [[Medios de red]]
 	- [[Tipos de redes]]
+		- [[WiFi]]
 1. Segundo Parcial
 2. Tercer Parcial
