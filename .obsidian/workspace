@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1a9e1c757c9a79",
+        "id": "2966cbb35f453cc0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Terminología Redes/Topología de redes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terminología Redes/Topología de redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +95,17 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "fe1a9e1c757c9a79",
+  "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
-    "Estructuras de datos.md",
-    "Implementación de la lista enlazada circular.md",
+    "Terminología Redes/Topología de redes.md",
+    "Tipos de redes.md",
+    "Untitled.md",
+    "WiFi.md",
+    "Terminología Redes/Switch.md",
     "Normalización.md",
+    "Estructuras de datos.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Dependencia Funcional.md",
-    "Ingenieria en Software.md",
-    "Lista enlazada.md",
-    "Implementación de la lista doblemente enlazada.md",
-    "Implementación de la lista simplemente enlazada.md",
-    "Proceso de Investigación Científico.md"
+    "Requisito.md",
+    "Excalidraw/Drawing 2022-05-18 09.36.38.excalidraw.md"
   ]
 }

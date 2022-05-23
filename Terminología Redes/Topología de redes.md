@@ -2,6 +2,9 @@
 
 Hace referencia a la forma en la que se conectan las computadoras para formar redes e intercambiar datos entre si. Esto puede resumirse como las maneras que se coloca el cableado para conectar las computadores y formar redes con estas. Los tipos de redes son: 
 
+- ### Topología punto a punto (P2P)
+	Es aquella a la que se conecta un dispositivo una a uno, es decir una red compuesta de dos dispositivos que se comunican entre si. Generalmente se hace en un línea dedicada.
+	
 - ### Topología de anillo
 	Es aquella en la cual los computadores estan conectados los unos a los otros formando un circuito (en forma de anillo). Esto presenta el problema que si una de las conexiones de uno de los computadores falla los datos dejan de transferirse y comunicación se corta. Esta red se puede entender como se ve en la imagén en la parte inferior. 
 		
