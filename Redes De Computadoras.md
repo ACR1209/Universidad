@@ -16,7 +16,7 @@ Temas:
 		- [[Firewall]]
 		- [[AP]]
 		- [[Switch]]
-		- [[Router]]
+			- [[Router]]
 		- [[OSI]]
 		- [[Terminología Redes/IP|IP]]
 		- [[Ethernet]]
