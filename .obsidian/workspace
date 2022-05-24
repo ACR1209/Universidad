@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1a9e1c757c9a79",
+        "id": "2966cbb35f453cc0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Redes De Computadoras.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "fe1a9e1c757c9a79",
+  "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
     "Redes De Computadoras.md",
-    "Terminología Redes/OSI.md",
+    "Terminología Redes/DNS.md",
     "WiFi.md",
+    "Terminología Redes/Topología de redes.md",
     "Tipos de redes.md",
-    "Estructuras de datos.md",
-    "Implementación de la lista enlazada circular.md",
+    "Untitled.md",
+    "Terminología Redes/Switch.md",
     "Normalización.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Dependencia Funcional.md",
-    "Ingenieria en Software.md"
+    "Estructuras de datos.md",
+    "Sistema de Base de Datos Avanzados.md"
   ]
 }
