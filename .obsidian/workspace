@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Requerimiento No Funcional.md",
+            "file": "Modelo Dimensional.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requerimiento No Funcional.md",
+                "file": "Modelo Dimensional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
+    "Modelo Dimensional.md",
+    "Cardinalidad.md",
+    "Sistema de Base de Datos Avanzados.md",
+    "Normalización.md",
     "Requerimiento No Funcional.md",
     "Requerimiento Funcional.md",
     "Ingeniería de Requisitos.md",
     "Redes De Computadoras.md",
     "Requerimiento.md",
-    "Terminología Redes/DNS.md",
-    "WiFi.md",
-    "Terminología Redes/Topología de redes.md",
-    "Tipos de redes.md",
-    "Untitled.md"
+    "Terminología Redes/DNS.md"
   ]
 }

@@ -15,9 +15,10 @@ Temas:
 			- [[Displayed]]
 			- [[Row ID]]
 		- [[Indice]]
+		- [[Cardinalidad]]
 	- [[Base de datos]]
 		- [[Atomicidad]]
 	- [[Normalización]]
 		- [[Dependencia Funcional]]
-
+	- [[Modelo Dimensional]]
 	
