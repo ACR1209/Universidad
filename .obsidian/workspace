@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redes De Computadoras.md",
+            "file": "Requerimiento Funcional.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes De Computadoras.md",
+                "file": "Requerimiento Funcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
+    "Requerimiento Funcional.md",
+    "Requerimiento No Funcional.md",
+    "Ingeniería de Requisitos.md",
     "Redes De Computadoras.md",
+    "Requerimiento.md",
     "Terminología Redes/DNS.md",
     "WiFi.md",
     "Terminología Redes/Topología de redes.md",
     "Tipos de redes.md",
-    "Untitled.md",
-    "Terminología Redes/Switch.md",
-    "Normalización.md",
-    "Estructuras de datos.md",
-    "Sistema de Base de Datos Avanzados.md"
+    "Untitled.md"
   ]
 }

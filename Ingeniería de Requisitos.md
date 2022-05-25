@@ -25,4 +25,7 @@ Temas:
 		- [[Obtención de Requerimientos]]
 		- [[Análisis de requisitos]]
 		- [[Especificación de los requerimientos]]
-		- [[Validación de los requerimientos]]
+		- [[Validación de los requerimientos]]}
+	- Tipo de requerimientos
+		- [[Requerimiento Funcional]]
+		- [[Requerimiento No Funcional]]
