@@ -18,7 +18,9 @@ Temas:
 		- [[Cardinalidad]]
 	- [[Base de datos]]
 		- [[Atomicidad]]
+		- [[DBMS]]
 	- [[Normalización]]
 		- [[Dependencia Funcional]]
 	- [[Modelo Dimensional]]
+	- [[Data warehouse]]
 	

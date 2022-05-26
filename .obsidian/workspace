@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DBMS.md",
+            "file": "Modelo OSI ISO.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS.md",
+                "file": "Modelo OSI ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
+    "Modelo OSI ISO.md",
+    "Terminología Redes/IP.md",
+    "Terminología Redes/OSI.md",
+    "Modelos de redes.md",
+    "Modelo en capas.md",
+    "Sistema de Base de Datos Avanzados.md",
     "DBMS.md",
     "Data warehouse.md",
     "Modelo Dimensional.md",
-    "Cardinalidad.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Normalización.md",
-    "Requerimiento No Funcional.md",
-    "Requerimiento Funcional.md",
-    "Ingeniería de Requisitos.md",
-    "Redes De Computadoras.md"
+    "Cardinalidad.md"
   ]
 }
