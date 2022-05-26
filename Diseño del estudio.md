@@ -44,4 +44,4 @@ Es el conjunto de pasos planteados para completarse en un tiempo determinado. Es
 	- Entrevista: es una conversación estructuradas donde un participante hace preguntas y el otro propociona las respuestas.
 	- Etnografia: explora el mundo social, cultura, creencias compartidas y comportamientos.
 - ## Recolección de datos
-Una vez un estudio se realiza a través de cualquier metodo es necesario recopilar los datos; ejecutar medidas que promueven la colección de datos ricos y auténticos; mantener estandares éticos al momento de realizar la obtención de los datos. 
+	Una vez un estudio se realiza a través de cualquier metodo es necesario recopilar los datos; ejecutar medidas que promueven la colección de datos ricos y auténticos; mantener estandares éticos al momento de realizar la obtención de datos. 

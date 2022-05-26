@@ -1,4 +1,4 @@
-# Quinto semestre
+# Quinto Semestre
 Las materias de este semestre:
 - [[Sistema de Base de Datos Avanzados]]
 - [[Computación Gráfica]]
