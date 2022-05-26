@@ -22,6 +22,7 @@ El planteamiento de la [[Hipótesis]] deberá permitir la identificación de la 
 
 ### Planificación
 Es el conjunto de pasos planteados para completarse en un tiempo determinado. Es decir, la metodología plantea el qué, la planificación el cuando y los métodos el como. 
+
 - ## Métodos y técnicas de investigación
 	Algunos métodos son:
 	- Experimento: es una serie de intentos en los cuales la variable de entrada de un proceso o sistema son cambiadas para identificar las razones para el cambio observado en la salida del proceso.
