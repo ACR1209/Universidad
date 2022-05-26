@@ -8,7 +8,18 @@ Segundo paso del [[Proceso de Investigación Científico]]. Consiste de:
 	- Variables dependientes (variables respuesta): estudiadas bajo la suposición que dependen de una ley o regla de los valores de otras variables.
 - ## Planteamiento de [[Hipótesis|hipótesis]]
 - ## Marco Teorico
-El planteamiento de la [[Hipótesis]] deberá permitir la identificación de la variable independiente y la variable dependiente. Estructura del componente teórico que provee el conocimiento que permita realizar la investigación. Es estructurado de acuerdo a las variables.
+El planteamient- ### Metodología
+> Describe la estrategia de investigación general que da el camino en el cual la investigación va a llevar a cabo.
+
+​￼#### Tipos
+- Fenomenologia: describe la experiencia vivida de un fenómeno particular
+- Participativa: opiniones de los participantes como investigadores activos
+- Teoria en tierra: asume una plantilla en blanco y usa una aproximación inductiva
+- Ciencia del diseño: aplicaciones tecnologicas basadas en casos de estudio, investigaciones de acción o etnografias.
+- Ad-hoc (Propia): Definición del problema (Estudio exploratorio), investigación de factibilidad del estudio ([[Revisión preliminar de literatura]]), construcción de la solución, validación de la solución.
+
+- ### Planificación
+Es el conjunto de pasos planteados para completarse en un tiempo determinado. Es decir, la metodología plantea el qué, la planificación el cuando y los métodos el como. o de la [[Hipótesis]] deberá permitir la identificación de la variable independiente y la variable dependiente. Estructura del componente teórico que provee el conocimiento que permita realizar la investigación. Es estructurado de acuerdo a las variables.
 - ## Plan de definición y metodologia
 ### Metodología
 > Describe la estrategia de investigación general que da el camino en el cual la investigación va a llevar a cabo.
@@ -32,3 +43,5 @@ Es el conjunto de pasos planteados para completarse en un tiempo determinado. Es
 	- Encuestas: es un metodo basado en una lista de preguntas cuyo propósito es extraer información especifica de un grupo de personas particular.
 	- Entrevista: es una conversación estructuradas donde un participante hace preguntas y el otro propociona las respuestas.
 	- Etnografia: explora el mundo social, cultura, creencias compartidas y comportamientos.
+- ## Recolección de datos
+Una vez un estudio se realiza a través de cualquier metodo es necesario recopilar los datos; ejecutar medidas que promueven la colección de datos ricos y auténticos; mantener estandares éticos al momento de realizar la obtención de los datos. 
