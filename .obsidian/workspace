@@ -7,12 +7,8 @@
         "id": "2966cbb35f453cc0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Suite de protocolos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suite de protocolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +92,7 @@
   },
   "active": "2966cbb35f453cc0",
   "lastOpenFiles": [
+    "Redes De Computadoras.md",
     "Suite de protocolos.md",
     "Modelo TCP IP.md",
     "Modelo OSI ISO.md",
@@ -105,7 +101,6 @@
     "Modelos de redes.md",
     "Modelo en capas.md",
     "Sistema de Base de Datos Avanzados.md",
-    "DBMS.md",
-    "Data warehouse.md"
+    "DBMS.md"
   ]
 }

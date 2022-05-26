@@ -24,5 +24,10 @@ Temas:
 	- [[Medios de red]]
 	- [[Tipos de redes]]
 		- [[WiFi]]
-1. Segundo Parcial
-2. Tercer Parcial
+	- [[Suite de protocolos]]
+	- [[Modelo TCP IP]]
+	- [[Modelo OSI ISO]]
+	- [[Modelo en capas]]
+	- [[Modelos de redes]]
+2. Segundo Parcial
+3. Tercer Parcial
