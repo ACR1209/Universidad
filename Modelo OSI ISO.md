@@ -17,5 +17,10 @@ Esta capa se encarga del transporte de segmentos de redes entre los dispositivos
 - UDP (*User Datagram Protocol*): Protocolo que no envía de forma confiable los datos.
 
 ### Capa 5: Sesión
+Se encarga de establecer, gestionar y finalizar las sesiones entre dos host. Cuando navegas por un sitio web en Internet, probablemente no sea el único usuario del servidor web que aloja un sitio web. Este servidor necesita seguir cada "sesión" en este.
+
 ### Capa 6: Presentación
+Se asegura de que la información sea legible para la capa de aplicación formateando y estructurando los datos. La mayoría de las computadoras usan la tabla ASCII para los caracteres. Si otra computadora utilizara otros caracteres como EBCDIC, entonces la capa de presentación necesita "reformatear" los datos para que ambas computadoras coincidan en los mismos caracteres.
+
 ### Capa 7: Aplicación
+Tenemos aplicaciones como el correo electrónico, browsing, http, ftp y más. Para enviar datos a través de la red, siempre debemos pasar por todas las capas, una a una, sin saltarnos ninguna.
