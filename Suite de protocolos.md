@@ -8,5 +8,3 @@ Es un grupo de **protocolos** que trabajan en forma conjunta para proporcionar s
 Actualmente incluye decenas de protocolos. Están orgranizados en capas y utilizan el modelo de protocolo TCP/IP. Se implementa como un stack
 
 ![[Pasted image 20220526103011.png]]
-
-
