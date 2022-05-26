@@ -29,3 +29,6 @@ Es el conjunto de pasos planteados para completarse en un tiempo determinado. Es
 	- Replicación: rehacer un estudio para obtener resultados iguales o similares.
 	- Estudio de caso: es un método de investigación que involucra una examinación cercana y a fondo de un caso en particular.
 	- Investigación de acción: busca un cambio transformativo a traves de procesos simultaneos de actuar y hacer investigación, en la que ambos se juntan usando la reflección crítica. 
+	- Encuestas: es un metodo basado en una lista de preguntas cuyo propósito es extraer información especifica de un grupo de personas particular.
+	- Entrevista: es una conversación estructuradas donde un participante hace preguntas y el otro propociona las respuestas.
+	- Etnografia: explora el mundo social, cultura, creencias compartidas y comportamientos.
