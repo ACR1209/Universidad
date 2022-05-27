@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modelos de redes.md",
+            "file": "Data warehouse.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelos de redes.md",
+                "file": "Data warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Data warehouse.md",
+    "Requerimiento No Funcional.md",
+    "Modelo TCP IP.md",
+    "Modelo Dimensional.md",
+    "Hipótesis.md",
+    "Diseño del estudio.md",
     "Modelos de redes.md",
     "Modelo en capas.md",
     "Modelo OSI ISO.md",
-    "Modelo TCP IP.md",
-    "Redes De Computadoras.md",
-    "Suite de protocolos.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Quinto Semestre.md",
-    "Requerimiento No Funcional.md",
-    "Requerimiento Funcional.md"
+    "Redes De Computadoras.md"
   ]
 }
