@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingeniería de Requisitos.md",
+            "file": "Experimento.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Requisitos.md",
+                "file": "Experimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
+    "Experimento.md",
+    "Estudios empiricos.md",
+    "Encuesta.md",
+    "Estudio de caso.md",
+    "Experimentación en la ingeniería en software.md",
+    "Investigación en Ingenieria en Software.md",
     "Ingeniería de Requisitos.md",
     "WiFi.md",
     "Data warehouse.md",
-    "Requerimiento No Funcional.md",
-    "Modelo TCP IP.md",
-    "Modelo Dimensional.md",
-    "Hipótesis.md",
-    "Diseño del estudio.md",
-    "Modelos de redes.md",
-    "Modelo en capas.md"
+    "Requerimiento No Funcional.md"
   ]
 }

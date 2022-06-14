@@ -1,0 +1,2 @@
+# Experimento
+Es un tipo de [[Estudios empiricos|estudio empirico]] que se enfoca de investigar lo pequeño y se hace con el propósito de investigar como afecta el cambio de variables a un hecho en particular. Involucran un **tratamiento** que puede arrojar diversos resultados. Se utilizan cuando se requiere **control** o **manipulacion** sobre una situacion de manera sistematica.
