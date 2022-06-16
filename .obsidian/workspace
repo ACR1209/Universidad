@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d9216d6b5000c7",
+        "id": "fe1a9e1c757c9a79",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Experimento.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 193,
+    "collapsed": true
   },
-  "active": "d2d9216d6b5000c7",
+  "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
-    "Modelo en capas.md",
-    "Quinto Semestre.md",
-    "Modelos de redes.md",
-    "Redes De Computadoras.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Suite de protocolos.md",
-    "Modelo TCP IP.md",
+    "Experimento.md",
+    "Estudios empiricos.md",
+    "Encuesta.md",
+    "Estudio de caso.md",
+    "Experimentación en la ingeniería en software.md",
+    "Investigación en Ingenieria en Software.md",
+    "Ingeniería de Requisitos.md",
+    "WiFi.md",
     "Data warehouse.md",
-    "Requerimiento No Funcional.md",
-    "Modelo Dimensional.md"
+    "Requerimiento No Funcional.md"
   ]
 }

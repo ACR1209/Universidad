@@ -1,0 +1,2 @@
+# Encuesta
+Es un tipo de [[Estudios empiricos|estudio empirico]]. Es un procedimiento dentro de los diseños de una investigación descriptiva en el que el investigador recopila datos mediante el cuestionario previamente diseñado, sin modificar el entorno ni el fenómeno donde se recoge la información ya sea para entregarlo en forma de tríptico, gráfica , tabla o escrita. Los datos se obtienen realizando un conjunto de preguntas normalizadas dirigidas a una muestra representativa.
