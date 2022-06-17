@@ -7,12 +7,8 @@
         "id": "d2d9216d6b5000c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naive Bayes Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Bayes Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +92,8 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Investigación en Ingenieria en Software.md",
+    "Excalidraw/Drawing 2022-05-18 09.36.38.excalidraw.md",
     "Naive Bayes Algorithm.md",
     "Posterior Probability.md",
     "Data Science.md",
@@ -104,8 +101,6 @@
     "Quinto Semestre.md",
     "Modelos de redes.md",
     "Redes De Computadoras.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Suite de protocolos.md",
-    "Modelo TCP IP.md"
+    "Sistema de Base de Datos Avanzados.md"
   ]
 }
