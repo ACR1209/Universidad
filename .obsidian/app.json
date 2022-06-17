@@ -10,7 +10,8 @@
     "downscalePercent": 80
   },
   "spellcheckLanguages": [
-    "es-MX"
+    "es-MX",
+    "en-US"
   ],
   "spellcheck": true
 }
