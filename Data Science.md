@@ -1,3 +1,3 @@
 # Data Science
-- [[Naive Bayes Algorithm]]
-- 
+- [[Sentiment Analysis]]
+	- [[Naive Bayes Algorithm]]

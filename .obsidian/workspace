@@ -7,8 +7,12 @@
         "id": "d2d9216d6b5000c7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sentiment Analysis.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sentiment Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +97,15 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Sentiment Analysis.md",
+    "Data Science.md",
+    "Naive Bayes Algorithm.md",
     "Quinto Semestre.md",
     "Redes De Computadoras.md",
     "Investigación en Ingenieria en Software.md",
     "Sistema de Base de Datos Avanzados.md",
     "Ingeniería de Requisitos.md",
     "Excalidraw/Drawing 2022-05-18 09.36.38.excalidraw.md",
-    "Naive Bayes Algorithm.md",
-    "Posterior Probability.md",
-    "Data Science.md",
-    "Modelo en capas.md"
+    "Posterior Probability.md"
   ]
 }

@@ -36,23 +36,24 @@ Dataset of if game was played or not based on weather conditions
 
 1. Convert dataset to frequency table
 
-**Frequency Table**
-| Weather | No | Yes|
-| ---------|---|---|
-|Overcast|0|4|
-|Rainy|3|2|
-|Sunny|2|3|
-|**Total**|**5**|**9**|
+	**Frequency Table**
+	
+	| Weather | No | Yes |
+	| - | - | - |
+	|Overcast|0|4|
+	|Rainy|3|2|
+	|Sunny|2|3|
+	|**Total**|**5**|**9**|
 
-2. Create a likelihood table by finding the probabilities, for example Overcast probability $P(Overcast)=\frac{4}{14}=0.29$  and $P(Playing)=\frac{9}{14}=0.64$ 
+1. Create a likelihood table by finding the probabilities, for example Overcast probability $P(Overcast)=\frac{4}{14}=0.29$  and $P(Playing)=\frac{9}{14}=0.64$ 
 
-|Weather|No|Yes|$P(Weather)$|
-|--------|---|-|-|
-|Overcast| 0 | 4 | $\frac{4}{14}=0.29$|
-|Rainy|3|2|$\frac{5}{14}=0.36$|
-|Sunny|2|3|$\frac{5}{14}=0.36$|
-|**Total** | **5**|**9**|
-|**Probability**|**$\frac{5}{14}=0.36$**|**$\frac{9}{14}=0.64$**||
+	|Weather|No|Yes|$P(Weather)$|
+	|--------|---|-|-|
+	|Overcast| 0 | 4 | $\frac{4}{14}=0.29$|
+	|Rainy|3|2|$\frac{5}{14}=0.36$|
+	|Sunny|2|3|$\frac{5}{14}=0.36$|
+	|**Total** | **5**|**9**|
+	|**Probability**|**$\frac{5}{14}=0.36$**|**$\frac{9}{14}=0.64$**||
 
 3. Now use [[Naive Bayes Algorithm#The Naive Bayesian Equation|Naive Bayesian Equation]] to calculate the posterior probability for each class. The class with the highest posterior probability is the outcome of the prediction.
 
