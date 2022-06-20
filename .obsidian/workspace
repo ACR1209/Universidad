@@ -7,8 +7,12 @@
         "id": "d2d9216d6b5000c7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sentiment Analysis.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sentiment Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +97,12 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Sentiment Analysis.md",
     "Quinto Semestre.md",
     "Sistema de Base de Datos Avanzados.md",
     "Particionamiento.md",
     "Sistema de comunicación.md",
     "Sistema de información.md",
-    "Sentiment Analysis.md",
     "Naive Bayes Algorithm.md",
     "Data Science.md",
     "Redes De Computadoras.md",

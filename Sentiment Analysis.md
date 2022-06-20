@@ -30,7 +30,7 @@ Note that the usage of [[Naive Bayes Algorithm]] helps to find which class is mo
 ![[Pasted image 20220618182650.png]]
 
 >[!NOTE]
->In this case you can drop the denominator because the probability of the document ($P(d)$) doesn't help to calculate $P(c|d)$ in this case.
+>In this case you can drop the denominator because the probability of the document ($P(d)$) doesn't help to calculate $P(c|d)$.
 
 ## Implementing Sentiment Analysis with [[Naive Bayes Algorithm]] in Python
 
