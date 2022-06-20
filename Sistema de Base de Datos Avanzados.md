@@ -23,4 +23,5 @@ Temas:
 		- [[Dependencia Funcional]]
 	- [[Modelo Dimensional]]
 	- [[Data warehouse]]
-	
+2. Segundo parcial
+	- [[Particionamiento]]

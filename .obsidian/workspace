@@ -7,12 +7,8 @@
         "id": "d2d9216d6b5000c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sistema de comunicación.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistema de comunicación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +92,15 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Quinto Semestre.md",
+    "Sistema de Base de Datos Avanzados.md",
+    "Particionamiento.md",
     "Sistema de comunicación.md",
     "Sistema de información.md",
     "Sentiment Analysis.md",
     "Naive Bayes Algorithm.md",
     "Data Science.md",
-    "Quinto Semestre.md",
     "Redes De Computadoras.md",
-    "Investigación en Ingenieria en Software.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Ingeniería de Requisitos.md"
+    "Investigación en Ingenieria en Software.md"
   ]
 }
