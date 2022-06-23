@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particionamiento.md",
+            "file": "Data Science.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particionamiento.md",
+                "file": "Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Data Science.md",
     "Particionamiento.md",
     "Sentiment Analysis.md",
     "Quinto Semestre.md",
@@ -104,7 +105,6 @@
     "Sistema de comunicación.md",
     "Sistema de información.md",
     "Naive Bayes Algorithm.md",
-    "Data Science.md",
     "Redes De Computadoras.md",
     "Investigación en Ingenieria en Software.md"
   ]
