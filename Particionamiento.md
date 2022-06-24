@@ -5,4 +5,4 @@ Es el proceso de tener la [[Base de datos|base de datos]] y separarla para usar 
 	- Campo clave (No necesariamente una [[Primary Key]]): se selecciona la separación basado en un atributo determinado.
 	- Rango: es seleccionar columnas basadas en cantidades de un rango a otro.
 	- Tabla Hash: hacer una función que nos permita transformar los datos en una salida determinada para ver si esta cumple con una condición.
-	- Lista: da una lista de valores de atributos a los cuales se quiere particionar
+	- Lista: da una lista de valores de atributos a los cuales se quiere particionar.
