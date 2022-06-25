@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particionamiento.md",
+            "file": "Numpy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particionamiento.md",
+                "file": "Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Numpy.md",
+    "Data Science.md",
+    "CSV.md",
+    "Read a CSV using Python and Numpy.md",
+    "Vista.md",
     "Particionamiento.md",
     "Sentiment Analysis.md",
-    "Data Science.md",
-    "Vista.md",
     "Quinto Semestre.md",
     "Sistema de Base de Datos Avanzados.md",
-    "Sistema de comunicación.md",
-    "Sistema de información.md",
-    "Pasted image 20220618182650.png",
-    "Naive Bayes Algorithm.md"
+    "Sistema de comunicación.md"
   ]
 }
