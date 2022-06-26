@@ -7,12 +7,8 @@
         "id": "d2d9216d6b5000c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reading and Writing files using os.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading and Writing files using os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +92,14 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
-    "Reading and Writing files using os.md",
-    "Numpy.md",
-    "Ingeniería de Requisitos.md",
     "Data Science.md",
     "CSV.md",
-    "Read a CSV using Python and Numpy.md",
-    "Vista.md",
     "Particionamiento.md",
+    "Numpy.md",
+    "Read a CSV using Python and Numpy.md",
+    "Reading and Writing files using os.md",
+    "Ingeniería de Requisitos.md",
+    "Vista.md",
     "Sentiment Analysis.md",
     "Quinto Semestre.md"
   ]
