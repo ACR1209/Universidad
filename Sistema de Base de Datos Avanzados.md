@@ -24,4 +24,6 @@ Temas:
 	- [[Modelo Dimensional]]
 	- [[Data warehouse]]
 2. Segundo parcial
-	- [[Particionamiento]]
+	- [[Base de datos distribuida]]
+		- [[Particionamiento]]
+	- [[Vista]]
