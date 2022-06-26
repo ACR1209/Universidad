@@ -10,5 +10,3 @@ After that we simply use numpy to get the data into an array with the command *n
 	import numpy as np
 	data = np.genfromtxt('data.txt', delimiter=',', skip_header=1)
 ```
-	
-
