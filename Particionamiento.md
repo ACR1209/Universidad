@@ -6,3 +6,6 @@ Es el proceso de tener la [[Base de datos|base de datos]] y separarla para usar 
 	- Rango: es seleccionar columnas basadas en cantidades de un rango a otro.
 	- Tabla Hash: hacer una función que nos permita transformar los datos en una salida determinada para ver si esta cumple con una condición.
 	- Lista: da una lista de valores de atributos a los cuales se quiere particionar.
+
+
+Difiere de las [[Vista|vistas]] en el particionamiento horizontal ya que esta es lógica. 
