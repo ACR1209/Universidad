@@ -7,7 +7,7 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -92,6 +92,7 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Terminología Redes.md.md",
     "Ingenieria en Software/Ingeniería en Software.md",
     "Ingenieria en Software/Data structures/Data structures.md",
     "Ingenieria en Software/Data structures/Estructuras de datos.md",
@@ -100,7 +101,6 @@
     "Ingenieria en Software/Untitled.md",
     "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Ingeniería de Requisitos.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en Ingenieria en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de Base de Datos Avanzados.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes De Computadoras.md"
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de Base de Datos Avanzados.md"
   ]
 }
