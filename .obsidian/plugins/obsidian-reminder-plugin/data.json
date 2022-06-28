@@ -1,0 +1,46 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Ingenieria en Software/Quinto Semestre/Tareas.md": [
+      {
+        "title": "Hacer la siguiente topología de [[Redes De Computadoras]] en Packet Tracer para tener conexiones entre VLAN",
+        "time": "2022-06-29",
+        "rowNumber": 1
+      },
+      {
+        "title": "4 intervenciones en el foro de [[Redes De Computadoras]]",
+        "time": "2022-07-04",
+        "rowNumber": 3
+      },
+      {
+        "title": "Foro de [[Sistema de Base de Datos Avanzados]]",
+        "time": "2022-07-01",
+        "rowNumber": 4
+      },
+      {
+        "title": "Foro programación del lado cliente en Programación Web Avanzada",
+        "time": "2022-07-08",
+        "rowNumber": 5
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
