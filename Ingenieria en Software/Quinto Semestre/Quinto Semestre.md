@@ -88,3 +88,5 @@
 		- Tipo de requerimientos
 			- [[Requerimiento Funcional]]
 			- [[Requerimiento No Funcional]]
+
+- [[Computación Gráfica]]

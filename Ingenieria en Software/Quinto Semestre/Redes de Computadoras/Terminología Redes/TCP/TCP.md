@@ -1,3 +1,0 @@
-# TCP
-```folder-index-content
-```
