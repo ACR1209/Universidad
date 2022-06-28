@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particionamiento.md",
+            "file": "Reading and Writing files using os.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particionamiento.md",
+                "file": "Reading and Writing files using os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "d2d9216d6b5000c7",
   "lastOpenFiles": [
+    "Reading and Writing files using os.md",
+    "Read a CSV using Python and Numpy.md",
     "Particionamiento.md",
     "Table Space.md",
-    "Read a CSV using Python and Numpy.md",
     "Base de datos distribuida.md",
     "Base de datos.md",
     "Sistema de Base de Datos Avanzados.md",
     "Cardinalidad.md",
     "Vista.md",
-    "Data Science.md",
-    "CSV.md"
+    "Data Science.md"
   ]
 }
