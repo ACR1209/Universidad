@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "692d58dd2f3743d4",
+        "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -90,17 +90,17 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "692d58dd2f3743d4",
+  "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Data structures/Computación Gráfica.md",
-    "Data structures/Read a CSV using Python and Numpy.md",
-    "Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
-    "Quinto Semestre/Redes de Computadoras/Medios de red.md",
-    "Quinto Semestre/Ingenieria De Requerimientos de Software/Obtención de Requerimientos.md",
-    "Quinto Semestre/Sistema de Base de Datos avanzada/Modelo Dimensional.md",
-    "Quinto Semestre/Sistema de Base de Datos avanzada/Displayed.md",
-    "Images/Pasted image 20220618182650.png",
-    "Images/Pasted image 20220626133625.png",
-    "Images/Pasted image 20220627203016.png"
+    "Ingenieria en Software/Ingeniería en Software.md",
+    "Ingenieria en Software/Data structures/Data structures.md",
+    "Ingenieria en Software/Data structures/Estructuras de datos.md",
+    "Ingenieria en Software/Data Science/Data Science.md",
+    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
+    "Ingenieria en Software/Untitled.md",
+    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Ingeniería de Requisitos.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en Ingenieria en Software.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de Base de Datos Avanzados.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes De Computadoras.md"
   ]
 }
