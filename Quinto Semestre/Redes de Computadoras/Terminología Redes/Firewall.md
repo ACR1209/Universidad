@@ -1,0 +1,3 @@
+# Firewall
+## Firewall
+Bloquea el acceso no autorizado, permitiendo unicamente comunicaciones autorizadas. Se trata de un dispositivo o un conjunto de los mismos configurados para permitir, limitar, cifrar, descifrar el tráfico entre los diferentes ámbitos en base a unas reglas.

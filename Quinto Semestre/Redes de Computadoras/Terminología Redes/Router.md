@@ -1,0 +1,3 @@
+# Router
+## Router
+Es un dispositivo que proporciona conectividad a un nivel de la red con distintos prefijos en la dirección IP. Consiste en encaminar paquetes de datos de una red a otra, en otras palabras interconectar subredes.  Trabaja en la capa 3.

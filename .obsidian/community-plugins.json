@@ -4,5 +4,7 @@
   "obsidian-filename-heading-sync",
   "obsidian-dictionary-plugin",
   "obsidian-jupyter",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-folder-index",
+  "obsidian-icon-folder"
 ]

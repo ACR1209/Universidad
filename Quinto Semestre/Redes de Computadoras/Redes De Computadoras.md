@@ -1,0 +1,36 @@
+# Redes De Computadoras
+
+Temas:
+1. Primer Parcial
+	- [[Sistema de comunicación]]
+	- [[Terminología]]
+		- [[Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP|TCP/IP]]
+		- [[DNS]]
+		- [[Centro de datos]]
+		- [[Internet]]
+		- [[Intranet]]
+		- [[Extranet]]
+		- [[Cable Directo y Cruzado]]
+		- [[Topología de redes]]
+		- [[Backbone o enlaces troncales]]
+		- [[Firewall]]
+		- [[AP]]
+		- [[Switch]]
+			- [[Router]]
+		- [[OSI]]
+		- [[Quinto Semestre/Redes de Computadoras/Terminología Redes/IP|IP]]
+		- [[Ethernet]]
+	- [[Elementos de una red]]
+	- [[Medios de red]]
+	- [[Tipos de redes]]
+		- [[WiFi]]
+	- [[Suite de protocolos]]
+	- [[Modelo TCP IP]]
+	- [[Modelo OSI ISO]]
+	- [[Modelo en capas]]
+	- [[Modelos de redes]]
+2. Segundo Parcial
+	- [[Configuración inicial de un switch en Cisco Packet Tracer]]
+	- [[VLAN]]
+		- [[Configurar VLAN en un switch en Cisco Packet Tracer]]
+1. Tercer Parcial

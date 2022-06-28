@@ -1,2 +1,0 @@
-## Centro de datos
-Cuarto con condiciones en las que van a trabajar los equipos que forman parte de una red, dependiendo de como se segmente va a haber varios centros de datos. Operan en la infraestructuras TIC. 

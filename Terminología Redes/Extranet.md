@@ -1,2 +1,0 @@
-## Extranet
-Sale de la intranet como servicio. Usa protocolos de internet, de comunicación y probablementre infraestructura pública de comunicación para compartir de forma segura la información o los procesos.

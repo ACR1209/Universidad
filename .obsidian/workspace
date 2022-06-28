@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d9216d6b5000c7",
+        "id": "692d58dd2f3743d4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reading and Writing files using os.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading and Writing files using os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +90,17 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "d2d9216d6b5000c7",
+  "active": "692d58dd2f3743d4",
   "lastOpenFiles": [
-    "Reading and Writing files using os.md",
-    "Read a CSV using Python and Numpy.md",
-    "Particionamiento.md",
-    "Table Space.md",
-    "Base de datos distribuida.md",
-    "Base de datos.md",
-    "Sistema de Base de Datos Avanzados.md",
-    "Cardinalidad.md",
-    "Vista.md",
-    "Data Science.md"
+    "Data structures/Computación Gráfica.md",
+    "Data structures/Read a CSV using Python and Numpy.md",
+    "Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
+    "Quinto Semestre/Redes de Computadoras/Medios de red.md",
+    "Quinto Semestre/Ingenieria De Requerimientos de Software/Obtención de Requerimientos.md",
+    "Quinto Semestre/Sistema de Base de Datos avanzada/Modelo Dimensional.md",
+    "Quinto Semestre/Sistema de Base de Datos avanzada/Displayed.md",
+    "Images/Pasted image 20220618182650.png",
+    "Images/Pasted image 20220626133625.png",
+    "Images/Pasted image 20220627203016.png"
   ]
 }
