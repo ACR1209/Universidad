@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1a9e1c757c9a79",
+        "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,7 @@
             }
           },
           {
-            "id": "0474c9859d5d5dda",
+            "id": "34bd0f178100bcef",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -96,20 +101,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193,
-    "collapsed": true
+    "width": 193
   },
-  "active": "fe1a9e1c757c9a79",
+  "active": "7345ad581c80046d",
   "lastOpenFiles": [
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración inicial de un switch en Cisco Packet Tracer.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/WiFi.md",
     "Ingenieria en Software/Quinto Semestre/Tareas.md",
-    "Experimento.md",
-    "Estudios empiricos.md",
-    "Encuesta.md",
-    "Estudio de caso.md",
-    "Experimentación en la ingeniería en software.md",
-    "Investigación en Ingenieria en Software.md",
-    "Ingeniería de Requisitos.md",
-    "WiFi.md"
+    "Images/Pasted image 20220628111250.png",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes De Computadoras.md",
+    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
+    "Ingenieria en Software/Quinto Semestre/Computación Gráfica/Computación Gráfica.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Terminología Redes.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/TCP.md.md"
   ]
 }
