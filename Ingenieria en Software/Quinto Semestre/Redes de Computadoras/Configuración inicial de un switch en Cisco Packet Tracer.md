@@ -67,6 +67,4 @@ Al reiniciar el switch tendremos que:
 	Password: 
 	SW-1>enable
 	Password: 
-	SW-1# config t
-	SW-1(config)#
 ```
