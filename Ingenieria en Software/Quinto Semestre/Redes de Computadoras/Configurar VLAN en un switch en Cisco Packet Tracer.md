@@ -1,6 +1,6 @@
 # Configurar VLAN en un switch en Cisco Packet Tracer
 
-Después de haber realizado la [[Configuración inicial de un switch en Cisco Packet Tracer]] vamos a configurar las [[VLAN]] de la siguiente manera. Empezamos creando las VLAN en este caso se va a realizar esta topología de red:
+Después de haber realizado la [[Configuración inicial de un switch en Cisco Packet Tracer]] vamos a configurar las [[VLAN]] de la siguiente manera. Empezamos creando las VLAN en este caso se va a realizar esta topología de red: 
 
 ![[Pasted image 20220627203016.png]]
 
