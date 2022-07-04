@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7345ad581c80046d",
+        "id": "fe1a9e1c757c9a79",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "34bd0f178100bcef",
+            "id": "0474c9859d5d5dda",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 193,
+    "collapsed": true
   },
-  "active": "7345ad581c80046d",
+  "active": "fe1a9e1c757c9a79",
   "lastOpenFiles": [
     "Ingenieria en Software/Quinto Semestre/Tareas.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración inicial de un switch en Cisco Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/WiFi.md",
-    "Images/Pasted image 20220628111250.png",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes De Computadoras.md",
-    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
-    "Ingenieria en Software/Quinto Semestre/Computación Gráfica/Computación Gráfica.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Terminología Redes.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/TCP.md.md"
+    "Experimento.md",
+    "Estudios empiricos.md",
+    "Encuesta.md",
+    "Estudio de caso.md",
+    "Experimentación en la ingeniería en software.md",
+    "Investigación en Ingenieria en Software.md",
+    "Ingeniería de Requisitos.md",
+    "WiFi.md"
   ]
 }
