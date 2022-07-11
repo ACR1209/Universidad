@@ -3,5 +3,5 @@
 		![[Pasted image 20220628111250.png]]
 - [x] 4 intervenciones en el foro de [[Redes De Computadoras]] (@2022-07-04)
 - [x] Foro de [[Sistema de Base de Datos Avanzados]] (@2022-07-01)
-- [ ] Foro programación del lado cliente en Programación Web Avanzada (@2022-07-08)
+- [x] Foro programación del lado cliente en Programación Web Avanzada (@2022-07-08)
 - [x] Tarea de topología de red (múltiples switch y comunicación inter-VLAN) en Packet Tracer (@2022-07-04)

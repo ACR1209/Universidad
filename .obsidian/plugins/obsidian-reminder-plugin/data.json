@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Ingenieria en Software/Quinto Semestre/Tareas.md": [
-      {
-        "title": "Foro programación del lado cliente en Programación Web Avanzada",
-        "time": "2022-07-08",
-        "rowNumber": 5
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
