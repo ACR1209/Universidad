@@ -24,7 +24,7 @@ Hay diferentes tipos de revisiones:
 	
 	Su propósito es encontrar información o datos empiricos de una cantidad minima de fuentes.
 - NSLR (Sin proceso, búsqueda cualesquiera)
-	Es una búsqueda de literatura de cualquier fuente, generalmente no fiable. Esta no es estructurada y no es sistemática; esta basada en la intuición personal. La información esta contenidia en cualquier lugar.
+	Es una búsqueda de literatura de cualquier fuente, generalmente no fiable. Esta no es estructurada y no es sistemática; esta basada en la intuición personal. La información esta contenida en cualquier lugar.
 	 
 	Su propósito es encontrar datos e información de cualquier lugar, puede no ayudar a sintetizar ninguna información.
 ### Digital Databases or Libraries (DDoL)
@@ -42,13 +42,13 @@ Las DDoL más importantes en Ing. en Software:
 - Términos de inclusión y exclusión.
 	Ser explicito con el tipo de información que se va a buscar. 
 - Grupo de control.
-	Da terminos representativos para estructurar la cadena de búsqueda despues de aprobrarse usando los criterios de inclusión y exclusión. 
+	Da términos representativos para estructurar la cadena de búsqueda después de aprobarse usando los criterios de inclusión y exclusión. 
 - Cadena de búsqueda.
-	Revisar cada estudio del grupo de control para encontrar los términos representativos. Usar **OR** para conectar sinonimos (Grupo de palabras similares) y usar **AND** para unir otros términos. Usar solo una base digital, preferiblemente SCOPUS.
+	Revisar cada estudio del grupo de control para encontrar los términos representativos. Usar **OR** para conectar sinónimos (Grupo de palabras similares) y usar **AND** para unir otros términos. Usar solo una base digital, preferiblemente SCOPUS.
 	
-	El objetivo es encontrar un número manejable de estudios, que los titulos sean relacionados al tópico de estudio donde la mayoria de los estudios del grupo de control este contenido. Una vez se obtienen estas tres cosas, los estudios obtenidos son estudios candidatos. 
+	El objetivo es encontrar un número manejable de estudios, que los titulos sean relacionados al tópico de estudio donde la mayoría de los estudios del grupo de control este contenido. Una vez se obtienen estas tres cosas, los estudios obtenidos son estudios candidatos. 
 - Proceso de Selección.
-	Encontrar los estudios mas representativos pero no una gran cantidad de ellos. Generlamente se hace usando Focus Groups, que tan actual son, y cual es su impacto; esto resulta en los estudios primarios.
+	Encontrar los estudios mas representativos pero no una gran cantidad de ellos. Generalmente se hace usando Focus Groups, que tan actual son, y cual es su impacto; esto resulta en los estudios primarios.
 	
 	El primer filtro es aplicado a los estudios candidatos  aplicar los principios de inclusión y exclusión en el titulo, resumen y palabras claves. El resultado son los estudios relevantes.
-- Resultados y sintesis.
+- Resultados y síntesis.
