@@ -1,4 +1,4 @@
-# Base de datos
+u# Base de datos
 Es un conjunto de datos no redundantes; interrelacionados; almacenados en estructuras predefinidas y procesables en forma concurrente por varias aplicaciones a través de integraciones y seguridades.
 
 ## Propiedades
