@@ -19,12 +19,8 @@
         "id": "7463300ebe7aed51",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conflict files.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conflict files.md",
+                "file": "Ingenieria en Software/Data Science/Reading and Writing files using os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +111,10 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "7463300ebe7aed51",
+  "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Conflict files.md",
     "Ingenieria en Software/Data Science/Reading and Writing files using os.md",
+    "Conflict files.md",
     "Ingenieria en Software/Data Science/Read a CSV using Python and Numpy.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
