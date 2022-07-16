@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
 - [ ] Wheelchair ESPE: Add geolocation of user @{2022-07-17}
 - [ ] Wheelchair ESPE: Add "show all markers" button @{2022-07-17}
 - [ ] Wheelchair ESPE: Add navigation function @{2022-07-17}
@@ -20,12 +19,14 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Wheelchair ESPE: Create graph data structure @{2022-07-17}
+- [ ] Wheelchair ESPE: Parse nodes function
 
 
 ## Done
 
 **Complete**
+- [x] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
+- [x] Wheelchair ESPE: Create graph data structure @{2022-07-17}
 
 
 
