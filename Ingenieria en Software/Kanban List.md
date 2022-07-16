@@ -19,12 +19,12 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Wheelchair ESPE: Parse nodes function
 
 
 ## Done
 
 **Complete**
+- [x] Wheelchair ESPE: Parse nodes function
 - [x] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
 - [x] Wheelchair ESPE: Create graph data structure @{2022-07-17}
 
