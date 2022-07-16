@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Wheelchair ESPE: Add geolocation of user @{2022-07-17}
 - [ ] Wheelchair ESPE: Add navigation function @{2022-07-17}
 - [ ] Web Programming: Add manager tree view @{2022-07-18}
 - [ ] Web Programming: Add JSP for person @{2022-07-18}
@@ -23,6 +22,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Wheelchair ESPE: Add geolocation of user @{2022-07-17}
 - [x] Wheelchair ESPE: Parse nodes function
 - [x] Wheelchair ESPE: Add "show all markers" button @{2022-07-17}
 - [x] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
