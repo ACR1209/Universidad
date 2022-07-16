@@ -7,20 +7,10 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Ingenieria en Software/Data Science/Reading and Writing files using os.md",
-            "mode": "source",
-            "source": false
+            "file": "Ingenieria en Software/Kanban List.md"
           }
-        }
-      },
-      {
-        "id": "7463300ebe7aed51",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -77,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Reading and Writing files using os.md",
+                "file": "Ingenieria en Software/Kanban List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +103,15 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
+    "Ingenieria en Software/Kanban List.md",
+    "Ingenieria en Software/To Do.md",
+    "Ingenieria en Software/Ingeniería en Software.md",
+    "Wheelchair ESPE  Make graph data structure.md",
+    "Ingenieria en Software/Data Science/Numpy.md",
     "Ingenieria en Software/Data Science/Reading and Writing files using os.md",
-    "Conflict files.md",
     "Ingenieria en Software/Data Science/Read a CSV using Python and Numpy.md",
+    "Conflict files.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración inicial de un switch en Cisco Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Tareas.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/WiFi.md",
-    "Images/Pasted image 20220628111250.png",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes De Computadoras.md"
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md"
   ]
 }
