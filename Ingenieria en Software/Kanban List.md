@@ -3,11 +3,9 @@
 kanban-plugin: basic
 
 ---
-# Kanban List
 
 ## Todo
 
-- [ ] Web Programming: Add manager tree view @{2022-07-18}
 - [ ] Web Programming: Add JSP for person @{2022-07-18}
 - [ ] Web Programming: Style the project @{2022-07-18}
 - [ ] Web Programming: Add edit and delete functions @{2022-07-18}
@@ -17,6 +15,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] Web Programming: Add manager tree view @{2022-07-18}
 
 
 ## Done
@@ -33,6 +32,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","show-checkboxes":true,"show-add-list":false,"show-archive-all":true}
 ```
 %%
