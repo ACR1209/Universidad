@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Wheelchair ESPE: Add navigation function @{2022-07-17}
 - [ ] Web Programming: Add manager tree view @{2022-07-18}
 - [ ] Web Programming: Add JSP for person @{2022-07-18}
 - [ ] Web Programming: Style the project @{2022-07-18}
