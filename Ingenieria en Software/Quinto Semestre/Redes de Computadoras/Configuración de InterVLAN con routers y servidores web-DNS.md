@@ -1,7 +1,7 @@
 # Configuración de InterVLAN con routers y servidores web-DNS
 
 
-Empezamos subneteando y realizando las conexiones pertinentes en la topología de red.
+Empezamos subneteando y realizando las conexiones pertinentes en la topología de red, así como asignando las IPs a las computadoras, routers y servidores que forman parte de la red.
 
 ![[Pasted image 20220725201944.png]]
 
