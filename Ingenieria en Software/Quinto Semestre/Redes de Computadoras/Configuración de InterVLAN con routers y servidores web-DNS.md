@@ -1,12 +1,28 @@
 # Configuración de InterVLAN con routers y servidores web-DNS
 
+## Preparación de la red
 
 Empezamos subneteando y realizando las conexiones pertinentes en la topología de red, así como asignando las IPs a las computadoras, routers y servidores que forman parte de la red.
 
-![[Pasted image 20220725201944.png]]
+### Subneteo
+|Hosts|IP de subred|Mascara de subred|
+|-|-|-|
+|16000|172.20.0.0 /18|255.255.192.0
+|16000|172.20.64.0 /18|255.255.192.0
+|8000|172.20.128.0 /19|255.255.224.0
+|8000|172.20.160.0 /19|255.255.224.0
+|480|172.20.192.0 /23|255.255.254.0
+|120|172.20.194.0 /25|255.255.255.128
+|32|172.20.194.128 /26|255.255.255.192
 
-Configuramos los Switch y el Router respectivamente:
+### Topología
 
+![[Pasted image 20220725220804.png]]
+
+## Configuración de los dispositivos
+
+
+### Configuración de los Switch
 ### SW-1
 ```
 enable
@@ -52,6 +68,9 @@ interface range fa0/11-20
 switchport mode access
 switchport access vlan 20
 exit
+interface range fa0/21-21
+switchport mode trunk
+exit
 int vlan 10
 ip address 172.20.128.10 255.255.224.0
 no shutdown
@@ -67,6 +86,7 @@ exit
 do wr
 
 ```
+
 ### SW-2
 ```
 enable
@@ -112,6 +132,9 @@ interface range fa0/11-20
 switchport mode access
 switchport access vlan 40
 exit
+interface range fa0/22-22
+switchport mode trunk
+exit
 int vlan 10
 ip address 172.20.128.11 255.255.224.0
 no shutdown
@@ -127,6 +150,7 @@ exit
 do wr
 
 ```
+
 ### SW-3
 ```
 enable
@@ -176,6 +200,9 @@ interface range fa0/16-23
 switchport mode access
 switchport access vlan 60
 exit
+interface range fa0/23-23
+switchport mode trunk
+exit
 int vlan 10
 ip address 172.20.128.12 255.255.224.0
 no shutdown
@@ -191,6 +218,7 @@ exit
 do wr
 
 ```
+
 ### SW-4
 ```
 enable
@@ -229,9 +257,11 @@ vlan 70
 name NAME7
 exit
 interface range fa0/21-23
+switchport trunk encapsulation dot1q
 switchport mode trunk
 exit
 interface range gi0/1
+switchport trunk encapsulation dot1q
 switchport mode trunk
 exit
 int vlan 10
@@ -249,6 +279,8 @@ exit
 do wr
 
 ```
+
+### Configuración del los routers
 ### RT-1
 ```
 enable
@@ -300,7 +332,29 @@ encapsulation dot1q 70
 ip add 172.20.160.1 255.255.224.0
 exit
 do wr
-
 ```
 
 De esta manera ya poseemos comunicación entre las VLAN debido al routing proporcionado por  el router-on-a-stick
+
+![[Pasted image 20220725220950.png]]
+
+
+### Configuración de los servidores DNS y HTTP
+
+Procedemos a configurar el servidor DNS, donde se agregar la dirección IP del servidor web, y de los switch para ssh, como se muestra:
+
+![[Pasted image 20220725221302.png]]
+
+
+En el servidor web solamente configuramos el index de manera que despliegue el nombre de los integrantes del grupo:
+![[Pasted image 20220725221354.png]]
+
+Así podemos comprobar la conexión a la página del servidor web y al ssh de los respectivos switch:
+
+
+## Verificación del funcionamiento
+### WEB
+![[Pasted image 20220725221536.png]]
+
+### SSH y telnet de los switch
+![[Pasted image 20220725221753.png]]
