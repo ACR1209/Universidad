@@ -5,7 +5,7 @@
 Empezamos subneteando y realizando las conexiones pertinentes en la topología de red, así como asignando las IPs a las computadoras, routers y servidores que forman parte de la red.
 
 ### Subneteo
-|Hosts|IP de subred|IP Gateway|Mascara de subred|
+|Hosts|IP de subred|IP Gateway| Mascara de subred|
 |-|-|-|-|
 |16000|172.20.0.0 /18|172.20.0.1|255.255.192.0
 |16000|172.20.64.0 /18|172.20.64.0|255.255.192.0
