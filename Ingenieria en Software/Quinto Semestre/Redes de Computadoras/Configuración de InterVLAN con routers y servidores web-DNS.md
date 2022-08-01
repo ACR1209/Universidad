@@ -16,7 +16,7 @@ Empezamos subneteando y realizando las conexiones pertinentes en la topología d
 |32|172.20.194.128 /26|172.20.194.129|255.255.255.192
 
 ### Topología
-
+vb
 ![[Pasted image 20220725220804.png]]
 
 ## Configuración de los dispositivos
