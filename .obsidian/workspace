@@ -7,12 +7,8 @@
         "id": "8cb9552217b1c7da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +99,10 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "8cb9552217b1c7da",
+  "active": "fcf8cc18c4ae29d5",
   "lastOpenFiles": [
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
     "Conflict files.md",
     "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md",
     "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atributo.md",
