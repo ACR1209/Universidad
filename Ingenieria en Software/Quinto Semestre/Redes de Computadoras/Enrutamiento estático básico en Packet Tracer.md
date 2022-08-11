@@ -31,6 +31,10 @@ Realizaremos la siguiente topología básica que nos permite entender los fundam
 >Se debe agregar a los router (en este caso el 1941) el módulo HWIC-2T para poder utilizar los puertos serial, como se muestra en la imagen de abajo 
 >
 >![[Pasted image 20220811095040.png]]
+>
+>De igual forma, es necesario configurar los computadores con sus respectivos gateway, de la siguiente manera
+>
+>![[Pasted image 20220811111026.png]]
 
 
 Empezaremos realizando la [[#Configuración básica|configuración básica]] de los router donde se conecta el cable serial DCE (es decir en aquellos donde encontramos el reloj), es decir le asignamos las ips a las salidas del router, de la siguiente manera:
@@ -103,3 +107,40 @@ R2(config)#
 A partir de este punto nos encargaremos de realizar el enrutamiento como tal, donde básicamente le estamos diciendo a los paquetes a donde ir, se puede entender como las señales de tránsito que se encuentran en las autopistas que indican a donde se debe ir para llegar a un destino. 
 
 ![[Pasted image 20220811105142.png]]
+
+Ahora configuremos estas "señales de tránsito" en packet tracer:
+
+## R0
+```
+R0(config)#ip route 192.168.1.0 255.255.255.0 se0/0/0
+%Default route without gateway, if not a point-to-point interface, may impact performance
+R0(config)#ip route 10.1.1.4 255.255.255.252 se0/0/0
+%Default route without gateway, if not a point-to-point interface, may impact performance
+R0(config)#ip route 192.168.2.0 255.255.255.0 se0/0/0
+%Default route without gateway, if not a point-to-point interface, may impact performance
+```
+## R1
+```
+R1(config)#ip route 192.168.0.0 255.255.255.0 se0/0/1
+%Default route without gateway, if not a point-to-point interface, may impact performance
+R1(config)#ip route 192.168.2.0 255.255.255.0 se0/1/0
+%Default route without gateway, if not a point-to-point interface, may impact performance
+```
+## R2
+```
+R2(config)#ip route 0.0.0.0 0.0.0.0 se0/1/1
+%Default route without gateway, if not a point-to-point interface, may impact performance
+```
+
+>[!INFO]
+>En el R2 se utilizó el gateway of last resort para redirigir cualquier paquete que se tenga que enviar desde este router a la linea se0/1/1
+
+>[!DANGER]
+>Aún no tengo claro, la razón por la cual se utilizaría una configuración de ruta estática recursiva sobre una ruta estática directamente conectada, a mi parecer esta distinción es arbitraria
+
+De esta forma ya se tiene la capacidad de realizar ping entre todos los computadores de todas las redes, como se puede comprobar: 
+
+![[Pasted image 20220811111350.png]]
+
+Este es el ejemplo más básico de enrutamiento estático que demuestra las virtudes de este, de igual forma se puede comprobar la configuración y la conectividad en el [archivo de Packet Tracer](https://drive.google.com/file/d/1AUVCAkDeLnEhjGviBeF66aoGCY9SdSqn/view?usp=sharing)
+
