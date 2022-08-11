@@ -22,10 +22,12 @@ Router(config)# ip route ip-red-objetivo snm-red-objetivo puerto-acceso
 Router(config)# ip route 192.168.0.0 255.255.255.0 s0/0/0
 ```
 
-
 ## Ejemplo
+Realizaremos la siguiente topología básica que nos permite entender los fundamentos básicos de enrutamiento: 
 
-Realizaremos la siguiente topología básica que nos permite realizar los fundamentos básicos de enrutamiento: 
->[!INFO]
+![[Pasted image 20220811100547.png]]
+
+>[!NOTE]
 >Se debe agregar a los router (en este caso el 1941) el módulo HWIC-2T para poder utilizar los puertos serial, como se muestra en la imagen de abajo 
+>
 >![[Pasted image 20220811095040.png]]
