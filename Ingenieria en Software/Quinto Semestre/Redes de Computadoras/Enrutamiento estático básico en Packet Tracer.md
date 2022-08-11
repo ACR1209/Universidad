@@ -27,7 +27,7 @@ Realizaremos la siguiente topología básica que nos permite entender los fundam
 
 ![[Pasted image 20220811100547.png]]
 
->[!NOTE]
+>[!INFO]- Configuración extra a tomar en cuenta en la topología
 >Se debe agregar a los router (en este caso el 1941) el módulo HWIC-2T para poder utilizar los puertos serial, como se muestra en la imagen de abajo 
 >
 >![[Pasted image 20220811095040.png]]
@@ -132,10 +132,11 @@ R2(config)#ip route 0.0.0.0 0.0.0.0 se0/1/1
 %Default route without gateway, if not a point-to-point interface, may impact performance
 ```
 
->[!INFO]
+>[!INFO] Configuración de R2
 >En el R2 se utilizó el gateway of last resort para redirigir cualquier paquete que se tenga que enviar desde este router R2, a la linea se0/1/1
 
->[!DANGER]
+> [!MISSING]- ¿Cuándo se utiliza una configuración de ruta estática recursiva?
+> 
 >Aún no tengo claro la razón por la cual se utilizaría una configuración de ruta estática recursiva sobre una ruta estática directamente conectada, a mi parecer esta distinción es arbitraria
 
 De esta forma ya se tiene la capacidad de realizar ping entre todos los computadores de todas las redes, como se puede comprobar: 
