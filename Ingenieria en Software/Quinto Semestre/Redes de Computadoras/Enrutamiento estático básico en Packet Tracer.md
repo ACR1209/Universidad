@@ -133,10 +133,10 @@ R2(config)#ip route 0.0.0.0 0.0.0.0 se0/1/1
 ```
 
 >[!INFO]
->En el R2 se utilizó el gateway of last resort para redirigir cualquier paquete que se tenga que enviar desde este router a la linea se0/1/1
+>En el R2 se utilizó el gateway of last resort para redirigir cualquier paquete que se tenga que enviar desde este router R2, a la linea se0/1/1
 
 >[!DANGER]
->Aún no tengo claro, la razón por la cual se utilizaría una configuración de ruta estática recursiva sobre una ruta estática directamente conectada, a mi parecer esta distinción es arbitraria
+>Aún no tengo claro la razón por la cual se utilizaría una configuración de ruta estática recursiva sobre una ruta estática directamente conectada, a mi parecer esta distinción es arbitraria
 
 De esta forma ya se tiene la capacidad de realizar ping entre todos los computadores de todas las redes, como se puede comprobar: 
 
