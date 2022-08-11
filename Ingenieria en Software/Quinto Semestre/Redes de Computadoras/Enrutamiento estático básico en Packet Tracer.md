@@ -31,3 +31,75 @@ Realizaremos la siguiente topología básica que nos permite entender los fundam
 >Se debe agregar a los router (en este caso el 1941) el módulo HWIC-2T para poder utilizar los puertos serial, como se muestra en la imagen de abajo 
 >
 >![[Pasted image 20220811095040.png]]
+
+
+Empezaremos realizando la [[#Configuración básica|configuración básica]] de los router donde se conecta el cable serial DCE (es decir en aquellos donde encontramos el reloj), es decir le asignamos las ips a las salidas del router, de la siguiente manera:
+
+## Router0 (R0)
+```
+Router>enable
+Router#config t
+Router(config)#hostname R0
+R0(config)#int se0/0/0
+R0(config-if)#ip add 10.1.1.1 255.255.255.252
+R0(config-if)#clock rate 128000
+R0(config-if)#no shut
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to down
+R0(config-if)#exit
+R0(config)#int gig0/1
+R0(config-if)#ip add 192.168.0.1 255.255.255.0
+R0(config-if)#no shut
+R0(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/1, changed state to up
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+```
+
+## Router1 (R1) 
+```
+Router>enable
+Router#config t
+Router(config)#hostname R1
+R1(config)#int se0/1/0
+R1(config-if)#ip add 10.1.1.5 255.255.255.252
+R1(config-if)#clock rate 128000
+R1(config-if)#no shut
+%LINK-5-CHANGED: Interface Serial0/1/0, changed state to down
+R1(config-if)#exit
+R1(config)#int se0/0/1
+R1(config-if)#ip add 10.1.1.2 255.255.255.252
+R1(config-if)#no shut
+%LINK-5-CHANGED: Interface Serial0/0/1, changed state to up
+R1(config-if)#exit
+R1(config)#int gig0/1
+R1(config-if)#ip add 192.168.1.1 255.255.255.0
+R1(config-if)#no shut
+R1(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/1, changed state to up
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+```
+
+## Router2 (R2)
+```
+Router>enable
+Router#config t
+Router(config)#hostname R2
+R2(config)#int gi0/1
+R2(config-if)#ip add 192.168.2.1 255.255.255.0
+R2(config-if)#no shut
+R2(config-if)#
+%LINK-5-CHANGED: Interface GigabitEthernet0/1, changed state to up
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/1, changed state to up
+R2(config-if)#exit
+R2(config)#int se0/1/1
+R2(config-if)#ip add 10.1.1.6 255.255.255.252
+R2(config-if)#no shut 
+R2(config-if)#
+%LINK-5-CHANGED: Interface Serial0/1/1, changed state to up
+R2(config-if)#exit
+R2(config)#
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/1/1, changed state to up
+```
+
+A partir de este punto nos encargaremos de realizar el enrutamiento como tal, donde básicamente le estamos diciendo a los paquetes a donde ir, se puede entender como las señales de tránsito que se encuentran en las autopistas que indican a donde se debe ir para llegar a un destino. 
+
+![[Pasted image 20220811105142.png]]
