@@ -2,8 +2,6 @@
 
 This is a non fiction book. It explains how to build products that focus on creating and maintaining habits. It's heavily based on the [[Hook Model]] (Trigger, Action, Variable Reward, Investment) to describe a guideline to make a habit forming product. 
 
-
-
 According to the author we should ask the following questions to build effective hooks:
 
 >1. What do users really want? What pain is your product relieving? (Internal trigger) 
