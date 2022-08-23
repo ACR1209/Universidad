@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7345ad581c80046d",
+        "id": "8cb9552217b1c7da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
+            "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 428
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "34bd0f178100bcef",
+            "id": "0474c9859d5d5dda",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 193,
+    "collapsed": true
   },
-  "active": "7345ad581c80046d",
+  "active": "8cb9552217b1c7da",
   "lastOpenFiles": [
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-    "Books/Hooked - Nir Eyal.md",
-    "Books/Ego Is The Enemy - Ryan Holiday.md",
-    "Books/The Yellow Wallpaper - Charlotte Perkins.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
-    "Books/Concepts/Hook Model.md",
-    "Books/Moonwalking With Einstein - Joshua Foer.md",
-    "Ingenieria en Software/Ingeniería en Software.md",
-    "Untitled.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md"
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/TOAD.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
+    "Conflict files.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atributo.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/DNS.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md"
   ]
 }
