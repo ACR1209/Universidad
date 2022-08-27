@@ -9,19 +9,19 @@ kanban-plugin: basic
 - [ ] Diseño: hidrolipoclasia-lipopapada
 - [ ] Diseño: belleza y peluquería
 - [ ] Diseño: podología cosmiátrica
-- [ ] Diseño: dermatocosmiatría
-- [ ] Diseño: enfermería en estetica
 - [ ] Diseño: Publicidad del sur
 
 
 ## Doing
 
-- [ ] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
+- [ ] Diseño: dermatocosmiatría
 
 
 ## Done
 
 **Complete**
+- [x] Diseño: enfermería en estetica
+- [x] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
 
 
 ***
