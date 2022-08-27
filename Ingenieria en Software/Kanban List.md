@@ -12,11 +12,11 @@ kanban-plugin: basic
 - [ ] Diseño: dermatocosmiatría
 - [ ] Diseño: enfermería en estetica
 - [ ] Diseño: Publicidad del sur
-- [ ] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
 
 
 ## Doing
 
+- [ ] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
 
 
 ## Done
