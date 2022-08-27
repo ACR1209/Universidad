@@ -7,11 +7,9 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-            "mode": "source",
-            "source": false
+            "file": "Ingenieria en Software/Kanban List.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
+                "file": "Ingenieria en Software/Kanban List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +99,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 193,
+    "collapsed": true
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
     "Books/Hooked - Nir Eyal.md",
     "Books/Ego Is The Enemy - Ryan Holiday.md",
     "Books/The Yellow Wallpaper - Charlotte Perkins.md",

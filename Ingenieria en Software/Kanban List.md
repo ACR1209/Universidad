@@ -3,12 +3,16 @@
 kanban-plugin: basic
 
 ---
-# Kanban List
 
 ## Todo
 
-- [ ] Requirements Engineering: Make views and code class @{2022-07-18}
-- [ ] Computer Networks: Project @{2022-07-18}
+- [ ] Diseño: hidrolipoclasia-lipopapada
+- [ ] Diseño: belleza y peluquería
+- [ ] Diseño: podología cosmiátrica
+- [ ] Diseño: dermatocosmiatría
+- [ ] Diseño: enfermería en estetica
+- [ ] Diseño: Publicidad del sur
+- [ ] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
 
 
 ## Doing
@@ -18,6 +22,12 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] Wheelchair ESPE: Add geolocation of user @{2022-07-17}
 - [x] Web Programming: Style the project @{2022-07-18}
 - [x] Web Programming: Add JSP for person @{2022-07-18}
@@ -28,11 +38,8 @@ kanban-plugin: basic
 - [x] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
 - [x] Wheelchair ESPE: Create graph data structure @{2022-07-17}
 
-
-
-
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"show-add-list":false,"show-archive-all":true}
+{"kanban-plugin":"basic","show-checkboxes":true,"show-add-list":true,"show-archive-all":true}
 ```
 %%
