@@ -3,17 +3,12 @@
 kanban-plugin: basic
 
 ---
-# Todo
-
-## Todo
-
-- [ ] Diseño: Publicidad del sur
-- [ ] Diseño: podología cosmiátrica
-
 
 ## Todo
 
 - [ ] Diseño: APRRENDE POWER POINT EXCEL Y WOR
+- [ ] Diseño: podología cosmiátrica
+- [ ] Diseño: Publicidad del sur
 
 
 ## Doing
