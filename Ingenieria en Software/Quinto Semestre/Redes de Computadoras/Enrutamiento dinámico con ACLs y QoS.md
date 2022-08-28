@@ -451,7 +451,7 @@ SW-2(config)#do wr
 
 ```
 
-Ahora se configurará las ACL en los routers RT-0 y RT-1 de tal forma que el RT-0 no permita realizar ping a la VLAN 30 desde cualquier red y que el RT-1 no permita conectarse al servidor web desde la LAN
+Ahora se configurará las ACL en los routers RT-0 y RT-1 de tal forma que el RT-0 no permita realizar ping a la VLAN 30 desde cualquier red y que el RT-1 no permita conectarse al servidor web desde la vlan 40
 
 ### RT-0
 ```
