@@ -3,18 +3,17 @@
 kanban-plugin: basic
 
 ---
-# Kanban List
 
 ## Todo
 
-- [ ] Diseño: belleza y peluquería
 - [ ] Diseño: podología cosmiátrica
 - [ ] Diseño: Publicidad del sur
+- [ ] Diseño: APRRENDE POWER POINT EXCEL Y WOR
 
 
 ## Doing
 
-- [ ] Diseño: hidrolipoclasia-lipopapada
+- [ ] Diseño: belleza y peluquería
 
 
 ## Done
@@ -22,6 +21,7 @@ kanban-plugin: basic
 **Complete**
 - [x] Diseño: enfermería en estetica
 - [x] Diseño: dermatocosmiatría
+- [x] Diseño: hidrolipoclasia-lipopapada
 - [x] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
 
 
