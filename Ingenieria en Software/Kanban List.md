@@ -3,6 +3,7 @@
 kanban-plugin: basic
 
 ---
+# Kanban List
 
 ## Todo
 
