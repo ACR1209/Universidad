@@ -451,3 +451,39 @@ SW-2(config)#do wr
 
 ```
 
+Ahora se configurará las ACL en los routers RT-0 y RT-1 de tal forma que el RT-0 no permita realizar ping a la VLAN 30 desde cualquier red y que el RT-1 no permita conectarse al servidor web desde la LAN
+
+### RT-0
+```
+RT-0(config)#ip access-list extended blockPingAny
+RT-0(config-ext-nacl)#deny icmp any 172.20.12.0 0.0.1.255 echo 
+RT-0(config-ext-nacl)#permit ip any any
+RT-0(config-ext-nacl)#exit
+RT-0(config)#int se0/0/1
+RT-0(config-if)#ip access-group blockPingAny in
+RT-0(config-if)#exit
+RT-0(config)#int se0/0/0
+RT-0(config-if)#ip access-group blockPingAny in
+RT-0(config-if)#exit
+RT-0(config)#int gig0/1.40
+RT-0(config-subif)#ip access-group blockPingAny in
+RT-0(config-subif)#exit
+RT-0(config)#do wr
+```
+
+### RT-1
+```
+RT-1(config)#ip access-list extended test
+RT-1(config-ext-nacl)#deny tcp 172.20.14.0 0.0.0.63 172.20.14.67 0.0.0.3 eq www
+RT-1(config-ext-nacl)#permit ip any any
+RT-1(config-ext-nacl)#exit
+RT-1(config)#int se0/0/1
+RT-1(config-if)#ip access-group test in
+RT-1(config-if)#exit
+RT-1(config)#int se0/0/0
+RT-1(config-if)#ip access-group test in
+RT-1(config-if)#exit
+RT-1(config)#int gig0/1
+RT-1(config-if)#ip access-group test in
+RT-1(config-if)#exit
+```
