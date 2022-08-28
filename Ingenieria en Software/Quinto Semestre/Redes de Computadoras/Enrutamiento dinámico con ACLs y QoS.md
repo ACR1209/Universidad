@@ -487,3 +487,11 @@ RT-1(config)#int gig0/1
 RT-1(config-if)#ip access-group test in
 RT-1(config-if)#exit
 ```
+
+
+Ahora se configurará el QoS en los routers RT-4 y RT-5 donde en RT-4 se tendra a siguiente prioridad en orden OSPF, Web, ICMP; en el RT-5 se trendrá la siguiente prioridad en orden: OSPF, Ping, Web:
+
+### RT-4
+```
+
+```
