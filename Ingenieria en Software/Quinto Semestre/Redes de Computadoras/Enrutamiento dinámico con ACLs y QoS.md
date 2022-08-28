@@ -489,9 +489,65 @@ RT-1(config-if)#exit
 ```
 
 
-Ahora se configurará el QoS en los routers RT-4 y RT-5 donde en RT-4 se tendra a siguiente prioridad en orden OSPF, Web, ICMP; en el RT-5 se trendrá la siguiente prioridad en orden: OSPF, Ping, Web:
+Ahora se configurará el QoS en los routers RT-4 y RT-5 donde en RT-4 se tendrá a siguiente prioridad en orden OSPF, Web, ICMP; en el RT-5 se tendrá la siguiente prioridad en orden: OSPF, Ping, Web:
 
 ### RT-4
 ```
-
+RT-4(config)#class-map match-all critical
+RT-4(config-cmap)#match protocol ospf 
+RT-4(config-cmap)#exit
+RT-4(config)#class-map match-all medium
+RT-4(config-cmap)#match protocol http 
+RT-4(config-cmap)#exit
+RT-4(config)#class-map match-all low
+RT-4(config-cmap)#match protocol icmp 
+RT-4(config-cmap)#exit
+RT-4(config)#policy-map markingpolicy
+RT-4(config-pmap)#class critical
+RT-4(config-pmap-c)#set precedence 5
+RT-4(config-pmap-c)#exit
+RT-4(config-pmap)#class medium
+RT-4(config-pmap-c)#set precedence 3
+RT-4(config-pmap-c)#class low
+RT-4(config-pmap-c)#set precedence 1
+RT-4(config-pmap-c)#exit
+RT-4(config-pmap)#exit
+RT-4(config)#int se0/0/0
+RT-4(config-if)#service-policy output markingpolicy
+RT-4(config-if)#exit
+RT-4(config)#do wr
 ```
+
+Podemos comprobar el funcionamiento haciendo tráfico con los protocolos respectivos y veremos que suben los paquetes marcados
+
+![[Pasted image 20220828181154.png]]
+### RT-5
+```
+RT-5(config)#class-map match-all critical
+RT-5(config-cmap)#match protocol ospf
+RT-5(config-cmap)#exit
+RT-5(config)#class-map match-all medium
+RT-5(config-cmap)#match protocol icmp
+RT-5(config-cmap)#exit
+RT-5(config)#class-map match-all low
+RT-5(config-cmap)#match protocol http
+RT-5(config-cmap)#exit
+RT-5(config)#polic
+RT-5(config)#policy-map markingpolicy
+RT-5(config-pmap)#class critical
+RT-5(config-pmap-c)#set precedence 7
+RT-5(config-pmap-c)#exit
+RT-5(config-pmap)#class medium
+RT-5(config-pmap-c)#set precedence 5
+RT-5(config-pmap-c)#exit
+RT-5(config-pmap)#class low
+RT-5(config-pmap-c)#set precedence 3
+RT-5(config-pmap-c)#exit
+RT-5(config-pmap)#exit
+RT-5(config)#int se0/0/0
+RT-5(config-if)#service
+RT-5(config-if)#service-policy output markingpolicy
+RT-5(config-if)#exit
+RT-5(config)#do wr
+```
+
