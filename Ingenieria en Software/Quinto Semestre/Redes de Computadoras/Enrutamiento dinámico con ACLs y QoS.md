@@ -1,4 +1,7 @@
 # Enrutamiento dinámico con ACLs y QoS
+Autores: Andrés Coronel, Ismael Cedillo y Santiago Risueño
+Curso: Redes de computadoras
+NRC: 5122
 
 ## Preparación de la red
 
