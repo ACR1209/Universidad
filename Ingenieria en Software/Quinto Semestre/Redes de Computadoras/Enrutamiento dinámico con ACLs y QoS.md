@@ -4,6 +4,8 @@
 
 ### Subneteo
 
+![[Pasted image 20220828185149.png]]
+
 ### Topología
 Se va a realizar la topología propuesta utilizando las redes obtenidas luego de subnetear para los hosts solicitados
 
@@ -488,6 +490,17 @@ RT-1(config-if)#ip access-group test in
 RT-1(config-if)#exit
 ```
 
+Esto se comprueba ya que podemos hacer ping desde la VLAN de admin a cualquier otra red mas no viceversa:
+
+![[Pasted image 20220828185319.png]]
+
+Y al tratar de conectarnos desde la VLAN 40 al servidor web nos dice que la solicitud no funciono:
+
+![[Pasted image 20220828185435.png]]
+
+Mas si tratamos de hacer lo mismo en cualquier otra PC si podemos obtener la página web:
+
+![[Pasted image 20220828185522.png]]
 
 Ahora se configurará el QoS en los routers RT-4 y RT-5 donde en RT-4 se tendrá a siguiente prioridad en orden OSPF, Web, ICMP; en el RT-5 se tendrá la siguiente prioridad en orden: OSPF, Ping, Web:
 
@@ -518,9 +531,7 @@ RT-4(config-if)#exit
 RT-4(config)#do wr
 ```
 
-Podemos comprobar el funcionamiento haciendo tráfico con los protocolos respectivos y veremos que suben los paquetes marcados
 
-![[Pasted image 20220828181154.png]]
 ### RT-5
 ```
 RT-5(config)#class-map match-all critical
@@ -551,3 +562,6 @@ RT-5(config-if)#exit
 RT-5(config)#do wr
 ```
 
+Podemos comprobar el funcionamiento haciendo tráfico con los protocolos respectivos y veremos que suben los paquetes marcados
+
+![[Pasted image 20220828181154.png]]
