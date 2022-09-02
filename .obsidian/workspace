@@ -7,12 +7,8 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +101,15 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/584. Find Customer Referee.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/1757. Recyclable and Low Fat Products.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/595. Big Countries.md",
     "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "Ingenieria en Software/Algorithms/Algorithms.md",
     "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/51. N-Queens.md"
   ]
 }
