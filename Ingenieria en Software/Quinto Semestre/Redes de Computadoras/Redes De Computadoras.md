@@ -33,4 +33,8 @@ Temas:
 	- [[Configuración inicial de un switch en Cisco Packet Tracer]]
 	- [[VLAN]]
 		- [[Configurar VLAN en un switch en Cisco Packet Tracer]]
-1. Tercer Parcial
+3. Tercer Parcial
+	- [[Configuración de OSPF en Packet Tracer]]
+	- [[Enrutamiento dinámico con ACLs y QoS]]
+	- [[Configuración de InterVLAN con routers y servidores web-DNS]]
+	- [[Enrutamiento estático básico en Packet Tracer]]

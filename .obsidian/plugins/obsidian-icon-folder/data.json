@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiBookLine",
-      "RiBarChart2Fill",
-      "FabResearchgate",
+      "FarFileLines",
+      "RiBookFill",
       "RiDatabaseFill",
-      "RiBookFill"
+      "FabResearchgate",
+      "RiBarChart2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,6 @@
   "Ingenieria en Software/Data Science": "RiBarChart2Fill",
   "Ingenieria en Software/Data structures": "RiTerminalBoxLine",
   "Ingenieria en Software": "RiCodeBoxLine",
-  "Books": "RiBookLine"
+  "Books": "RiBookLine",
+  "Ingenieria en Software/Algorithms": "FarFileLines"
 }

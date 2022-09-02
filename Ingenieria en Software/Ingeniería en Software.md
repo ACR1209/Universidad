@@ -15,5 +15,6 @@
 		- [[Implementación de la lista doblemente enlazada]]
 		- [[Implementación de la lista enlazada circular]]
 - [[Quinto Semestre]]
+- [[Algorithms]]
 
 
