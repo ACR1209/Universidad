@@ -24,8 +24,44 @@ else
 
 ### Implementation in Python
 ```jupyter
-def place_queens(q, r):
-	if r == 
+from typing import List
+
+class Solution:
+	def solve_N_queens(self, n: int) -> List[List[str]]:
+		col = set()
+		posDiagonal = set() #(r + c)
+		negDiagonal = set() #(r - c)
+		res = []
+		board = [['.'] * n for i in range(n)]
+		def backtrack(r):
+			if r == n:
+				copy = [''.join(row) for row in board ]
+				
+				res.append(copy)
+				return
+			for c in range(n):
+				if c in col or (r + c) in posDiagonal or (r - c) in negDiagonal:
+					continue
+				col.add(c)
+				posDiagonal.add(r + c)
+				negDiagonal.add(r - c)
+				board[r][c] = "Q"
+				backtrack(r + 1)
+				col.remove(c)
+				posDiagonal.remove(r + c)
+				negDiagonal.remove(r - c)
+				board[r][c] = "."
+		backtrack(0)
+		return res
+
+  
+
+solve = Solution()
+
+  
+
+print(solve.solve_N_queens(4))
+
 ```
 
 
