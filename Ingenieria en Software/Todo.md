@@ -15,6 +15,12 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] Diseño: enfermería en estetica
 - [x] Diseño: podología cosmiátrica
 - [x] Diseño: dermatocosmiatría
@@ -23,12 +29,6 @@ kanban-plugin: basic
 - [x] Diseño: hidrolipoclasia-lipopapada
 - [x] Diseño: belleza y peluquería
 - [x] Diseño: certificados para el curso de quiropraxia, masajes terapéuticos, tanatopraxia, instrumentación quirúrgica, visitar medico y farmacia y pelu canina
-
-
-***
-
-## Archive
-
 - [x] Wheelchair ESPE: Add geolocation of user @{2022-07-17}
 - [x] Web Programming: Style the project @{2022-07-18}
 - [x] Web Programming: Add JSP for person @{2022-07-18}

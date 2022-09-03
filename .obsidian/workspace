@@ -7,12 +7,8 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +101,15 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
-    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
-    "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
-    "Ingenieria en Software/Data Science/Naive Bayes Algorithm.md",
-    "Ingenieria en Software/Data Science/Read a CSV using Python and Numpy.md",
-    "Ingenieria en Software/Data Science/Data Science.md",
+    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Validación de los requerimientos.md",
+    "Ingenieria en Software/Ingeniería en Software.md",
+    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
+    "Ingenieria en Software/Todo.md",
+    "Ingenieria en Software/Quinto Semestre/Tareas.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md"
+    "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md"
   ]
 }
