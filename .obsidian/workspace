@@ -7,8 +7,12 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Books/48 Laws Of Power.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/48 Laws Of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
-    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Validación de los requerimientos.md",
-    "Ingenieria en Software/Ingeniería en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
-    "Ingenieria en Software/Todo.md",
-    "Ingenieria en Software/Quinto Semestre/Tareas.md",
+    "Books/Concepts/Law 1.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
+    "Books/48 Laws Of Power.md",
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md"
+    "Books/Concepts/Hook Model.md",
+    "Books/Moonwalking With Einstein - Joshua Foer.md",
+    "Books/Hooked - Nir Eyal.md",
+    "Books/Ego Is The Enemy - Ryan Holiday.md"
   ]
 }
