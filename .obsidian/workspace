@@ -7,8 +7,12 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ingenieria en Software/Algorithms/LeetCode Problems/429. N-ary Tree Level Order Traversal.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Algorithms/LeetCode Problems/429. N-ary Tree Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +104,17 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "fcf8cc18c4ae29d5",
+  "active": "7345ad581c80046d",
   "lastOpenFiles": [
+    "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/429. N-ary Tree Level Order Traversal.md",
+    "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
     "Books/Concepts/Law 1.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
     "Books/48 Laws Of Power.md",
     "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
     "Books/Concepts/Hook Model.md",
-    "Books/Moonwalking With Einstein - Joshua Foer.md",
-    "Books/Hooked - Nir Eyal.md",
-    "Books/Ego Is The Enemy - Ryan Holiday.md"
+    "Books/Moonwalking With Einstein - Joshua Foer.md"
   ]
 }
