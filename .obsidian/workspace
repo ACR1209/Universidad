@@ -7,12 +7,8 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Books/48 Laws Of Power.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/48 Laws Of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "7345ad581c80046d",
+  "active": "fcf8cc18c4ae29d5",
   "lastOpenFiles": [
     "Books/Concepts/Law 1.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
