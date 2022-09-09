@@ -6,22 +6,22 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Diseño: Descuento forense
-- [ ] Diseño: Descuento forense GYQ
-- [ ] Diseño: Descuento vet
-- [ ] Diseño: Descuento vet GYQ
-- [ ] Diseño: Descuento Quiropraxia
-- [ ] Diseño: Descuento Quiropraxia GYQ
 - [ ] Diseño: oferta laboral
 
 
 ## Doing
 
+- [ ] Diseño: Descuento vet
+- [ ] Diseño: Descuento vet GYQ
 
 
 ## Done
 
 **Complete**
+- [x] Diseño: Descuento forense GYQ
+- [x] Diseño: Descuento Quiropraxia
+- [x] Diseño: Descuento Quiropraxia GYQ
+- [x] Diseño: Descuento forense
 
 
 ***
