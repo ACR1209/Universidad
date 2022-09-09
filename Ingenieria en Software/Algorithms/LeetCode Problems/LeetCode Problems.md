@@ -10,4 +10,5 @@
 - [[637. Average of Levels in Binary Tree]]
 - [[967. Numbers With Same Consecutive Differences]]
 - [[1757. Recyclable and Low Fat Products]]
+- [[1996. The Number of Weak Characters in the Game]]
 - [[2150. Find All Lonely Numbers in the Array]]
