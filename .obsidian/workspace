@@ -7,8 +7,10 @@
         "id": "7345ad581c80046d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Ingenieria en Software/Todo.md"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
