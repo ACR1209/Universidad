@@ -7,6 +7,7 @@
 - [[429. N-ary Tree Level Order Traversal]]
 - [[584. Find Customer Referee]]
 - [[595. Big Countries]]
+- [[606. Construct String from Binary Tree]]
 - [[637. Average of Levels in Binary Tree]]
 - [[967. Numbers With Same Consecutive Differences]]
 - [[1757. Recyclable and Low Fat Products]]
