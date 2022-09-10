@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria en Software/Godot/Sexo.md",
+            "file": "Ingenieria en Software/Godot/Godot.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Godot/Sexo.md",
+                "file": "Ingenieria en Software/Godot/Godot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "7345ad581c80046d",
   "lastOpenFiles": [
+    "Ingenieria en Software/Godot/Sexo.md",
     "Ingenieria en Software/Godot/Godot.md",
     "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
@@ -114,7 +115,6 @@
     "Ingenieria en Software/Algorithms/LeetCode Problems/606. Construct String from Binary Tree.md",
     "Ingenieria en Software/Algorithms/LeetCode Problems/1996. The Number of Weak Characters in the Game.md",
     "Untitled.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
-    "Ingenieria en Software/Algorithms/LeetCode Problems/94. Binary Tree Inorder Traversal.md"
+    "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md"
   ]
 }
