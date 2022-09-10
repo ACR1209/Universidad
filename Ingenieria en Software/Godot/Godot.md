@@ -1,2 +1,2 @@
 # Godot
-sexo
+se
