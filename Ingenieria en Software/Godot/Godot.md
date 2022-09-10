@@ -1,2 +1,2 @@
 # Godot
-holi uwu
+- [[Nodes]]
