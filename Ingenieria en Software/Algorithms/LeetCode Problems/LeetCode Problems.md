@@ -11,9 +11,9 @@
 - [[606. Construct String from Binary Tree]]
 - [[637. Average of Levels in Binary Tree]]
 - [[967. Numbers With Same Consecutive Differences]]
+- [[1457. Pseudo-Palindromic Paths in a Binary Tree]]
 - [[1757. Recyclable and Low Fat Products]]
 - [[1996. The Number of Weak Characters in the Game]]
 - [[2150. Find All Lonely Numbers in the Array]]
-- [[Untitled]]
 
 %% End Waypoint %%
