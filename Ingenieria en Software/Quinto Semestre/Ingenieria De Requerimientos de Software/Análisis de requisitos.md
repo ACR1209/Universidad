@@ -3,6 +3,6 @@
 
 \- RAE, 2014
 
-Es parte del subproceso de aseguramiento de calidad de la [[Ingeniería de Requisitos]].
+Es parte del subproceso de aseguramiento de calidad de la [[Ingenieria De Requerimientos de Software]].
 
 Su objetivo principal es detectar conflictos en los requisitos obtenidos, normalmente mediante técnicas de modelado conceptual y de prototipado de interfaz de usuario. Los modelos generados también son una importante herramienta de comunicación con los diseñadores y programadores.

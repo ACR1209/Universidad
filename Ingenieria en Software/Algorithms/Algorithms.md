@@ -1,3 +1,5 @@
 # Algorithms
-- [[Backtracking]]
-- [[LeetCode Problems]]
+%% Begin Waypoint %%
+- **[[Backtracking]]**
+- **[[LeetCode Problems]]**
+%% End Waypoint %%

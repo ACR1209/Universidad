@@ -1,7 +1,7 @@
 # Requerimiento Funcional
 Es un [[Requisito|requisito]] que define las funciones del sistema que se va a desarrollar en el especifico. Los requisitos funcionales pueden ser: cálculos, detalles técnicos, manipulación de datos y otras funcionalidades específicas que se supone, un sistema debe cumplir. Los requisitos de comportamiento para cada requisito funcional se muestran en los casos de uso. Son complementados por los [[Requerimiento No Funcional|requisitos no funcionales]].
 
-Como se define en la [[Ingeniería de Requisitos|ingeniería de requisitos]], los requisitos funcionales establecen los comportamientos del software.
+Como se define en la [[Ingenieria De Requerimientos de Software|ingeniería de requisitos]], los requisitos funcionales establecen los comportamientos del software.
 
 Dependen del tipo de software que este en las expectativas del usuario y del tipo de sistema en el que se utilizará el software.
 

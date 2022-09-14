@@ -1,4 +1,4 @@
-# Ingeniería de Requisitos
+# Ingenieria De Requerimientos de Software
 Es la parte de la ingeniería en software en la que se aborda el problema de la definición de los servicios que el sistema ha de proporcionar y establecer las restricciones operativas del mismo. 
 
 >Un proceso sistemático de desarrollo de [[Requisito|requisitos]] mediante un proceso cooperativo consistente en analizar el problema, documentar las observaciones resultantes en una variedad de formatos de representación y comprobar la exactitud de la comprensión conseguida. 
@@ -18,14 +18,14 @@ Este se unen y se utilizan como se identifica en el siguiente diagrama:
 
 
 Temas:
-1. Primer Parcial:
-	- [[Requisito]]
-	- [[Requerimiento]]
-	- [[#Proceso de la Ingeniería de Requisitos]]
-		- [[Obtención de Requerimientos]]
-		- [[Análisis de requisitos]]
-		- [[Especificación de los requerimientos]]
-		- [[Validación de los requerimientos]]}
-	- Tipo de requerimientos
-		- [[Requerimiento Funcional]]
-		- [[Requerimiento No Funcional]]
+%% Begin Waypoint %%
+- [[Análisis de requisitos]]
+- [[Especificación de los requerimientos]]
+- [[Obtención de Requerimientos]]
+- [[Requerimiento Funcional]]
+- [[Requerimiento No Funcional]]
+- [[Requerimiento]]
+- [[Requisito]]
+- [[Validación de los requerimientos]]
+
+%% End Waypoint %%
