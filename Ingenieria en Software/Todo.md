@@ -15,6 +15,26 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] Diseño:  Certificados de<br>1.- Taller de inyectología y sueroterapia<br>2.- Taller de inyectología facial, corporal y capilar<br>3.- Curso de Auxiliar Veterinario<br>4.- Curso de Auxiliar Judicial<br>5.- Curso de Especialista Nutrición Ortomolecular<br>6.- Curso de Especialista del Trastorno Autista
+- [x] Diseño: auxiliar en laboratorio clinico y enfermería
+- [x] Diseño: Taller tratamientos capilares estéticos, camara
+- [x] Diseño: modulo especial yoga facial
+- [x] Diseño: especialista en tanatopraxia sur
+- [x] Diseño: especialista en cosmetología facial sur
+- [x] Diseño: especialista en masajes terapeuticon sur
+- [x] Diseño: curso de barberia sur
+- [x] Diseño: APRENDE GUITARRA
+- [x] Diseño: Corte y confección profesional, camara
+- [x] Diseño: TALLER DE LECTURA DE CARTAS PARA CONOCER EL FUTURO 100% ONLINE
+- [x] Diseño: auxiliar en veterinaria sur
+- [x] Diseño: curso de peluqueria canina sur
+- [x] Diseño: cursos de inaguracion praxis sur/ promocion especial ( especialista en tanatopraxia, curso de peluqueria canina, especialista en cosmetología facial, auxiliar en veterinaria, curso de barberia)
 - [x] Diseño: oferta laboral
 - [x] Diseño: Descuento vet GYQ
 - [x] Diseño: Descuento vet
@@ -22,12 +42,6 @@ kanban-plugin: basic
 - [x] Diseño: Descuento Quiropraxia
 - [x] Diseño: Descuento Quiropraxia GYQ
 - [x] Diseño: Descuento forense
-
-
-***
-
-## Archive
-
 - [x] Diseño: enfermería en estetica
 - [x] Diseño: podología cosmiátrica
 - [x] Diseño: dermatocosmiatría
