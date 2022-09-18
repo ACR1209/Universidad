@@ -8,6 +8,7 @@
 		- [[Moonwalking With Einstein - Joshua Foer]]
 		- [[The Yellow Wallpaper - Charlotte Perkins]]
 	- **September 2022**
+		- [[The Last Question - Isaac Asimov]]
 		- [[Your Brain Is Playing Trick On You - Albert Moukheiber]]
 - **Concepts**
 	- [[Dunning-Kruger Effect]]
