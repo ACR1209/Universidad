@@ -14,6 +14,7 @@
 - [[1457. Pseudo-Palindromic Paths in a Binary Tree]]
 - [[1757. Recyclable and Low Fat Products]]
 - [[1996. The Number of Weak Characters in the Game]]
+- [[2007. Find Original Array From Doubled Array]]
 - [[2150. Find All Lonely Numbers in the Array]]
 
 %% End Waypoint %%
