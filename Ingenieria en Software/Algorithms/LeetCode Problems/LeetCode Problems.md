@@ -2,6 +2,7 @@
 
 %% Begin Waypoint %%
 - [[13. Roman to Integer]]
+- [[42. Trapping Rain Water]]
 - [[51. N-Queens]]
 - [[94. Binary Tree Inorder Traversal]]
 - [[183. Customers Who Never Order]]
