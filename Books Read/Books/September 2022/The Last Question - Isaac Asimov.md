@@ -1,6 +1,6 @@
 # The Last Question - Isaac Asimov
 
-This is a short novel that explores the idea of the finite nature of the universe, making a point in entropy. There's a computer that evolves itself throughout the years, and finds solutions to the problems of mankind (utilizing the energy of the sun, interplanetary travel, interestelar travel, immortality, etc.)  the novel explores asking the computer "How can we reverse entropy?" over the eons getting the response "INSUFFICIENT DATA FOR MEANINGFUL ANSWER" over a over again till humanity fused with this computer on the Heat Death of the universe; and after a long time the computer found the answer.
+This is a short novel that explores the idea of the finite nature of the universe, making a point in entropy. There's a computer called [[Multivac]] that evolves itself throughout the years, and finds solutions to the problems of mankind (utilizing the energy of the sun, interplanetary travel, interestelar travel, immortality, etc.)  the novel explores asking the computer "How can we reverse entropy?" over the eons getting the response "INSUFFICIENT DATA FOR MEANINGFUL ANSWER" over a over again till humanity fused with this computer on the Heat Death of the universe; and after a long time the computer found the answer.
 
 > The stars and Galaxies died and snuffed out, and space grew black after ten trillion years of running down. 
 > 
