@@ -2,658 +2,678 @@
   "nodePositions": [
     {
       "id": "Books Read/Books Read.md",
-      "x": -2505.948486328125,
-      "y": 388.8006591796875
-    },
-    {
-      "id": "Books Read/Concepts/Hook Model.md",
-      "x": -2870.405029296875,
-      "y": 271.2560119628906
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/Algorithms.md",
-      "x": -783.706298828125,
-      "y": -362.4320373535156
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
-      "x": -716.8992309570312,
-      "y": 73.39649200439453
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
-      "x": -1072.8375244140625,
-      "y": 88.7679214477539
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/13. Roman to Integer.md",
-      "x": -1738.3487548828125,
-      "y": -1081.646484375
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
-      "x": -1190.935791015625,
-      "y": -587.8858032226562
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1757. Recyclable and Low Fat Products.md",
-      "x": -1155.0677490234375,
-      "y": -1200.853759765625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
-      "x": -1628.938232421875,
-      "y": -612.4093627929688
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1996. The Number of Weak Characters in the Game.md",
-      "x": -1014.87744140625,
-      "y": -1088.548828125
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/2007. Find Original Array From Doubled Array.md",
-      "x": -1016.3043212890625,
-      "y": -718.6351928710938
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
-      "x": -1464.637939453125,
-      "y": -1162.283447265625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/429. N-ary Tree Level Order Traversal.md",
-      "x": -1293.603271484375,
-      "y": -1314.9932861328125
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/51. N-Queens.md",
-      "x": -1309.40673828125,
-      "y": -286.37890625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/584. Find Customer Referee.md",
-      "x": -1503.8663330078125,
-      "y": -1343.4820556640625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/595. Big Countries.md",
-      "x": -1718.122314453125,
-      "y": -772.5406494140625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/606. Construct String from Binary Tree.md",
-      "x": -1437.17236328125,
-      "y": -553.2296752929688
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
-      "x": -983.03466796875,
-      "y": -905.677734375
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/94. Binary Tree Inorder Traversal.md",
-      "x": -1672.6312255859375,
-      "y": -1233.1505126953125
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
-      "x": -1781.72607421875,
-      "y": -928.01025390625
-    },
-    {
-      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
-      "x": -1354.615234375,
-      "y": -879.1719970703125
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Data Science.md",
-      "x": -1241.6431884765625,
-      "y": 926.8157348632812
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Data analysis/CSV.md",
-      "x": -1033.3017578125,
-      "y": 653.274658203125
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Data analysis/Numpy.md",
-      "x": -1548.305419921875,
-      "y": 820.0115966796875
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Data analysis/Read a CSV using Python and Numpy.md",
-      "x": -1350.712646484375,
-      "y": 581.8264770507812
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Data analysis/Reading and Writing files using os.md",
-      "x": -952.029541015625,
-      "y": 964.25244140625
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
-      "x": -1755.5450439453125,
-      "y": 1492.8919677734375
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Posterior Probability.md",
-      "x": -1436.1448974609375,
-      "y": 1333.9683837890625
-    },
-    {
-      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Sentiment Analysis.md",
-      "x": -1623.972412109375,
-      "y": 1183.858154296875
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Data structures.md",
-      "x": -701.9075927734375,
-      "y": -1859.3533935546875
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Estructuras de datos.md",
-      "x": -1005.0192260742188,
-      "y": -1967.8812255859375
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Implementación de la lista doblemente enlazada.md",
-      "x": -998.2495727539062,
-      "y": -2384.556884765625
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Implementación de la lista enlazada circular.md",
-      "x": -513.8731079101562,
-      "y": -2352.732177734375
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Implementación de la lista simplemente enlazada.md",
-      "x": -779.7178955078125,
-      "y": -2285.5068359375
-    },
-    {
-      "id": "Ingenieria en Software/Data structures/Lista enlazada.md",
-      "x": -716.7820434570312,
-      "y": -2591.401123046875
-    },
-    {
-      "id": "Ingenieria en Software/Ingenieria en Software.md",
-      "x": -395.8570251464844,
-      "y": -126.53819274902344
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Análisis de requisitos.md",
-      "x": 1994.355224609375,
-      "y": 473.9029846191406
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Especificación de los requerimientos.md",
-      "x": 2446.544189453125,
-      "y": 176.46095275878906
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Ingenieria De Requerimientos de Software.md",
-      "x": 1921.017578125,
-      "y": 178.6663055419922
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Obtención de Requerimientos.md",
-      "x": 2215.56689453125,
-      "y": 372.38885498046875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento Funcional.md",
-      "x": 1692.1512451171875,
-      "y": 5.435113906860352
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento No Funcional.md",
-      "x": 1937.5941162109375,
-      "y": -166.82179260253906
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
-      "x": 2542.586181640625,
-      "y": -169.72296142578125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requisito.md",
-      "x": 2218.13671875,
-      "y": -292.8492736816406
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Validación de los requerimientos.md",
-      "x": 2289.377197265625,
-      "y": 10.839945793151855
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
-      "x": -1008.7572021484375,
-      "y": 2111.29638671875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md",
-      "x": -1358.3189697265625,
-      "y": 2042.12744140625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md",
-      "x": -761.36474609375,
-      "y": 2208.260498046875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
-      "x": -783.57568359375,
-      "y": 1397.9444580078125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudio de caso.md",
-      "x": -575.9943237304688,
-      "y": 1525.04345703125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudios empiricos.md",
-      "x": -474.70391845703125,
-      "y": 1220.3709716796875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
-      "x": -315.5653076171875,
-      "y": 1502.942138671875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Hipótesis.md",
-      "x": -425.3968505859375,
-      "y": 2181.59765625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en la Ingeniería en Software.md",
-      "x": -583.630859375,
-      "y": 1815.7552490234375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md",
-      "x": -1148.312744140625,
-      "y": 2373.950439453125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
-      "x": -796.9384155273438,
-      "y": 2412.5234375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-      "x": -1009.2496337890625,
-      "y": 1871.2581787109375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
-      "x": 595.0428466796875,
-      "y": 349.82598876953125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
-      "x": 1278.484130859375,
-      "y": -1421.098876953125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
-      "x": 663.258056640625,
-      "y": -1064.7650146484375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración inicial de un switch en Cisco Packet Tracer.md",
-      "x": 1339.667724609375,
-      "y": -741.5656127929688
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
-      "x": 1623.5467529296875,
-      "y": -940.7081909179688
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Elementos de una red.md",
-      "x": 1344.888671875,
-      "y": -1245.804931640625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento dinámico con ACLs y QoS.md",
-      "x": 1279.8515625,
-      "y": -1076.0477294921875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
-      "x": 1805.66650390625,
-      "y": -1127.74755859375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Medios de red.md",
-      "x": 846.5593872070312,
-      "y": -794.5980834960938
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
-      "x": 219.07366943359375,
-      "y": -865.2164916992188
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo TCP IP.md",
-      "x": 893.5934448242188,
-      "y": -983.0205688476562
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo en capas.md",
-      "x": 1125.7596435546875,
-      "y": -1770.8956298828125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelos de redes.md",
-      "x": 1125.0577392578125,
-      "y": -1003.2044677734375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes de Computadoras.md",
-      "x": 932.3403930664062,
-      "y": -1330.7244873046875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Sistema de comunicación.md",
-      "x": 674.3604736328125,
-      "y": -884.6595458984375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Suite de protocolos.md",
-      "x": 1049.107177734375,
-      "y": -836.0237426757812
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/AP.md",
-      "x": 605.0764770507812,
-      "y": -1631.42578125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Backbone o enlaces troncales.md",
-      "x": 239.6584014892578,
-      "y": -1769.0731201171875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Cable Directo y Cruzado.md",
-      "x": 767.1482543945312,
-      "y": -1713.6417236328125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Centro de datos.md",
-      "x": 597.039794921875,
-      "y": -1870.187255859375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/DNS.md",
-      "x": 327.2461242675781,
-      "y": -1609.437744140625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
-      "x": 368.78662109375,
-      "y": -1251.4876708984375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Extranet.md",
-      "x": 791.662841796875,
-      "y": -1905.400146484375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Firewall.md",
-      "x": 670.3842163085938,
-      "y": -2057.5771484375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/IP.md",
-      "x": 182.42210388183594,
-      "y": -1278.390380859375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Internet.md",
-      "x": 1067.1444091796875,
-      "y": -1947.6375732421875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Intranet.md",
-      "x": 444.19293212890625,
-      "y": -1784.4722900390625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
-      "x": 107.56837463378906,
-      "y": -1447.875732421875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Router.md",
-      "x": 1207.9127197265625,
-      "y": -2042.487548828125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Switch.md",
-      "x": 1020.8070678710938,
-      "y": -2152.15283203125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
-      "x": 608.3781127929688,
-      "y": -2407.235595703125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Topología de redes.md",
-      "x": 483.2571716308594,
-      "y": -1506.04638671875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología.md",
-      "x": 318.2611083984375,
-      "y": -2091.388671875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Tipos de redes.md",
-      "x": 1655.271484375,
-      "y": -1955.5667724609375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/VLAN.md",
-      "x": 1743.208984375,
-      "y": -1448.3709716796875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/WiFi.md",
-      "x": 1523.3966064453125,
-      "y": -1622.7518310546875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atomicidad.md",
-      "x": 1310.7374267578125,
-      "y": 1218.3929443359375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atributo.md",
-      "x": 1970.3609619140625,
-      "y": 1833.0517578125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos distribuida.md",
-      "x": 768.3159790039062,
-      "y": 1195.1331787109375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
-      "x": 1213.0693359375,
-      "y": 2208.335205078125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Cardinalidad.md",
-      "x": 1707.3934326171875,
-      "y": 1062.9622802734375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/DBMS.md",
-      "x": 797.5169067382812,
-      "y": 2075.12353515625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Data warehouse.md",
-      "x": 489.62115478515625,
-      "y": 1276.8472900390625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Dato.md",
-      "x": 293.5393981933594,
-      "y": 1538.620361328125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Dependencia Funcional.md",
-      "x": 1140.657470703125,
-      "y": 1895.53076171875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Displayed.md",
-      "x": 1651.971923828125,
-      "y": 1740.921630859375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md",
-      "x": 2084.0146484375,
-      "y": 1408.94287109375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Indice.md",
-      "x": 1433.6715087890625,
-      "y": 929.5213012695312
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Información.md",
-      "x": 429.8209228515625,
-      "y": 1812.1429443359375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Legacy Process.md",
-      "x": 904.2203979492188,
-      "y": 1095.3055419921875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Mandatory.md",
-      "x": 1666.7532958984375,
-      "y": 1971.209228515625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Modelo Dimensional.md",
-      "x": 1784.13818359375,
-      "y": 1541.87744140625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Modelo.md",
-      "x": 1620.9947509765625,
-      "y": 1338.343994140625
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Normalización.md",
-      "x": 1445.1446533203125,
-      "y": 2008.7559814453125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
-      "x": 1356.482666015625,
-      "y": 1697.3568115234375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Primary Key.md",
-      "x": 1900.84130859375,
-      "y": 1224.5216064453125
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Row ID.md",
-      "x": 1079.576171875,
-      "y": 853.7269287109375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
-      "x": 945.3294677734375,
-      "y": 2008.20458984375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de Base de Datos avanzada.md",
-      "x": 1132.5848388671875,
-      "y": 1456.990234375
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
-      "x": 1091.003173828125,
-      "y": 1107.7547607421875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema.md",
-      "x": 753.3320922851562,
-      "y": 1577.9256591796875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Table Space.md",
-      "x": 773.6975708007812,
-      "y": 1384.166748046875
-    },
-    {
-      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Vista.md",
-      "x": 921.6377563476562,
-      "y": 1748.30224609375
-    },
-    {
-      "id": "Ingenieria en Software/Todo.md",
-      "x": -213.25682067871094,
-      "y": 144.34490966796875
-    },
-    {
-      "id": "Books Read/Concepts/Dunning-Kruger Effect.md",
-      "x": -2181.527099609375,
-      "y": 469.89373779296875
-    },
-    {
-      "id": "Books Read/Concepts/Impostor Syndrome.md",
-      "x": -2125.650634765625,
-      "y": 635.2272338867188
-    },
-    {
-      "id": "Books Read/Concepts/System 1 thinking.md",
-      "x": -2594.064697265625,
-      "y": 839.5142822265625
-    },
-    {
-      "id": "Books Read/Concepts/System 2 thinking.md",
-      "x": -2456.88330078125,
-      "y": 709.6038208007812
-    },
-    {
-      "id": "Books Read/Books/September 2022/Your Brain Is Playing Trick On You - Albert Moukheiber.md",
-      "x": -2250.282958984375,
-      "y": 913.96630859375
+      "x": -2309.0927734375,
+      "y": 786.1558227539062
     },
     {
       "id": "Books Read/Books/August 2022/Ego Is The Enemy - Ryan Holiday.md",
-      "x": -2630.45166015625,
-      "y": 137.23399353027344
+      "x": -2491.456298828125,
+      "y": 543.8540649414062
     },
     {
       "id": "Books Read/Books/August 2022/Hooked - Nir Eyal.md",
-      "x": -2764.28857421875,
-      "y": -34.37382507324219
+      "x": -2688.36328125,
+      "y": 362.147705078125
     },
     {
       "id": "Books Read/Books/August 2022/Moonwalking With Einstein - Joshua Foer.md",
-      "x": -2453.0595703125,
-      "y": -182.4828643798828
-    },
-    {
-      "id": "Mind Palace",
-      "x": -2503.328369140625,
-      "y": -555.67041015625
+      "x": -2060.050048828125,
+      "y": 339.24786376953125
     },
     {
       "id": "Books Read/Books/August 2022/The Yellow Wallpaper - Charlotte Perkins.md",
-      "x": -2297.734375,
-      "y": 131.31573486328125
+      "x": -2129.966064453125,
+      "y": 567.5475463867188
+    },
+    {
+      "id": "Books Read/Books/September 2022/The Last Question - Isaac Asimov.md",
+      "x": -2509.02197265625,
+      "y": 139.70127868652344
+    },
+    {
+      "id": "Books Read/Books/September 2022/Your Brain Is Playing Trick On You - Albert Moukheiber.md",
+      "x": -1961.6842041015625,
+      "y": 1343.1866455078125
+    },
+    {
+      "id": "Books Read/Concepts/Dunning-Kruger Effect.md",
+      "x": -1929.5750732421875,
+      "y": 999.9931640625
+    },
+    {
+      "id": "Books Read/Concepts/Hook Model.md",
+      "x": -2752.24853515625,
+      "y": 633.5089721679688
+    },
+    {
+      "id": "Books Read/Concepts/Impostor Syndrome.md",
+      "x": -2165.0029296875,
+      "y": 1114.66552734375
+    },
+    {
+      "id": "Books Read/Concepts/Mind Palace.md",
+      "x": -1893.5933837890625,
+      "y": 604.1504516601562
+    },
+    {
+      "id": "Books Read/Concepts/Multivac.md",
+      "x": -2329.755126953125,
+      "y": 279.8388671875
+    },
+    {
+      "id": "Books Read/Concepts/System 1 thinking.md",
+      "x": -2203.93017578125,
+      "y": 1490.709228515625
+    },
+    {
+      "id": "Books Read/Concepts/System 2 thinking.md",
+      "x": -2414.068359375,
+      "y": 1316.34912109375
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/Algorithms.md",
+      "x": -629.4086303710938,
+      "y": -295.9831848144531
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
+      "x": -439.2535400390625,
+      "y": 135.84080505371094
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+      "x": -760.552490234375,
+      "y": 210.42886352539062
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/13. Roman to Integer.md",
+      "x": -1638.6329345703125,
+      "y": -850.5337524414062
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1457. Pseudo-Palindromic Paths in a Binary Tree.md",
+      "x": -1303.8076171875,
+      "y": -343.9303283691406
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1757. Recyclable and Low Fat Products.md",
+      "x": -1126.3394775390625,
+      "y": -1039.0897216796875
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/183. Customers Who Never Order.md",
+      "x": -1660.405029296875,
+      "y": -468.6409912109375
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/1996. The Number of Weak Characters in the Game.md",
+      "x": -985.2467041015625,
+      "y": -935.4304809570312
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/2007. Find Original Array From Doubled Array.md",
+      "x": -943.20068359375,
+      "y": -587.9078979492188
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/2150. Find All Lonely Numbers in the Array.md",
+      "x": -1452.0589599609375,
+      "y": -972.0224609375
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/42. Trapping Rain Water.md",
+      "x": -1084.7186279296875,
+      "y": -433.6965026855469
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/429. N-ary Tree Level Order Traversal.md",
+      "x": -1282.5054931640625,
+      "y": -1122.9873046875
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/51. N-Queens.md",
+      "x": -1067.2142333984375,
+      "y": -130.8613739013672
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/584. Find Customer Referee.md",
+      "x": -1501.423828125,
+      "y": -1141.2926025390625
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/595. Big Countries.md",
+      "x": -1658.312744140625,
+      "y": -638.94091796875
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/606. Construct String from Binary Tree.md",
+      "x": -1494.727294921875,
+      "y": -372.2795104980469
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/637. Average of Levels in Binary Tree.md",
+      "x": -908.722900390625,
+      "y": -770.6923217773438
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/94. Binary Tree Inorder Traversal.md",
+      "x": -1695.99755859375,
+      "y": -1021.218017578125
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/967. Numbers With Same Consecutive Differences.md",
+      "x": -1802.7335205078125,
+      "y": -761.0581665039062
+    },
+    {
+      "id": "Ingenieria en Software/Algorithms/LeetCode Problems/LeetCode Problems.md",
+      "x": -1296.167724609375,
+      "y": -695.5359497070312
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Data Science.md",
+      "x": -893.4690551757812,
+      "y": 980.2811889648438
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Data analysis/CSV.md",
+      "x": -580.4141235351562,
+      "y": 791.777099609375
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Data analysis/Numpy.md",
+      "x": -1182.7362060546875,
+      "y": 819.8116455078125
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Data analysis/Read a CSV using Python and Numpy.md",
+      "x": -894.7844848632812,
+      "y": 664.4386596679688
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Data analysis/Reading and Writing files using os.md",
+      "x": -623.4261474609375,
+      "y": 1125.0806884765625
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
+      "x": -1338.3704833984375,
+      "y": 1571.9793701171875
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Posterior Probability.md",
+      "x": -1039.7083740234375,
+      "y": 1397.418701171875
+    },
+    {
+      "id": "Ingenieria en Software/Data Science/Sentiment Analysis/Sentiment Analysis.md",
+      "x": -1237.4737548828125,
+      "y": 1246.394775390625
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Data structures.md",
+      "x": -985.419677734375,
+      "y": -1795.455322265625
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Estructuras de datos.md",
+      "x": -1301.072265625,
+      "y": -1831.1068115234375
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Implementación de la lista doblemente enlazada.md",
+      "x": -1472.720947265625,
+      "y": -2154.23291015625
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Implementación de la lista enlazada circular.md",
+      "x": -969.3385009765625,
+      "y": -2329.11181640625
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Implementación de la lista simplemente enlazada.md",
+      "x": -1184.416259765625,
+      "y": -2159.858154296875
+    },
+    {
+      "id": "Ingenieria en Software/Data structures/Lista enlazada.md",
+      "x": -1283.0589599609375,
+      "y": -2434.971435546875
+    },
+    {
+      "id": "Ingenieria en Software/Ingenieria en Software.md",
+      "x": -261.9876403808594,
+      "y": -143.76934814453125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Análisis de requisitos.md",
+      "x": 1596.446044921875,
+      "y": 9.242463111877441
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Especificación de los requerimientos.md",
+      "x": 2382.038818359375,
+      "y": 37.712162017822266
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Ingenieria De Requerimientos de Software.md",
+      "x": 1897.6507568359375,
+      "y": -84.94322967529297
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Obtención de Requerimientos.md",
+      "x": 2060.998291015625,
+      "y": 172.11062622070312
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento Funcional.md",
+      "x": 1871.43212890625,
+      "y": -394.1695861816406
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento No Funcional.md",
+      "x": 2104.443603515625,
+      "y": -485.4290771484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
+      "x": 2580.757080078125,
+      "y": -251.26336669921875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requisito.md",
+      "x": 2374.884765625,
+      "y": -533.7548828125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Validación de los requerimientos.md",
+      "x": 2280.597900390625,
+      "y": -172.96031188964844
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
+      "x": -761.9125366210938,
+      "y": 2276.06640625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md",
+      "x": -1148.1160888671875,
+      "y": 2209.608642578125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md",
+      "x": -500.68682861328125,
+      "y": 2376.763427734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
+      "x": -486.5243225097656,
+      "y": 1632.55419921875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudio de caso.md",
+      "x": -233.19493103027344,
+      "y": 1746.3275146484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudios empiricos.md",
+      "x": -146.6281280517578,
+      "y": 1498.2138671875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
+      "x": 4.229186534881592,
+      "y": 1832.3623046875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Hipótesis.md",
+      "x": -162.40826416015625,
+      "y": 2337.5078125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en la Ingeniería en Software.md",
+      "x": -362.38055419921875,
+      "y": 1987.697021484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md",
+      "x": -929.5980834960938,
+      "y": 2520.720458984375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
+      "x": -591.9103393554688,
+      "y": 2560.62548828125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
+      "x": -792.282470703125,
+      "y": 2044.463134765625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
+      "x": 706.0621337890625,
+      "y": 270.93963623046875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+      "x": 1129.952880859375,
+      "y": -1650.2332763671875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
+      "x": 540.2910766601562,
+      "y": -1260.2462158203125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración inicial de un switch en Cisco Packet Tracer.md",
+      "x": 1234.51806640625,
+      "y": -954.3236083984375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configurar VLAN en un switch en Cisco Packet Tracer.md",
+      "x": 1502.751220703125,
+      "y": -1136.25927734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Elementos de una red.md",
+      "x": 1195.84423828125,
+      "y": -1477.895263671875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento dinámico con ACLs y QoS.md",
+      "x": 1165.334716796875,
+      "y": -1302.56640625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
+      "x": 1663.0714111328125,
+      "y": -1310.578125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Medios de red.md",
+      "x": 759.838134765625,
+      "y": -994.4335327148438
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+      "x": 123.0166244506836,
+      "y": -1079.767578125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo TCP IP.md",
+      "x": 785.6892700195312,
+      "y": -1187.8671875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo en capas.md",
+      "x": 909.5616455078125,
+      "y": -1976.3367919921875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelos de redes.md",
+      "x": 1011.3087768554688,
+      "y": -1230.5091552734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Redes de Computadoras.md",
+      "x": 792.0325317382812,
+      "y": -1533.256103515625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Sistema de comunicación.md",
+      "x": 584.915771484375,
+      "y": -1082.023193359375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Suite de protocolos.md",
+      "x": 953.2178344726562,
+      "y": -1052.4078369140625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/AP.md",
+      "x": 422.12249755859375,
+      "y": -1867.8046875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Backbone o enlaces troncales.md",
+      "x": 56.92739486694336,
+      "y": -1938.3900146484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Cable Directo y Cruzado.md",
+      "x": 595.6366577148438,
+      "y": -1915.0177001953125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Centro de datos.md",
+      "x": 418.6068115234375,
+      "y": -2084.244384765625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/DNS.md",
+      "x": 185.34857177734375,
+      "y": -1797.8968505859375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
+      "x": 231.73170471191406,
+      "y": -1470.6453857421875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Extranet.md",
+      "x": 618.8500366210938,
+      "y": -2117.91552734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Firewall.md",
+      "x": 496.2443542480469,
+      "y": -2253.8046875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/IP.md",
+      "x": 42.429752349853516,
+      "y": -1488.6373291015625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Internet.md",
+      "x": 908.80810546875,
+      "y": -2167.05126953125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Intranet.md",
+      "x": 260.8565368652344,
+      "y": -1992.30029296875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
+      "x": -53.463321685791016,
+      "y": -1653.1796875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Router.md",
+      "x": 1083.3828125,
+      "y": -2157.60986328125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Switch.md",
+      "x": 894.2796020507812,
+      "y": -2341.96484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
+      "x": 369.16448974609375,
+      "y": -2588.325927734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Topología de redes.md",
+      "x": 358.6638488769531,
+      "y": -1704.2342529296875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología.md",
+      "x": 121.33403015136719,
+      "y": -2273.201416015625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Tipos de redes.md",
+      "x": 1546.7977294921875,
+      "y": -2112.927001953125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/VLAN.md",
+      "x": 1622.380126953125,
+      "y": -1614.9136962890625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/WiFi.md",
+      "x": 1406.3458251953125,
+      "y": -1790.1895751953125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atomicidad.md",
+      "x": 1480.2366943359375,
+      "y": 995.8350830078125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Atributo.md",
+      "x": 2251.298583984375,
+      "y": 1645.319091796875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos distribuida.md",
+      "x": 1076.939453125,
+      "y": 1182.19677734375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
+      "x": 1522.9005126953125,
+      "y": 2087.519287109375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Cardinalidad.md",
+      "x": 1959.9320068359375,
+      "y": 917.1372680664062
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/DBMS.md",
+      "x": 1102.1029052734375,
+      "y": 1873.855712890625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Data warehouse.md",
+      "x": 779.4860229492188,
+      "y": 1122.7618408203125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Dato.md",
+      "x": 571.5228881835938,
+      "y": 1380.425048828125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Dependencia Funcional.md",
+      "x": 1441.785888671875,
+      "y": 1810.481201171875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Displayed.md",
+      "x": 1952.974853515625,
+      "y": 1558.3526611328125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md",
+      "x": 2342.7705078125,
+      "y": 1219.778564453125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Indice.md",
+      "x": 1719.9561767578125,
+      "y": 803.142822265625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Información.md",
+      "x": 715.3069458007812,
+      "y": 1668.0906982421875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Legacy Process.md",
+      "x": 1095.2796630859375,
+      "y": 996.810791015625
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Mandatory.md",
+      "x": 1968.669189453125,
+      "y": 1812.65283203125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Modelo Dimensional.md",
+      "x": 2064.176513671875,
+      "y": 1344.07080078125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Modelo.md",
+      "x": 1871.901123046875,
+      "y": 1177.364501953125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Normalización.md",
+      "x": 1753.803466796875,
+      "y": 1870.6514892578125
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
+      "x": 1684.5059814453125,
+      "y": 1546.8514404296875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Primary Key.md",
+      "x": 2187.73388671875,
+      "y": 1021.8546752929688
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Row ID.md",
+      "x": 1370.6112060546875,
+      "y": 734.1614990234375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
+      "x": 1229.5408935546875,
+      "y": 1986.7342529296875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de Base de Datos avanzada.md",
+      "x": 1429.5721435546875,
+      "y": 1316.4375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
+      "x": 1268.8895263671875,
+      "y": 990.8353271484375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema.md",
+      "x": 1102.1021728515625,
+      "y": 1520.2567138671875
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Table Space.md",
+      "x": 1016.990478515625,
+      "y": 1353.0257568359375
+    },
+    {
+      "id": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Vista.md",
+      "x": 1312.4052734375,
+      "y": 1634.0216064453125
+    },
+    {
+      "id": "Ingenieria en Software/Todo.md",
+      "x": -3.793488025665283,
+      "y": 66.61082458496094
+    },
+    {
+      "id": "Books Read/Books/September 2022/Notes On Grief - Chimamanda Ngozi Adichie.md",
+      "x": -2590.1455078125,
+      "y": 930.9542236328125
     }
   ],
   "automaticallyRestoreNodePositions": true
