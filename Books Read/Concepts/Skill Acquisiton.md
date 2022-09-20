@@ -1,0 +1,2 @@
+# Skill Acquisiton
+According to Steven Kotler the basic step is to find commonalities with other skill you have and strong points necessary to develop a skill. If it's not that important you can use the [[Pareto Principle]].
