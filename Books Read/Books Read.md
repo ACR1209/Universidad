@@ -9,6 +9,7 @@
 		- [[The Yellow Wallpaper - Charlotte Perkins]]
 	- **September 2022**
 		- [[Notes On Grief - Chimamanda Ngozi Adichie]]
+		- [[Numsense! Data Science for the Layman (No Math Added) - Annalyn Ng and Kenneth Soo]]
 		- [[The Art Of Impossible - Steven Kotler]]
 		- [[The Last Question - Isaac Asimov]]
 		- [[Your Brain Is Playing Trick On You - Albert Moukheiber]]
