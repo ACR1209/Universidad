@@ -8,6 +8,7 @@
 		- [[Moonwalking With Einstein - Joshua Foer]]
 		- [[The Yellow Wallpaper - Charlotte Perkins]]
 	- **September 2022**
+		- [[How To Learn Any Language Quickly, Easily, Inexpensively, Enjoyably and on Your Own - Barry Farber]]
 		- [[Notes On Grief - Chimamanda Ngozi Adichie]]
 		- [[Numsense! Data Science for the Layman (No Math Added) - Annalyn Ng and Kenneth Soo]]
 		- [[The Art Of Impossible - Steven Kotler]]
