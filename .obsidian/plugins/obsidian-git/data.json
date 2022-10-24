@@ -1,10 +1,10 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "PC vault backup: {{date}}",
+  "autoCommitMessage": "PC vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
-  "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoSaveInterval": 10,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -14,8 +14,8 @@
   "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "autoBackupAfterFileChange": true,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": ""
 }

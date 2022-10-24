@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabReadme",
       "RiBookLine",
       "RiBarChart2Fill",
       "FabResearchgate",
-      "RiDatabaseFill",
-      "RiBookFill"
+      "RiDatabaseFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +28,7 @@
   "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada": "RiDatabaseFill",
   "Ingenieria en Software/Data Science": "RiBarChart2Fill",
   "Ingenieria en Software/Data structures": "RiTerminalBoxLine",
-  "Ingenieria en Software": "RiCodeBoxLine"
+  "Ingenieria en Software": "RiCodeBoxLine",
+  "Ingenieria en Software/Sexto Semestre": "RiBookFill",
+  "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos": "FabReadme"
 }
