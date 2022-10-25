@@ -1,4 +1,3 @@
-# Naive Bayes Algorithm
 Is a classification technique based on Bayes' Theorems with the assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 
 For example, it takes an object let's say an apple and takes it's characteristics (it's red, round, has a steam, etc.) and assumes that if it has a lot of apple characteristics then it must be an apple.

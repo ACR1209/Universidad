@@ -1,4 +1,3 @@
-# Proceso de Investigación Científico
 Es el proceso de descubir hechos e información acerca sobre los fenómenos que suceden en nuestra realidad. Es importante porque mejora nuestro entendimiento y nos ayuda a solucionar problemas.
 
 ## Características

@@ -1,4 +1,3 @@
-# Sentiment Analysis
 A formal definition of a sentiment analysis problem would be: 
 -   **Input**: - A document d - A fixed set of classes $C = {c1,c2,..,cn}$  
 -   **Output**: A predicted class $c$ $\in$ C

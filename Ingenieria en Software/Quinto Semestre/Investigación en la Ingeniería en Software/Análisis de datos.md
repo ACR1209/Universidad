@@ -1,2 +1,1 @@
-# Análisis de datos
 Es el tercer paso del [[Proceso de Investigación Científico]]. Consiste de analizar los datos e interpretar los hallazgos. 

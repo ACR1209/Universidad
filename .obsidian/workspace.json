@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "96f63e92f685f056",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,23 +89,14 @@
             }
           },
           {
-            "id": "087dd3a5ac096220",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0474c9859d5d5dda",
+            "id": "b249d0054cfa5b6a",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,17 +106,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "96f63e92f685f056",
+  "active": "8cb9552217b1c7da",
   "lastOpenFiles": [
-    "Ingenieria en Software/Algorithms/Algorithms.md",
-    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/TOAD.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
-    "Conflict files.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md"
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en la Ingeniería en Software.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudio de caso.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Hipótesis.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudios empiricos.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md"
   ]
 }

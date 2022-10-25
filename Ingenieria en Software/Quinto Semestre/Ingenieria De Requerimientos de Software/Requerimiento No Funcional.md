@@ -1,4 +1,3 @@
-# Requerimiento No Funcional
 Un [[Requisito|requisito]] que especifica criterios que pueden usarse para juzgar la operación de un sistema en lugar de sus comportamientos específicos. 
 - Requerimientos de eficiencia: define propediades como la eficiecia percibida, capacidad, confiabiliad, robustez, usabilidad, etc.
 - Restricciones de diseño o requerimientos de procesos: define restricciones de como el sistema debe de ser diseñado y construido; relacionado con el desarrollo, proceso, documentación, lenguaje de programación, mantenebilidad, etc.

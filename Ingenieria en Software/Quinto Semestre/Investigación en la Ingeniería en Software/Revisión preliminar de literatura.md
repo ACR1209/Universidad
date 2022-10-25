@@ -1,4 +1,3 @@
-# Revisión preliminar de literatura
 ## Introducción
 ### Modelo de investigación
 - Problema (¿Qué hay que hacer?)

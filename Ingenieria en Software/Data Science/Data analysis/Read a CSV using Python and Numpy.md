@@ -1,4 +1,3 @@
-# Read a CSV using Python and Numpy
 First of all you get your data file in [[CSV]], in this case we will get it from downloading it from the internet using urllib:
 ```jupyter
 import urllib.request

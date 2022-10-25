@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiTestTubeLine",
       "FabReadme",
       "RiBookLine",
       "RiBarChart2Fill",
-      "FabResearchgate",
-      "RiDatabaseFill"
+      "FabResearchgate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,6 +18,12 @@
       "right": 2,
       "bottom": 2,
       "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
     }
   },
   "Images": "FarImages",
@@ -30,5 +36,6 @@
   "Ingenieria en Software/Data structures": "RiTerminalBoxLine",
   "Ingenieria en Software": "RiCodeBoxLine",
   "Ingenieria en Software/Sexto Semestre": "RiBookFill",
-  "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos": "FabReadme"
+  "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos": "FabReadme",
+  "Ingenieria en Software/Sexto Semestre/Pruebas de software": "RiTestTubeLine"
 }

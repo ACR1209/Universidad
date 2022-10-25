@@ -1,4 +1,3 @@
-# Análisis de requisitos
 >Se denomina análisis a la distinción y separación de las partes de un todo hasta llegar a conocer sus principios o elementos; Estudio, mediante técnicas informáticas de los límites, características y posibles soluciones de un problema al que se aplica un tratamiento por ordenador
 
 \- RAE, 2014

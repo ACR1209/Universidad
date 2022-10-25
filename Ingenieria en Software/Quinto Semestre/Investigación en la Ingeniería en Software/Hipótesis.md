@@ -1,4 +1,3 @@
-# Hipótesis
 Son guias para una investigación o estudio. Proposición que permite obtener un valor de verdad (es medible). Indica que se esta tratando de probar. Es una explicación tentativa de fenómeno de investigación. Se deriva de teoria preexistentes o estudios previos. Son respuestas provisionales a las preguntas de investigación.
 
 Estas son el centro del methodo de deducción cuantitativa.

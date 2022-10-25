@@ -1,4 +1,3 @@
-# Diseño del estudio
 Segundo paso del [[Proceso de Investigación Científico]]. Consiste de:
 - ## Identificar las variables
 	Realizar un estudio para identificar las variables que pueden ser responsables del problema identificado. Crear un marco conceptual que ilustra la relación entre variables y el problema de investigación. 

@@ -1,4 +1,3 @@
-# Reading and Writing files using os
 ```jupyter
 import os
 from urllib.request import urlretrieve
