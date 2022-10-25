@@ -6,7 +6,7 @@
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**
 	- **[[Lectura y escritura de textos académicos]]**
-	- **Pruebas de software**
+	- **[[Pruebas de software]]**
 - [[Todo]]
 
 %% End Waypoint %%

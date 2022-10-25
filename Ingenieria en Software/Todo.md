@@ -6,6 +6,24 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] Design: Auxiliar de fisioterapia y rehabilitación mención Respiratoria
+- [ ] Design: Auxiliar de fisioterapia y rehabilitación mención Geriatría
+- [ ] Design: Peluquería y barbería para realizar cortes a caballeros
+- [ ] Design: Maestra Artesana en Corte y Confección
+- [ ] Design: Certificación en Ecografía
+- [ ] Design: Aprende a tocar guitarra
+- [ ] Design: Especialista en Jardinería y Paisajismo
+- [ ] Design: Peluquería y Belleza Integral
+- [ ] Design: Especialista en Podología Cosmiátrica
+- [ ] Design: Taller en Sueroterapia Avanzada
+- [ ] Design: Especialista en Tanatopraxia y Tanatoestética
+- [ ] Design: Taller Plasma Rico en Plaquetas y Dermaplaning
+- [ ] Design: Auxiliar de Laboratorio Clínico
+- [ ] Design: Tarot, Lectura de cartas
+- [ ] Design: Taller Cura de Heridas
+- [ ] Design: Especialista en coctelería
+- [ ] Design: Certificación en Intervención Psicoeducativa en Alumnos con Síndrome de Down
+- [ ] Design: Ofimática Básica
 
 
 ## Doing
