@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "44c0e1577358c92d",
+            "id": "67287a07878d464e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "44c0e1577358c92d",
+  "active": "67287a07878d464e",
   "lastOpenFiles": [
     "Ingenieria en Software/Todo.md",
+    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Ingenieria en Software/Sexto Semestre/Untitled.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
     "Ingenieria en Software/Ingenieria en Software.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en la Ingeniería en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Estudio de caso.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Hipótesis.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md"
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md"
   ]
 }

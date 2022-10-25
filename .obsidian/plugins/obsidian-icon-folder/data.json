@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiTestTubeLine",
-      "FabReadme",
-      "RiBookLine",
-      "RiBarChart2Fill",
-      "FabResearchgate"
+      "RiCodeSLine",
+      "RiSmartphoneLine",
+      "FasBrain",
+      "FabLinux",
+      "RiTestTubeLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,9 @@
   "Ingenieria en Software": "RiCodeBoxLine",
   "Ingenieria en Software/Sexto Semestre": "RiBookFill",
   "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos": "FabReadme",
-  "Ingenieria en Software/Sexto Semestre/Pruebas de software": "RiTestTubeLine"
+  "Ingenieria en Software/Sexto Semestre/Pruebas de software": "RiTestTubeLine",
+  "Ingenieria en Software/Sexto Semestre/Sistemas Operativos": "FabLinux",
+  "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento": "FasBrain",
+  "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles": "RiSmartphoneLine",
+  "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software": "RiCodeSLine"
 }
