@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e102597e8cac5298",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,10 +136,7 @@
     "width": 193,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c3220f3ceb2d6e08",
+  "active": "e102597e8cac5298",
   "lastOpenFiles": [
     "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Ingenieria en Software/Todo.md",
