@@ -35,24 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e102597e8cac5298",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +126,10 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "e102597e8cac5298",
+  "active": "c3220f3ceb2d6e08",
   "lastOpenFiles": [
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
     "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Sexto Semestre/Untitled.md",
@@ -145,8 +137,6 @@
     "Ingenieria en Software/Ingenieria en Software.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Investigación en la Ingeniería en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Definición del problema.md"
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md"
   ]
 }
