@@ -18,43 +18,19 @@
             }
           },
           {
-            "id": "67287a07878d464e",
+            "id": "c90e63df547d8844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3220f3ceb2d6e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5c04a40396e2946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/MovieShake.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Ciencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/MovieShake.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Ciencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +114,17 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "b5c04a40396e2946",
+  "active": "c90e63df547d8844",
   "lastOpenFiles": [
+    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
+    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Ciencia.md",
+    "Ingenieria en Software/Todo.md",
+    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/MovieShake.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
-    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
-    "Ingenieria en Software/Todo.md",
-    "Ingenieria en Software/Sexto Semestre/Untitled.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
-    "Ingenieria en Software/Ingenieria en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md"
+    "Ingenieria en Software/Sexto Semestre/Untitled.md"
   ]
 }
