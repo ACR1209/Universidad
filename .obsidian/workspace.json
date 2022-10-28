@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Sistema de información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "c3220f3ceb2d6e08",
   "lastOpenFiles": [
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
     "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
@@ -136,7 +137,6 @@
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
     "Ingenieria en Software/Ingenieria en Software.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Diseño del estudio.md"
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Encuesta.md"
   ]
 }
