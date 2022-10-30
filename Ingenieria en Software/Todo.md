@@ -19,15 +19,19 @@ kanban-plugin: basic
 - [ ] Design: Especialista en Tanatopraxia y Tanatoestética
 - [ ] Design: Taller Plasma Rico en Plaquetas y Dermaplaning
 - [ ] Design: Auxiliar de Laboratorio Clínico
+- [ ] Design: Veterinaria Cartel
 - [ ] Design: Tarot, Lectura de cartas
 - [ ] Design: Taller Cura de Heridas
 - [ ] Design: Especialista en coctelería
 - [ ] Design: Certificación en Intervención Psicoeducativa en Alumnos con Síndrome de Down
 - [ ] Design: Ofimática Básica
+- [ ] Design: Barbería y peluquería masculina cartel
+- [ ] Design: Enfermería Cartel
 
 
 ## Doing
 
+- [ ] Design: Cartel forense y criminalística mención tantatopraxia
 
 
 ## Done
