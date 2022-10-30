@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "638f4df0d221b6d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,7 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "c90e63df547d8844",
+  "active": "638f4df0d221b6d2",
   "lastOpenFiles": [
     "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
     "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Ciencia.md",
