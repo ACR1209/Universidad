@@ -6,36 +6,40 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Design: Auxiliar de fisioterapia y rehabilitación mención Respiratoria
-- [ ] Design: Auxiliar de fisioterapia y rehabilitación mención Geriatría
-- [ ] Design: Peluquería y barbería para realizar cortes a caballeros
-- [ ] Design: Maestra Artesana en Corte y Confección
-- [ ] Design: Certificación en Ecografía
-- [ ] Design: Aprende a tocar guitarra
-- [ ] Design: Especialista en Jardinería y Paisajismo
-- [ ] Design: Peluquería y Belleza Integral
-- [ ] Design: Especialista en Podología Cosmiátrica
-- [ ] Design: Taller en Sueroterapia Avanzada
-- [ ] Design: Especialista en Tanatopraxia y Tanatoestética
-- [ ] Design: Taller Plasma Rico en Plaquetas y Dermaplaning
-- [ ] Design: Auxiliar de Laboratorio Clínico
-- [ ] Design: Tarot, Lectura de cartas
-- [ ] Design: Taller Cura de Heridas
-- [ ] Design: Especialista en coctelería
-- [ ] Design: Certificación en Intervención Psicoeducativa en Alumnos con Síndrome de Down
-- [ ] Design: Ofimática Básica
-- [ ] Design: Enfermería Cartel
+- [ ] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
+- [ ] Homework: Resumen del paper pruebas de software
 
 
 ## Doing
 
-- [ ] Design: Barbería y peluquería masculina cartel
+- [ ] Design: INSCRIBETE EN DICIEMBRE Y ESTUDIA EN ENERO 10% DE. DESCUENTO EN TODO EL CURSO
 
 
 ## Done
 
 **Complete**
+- [x] Design: Ofimática Básica
+- [x] Design: Especialista en coctelería
+- [x] Design: Certificación en Intervención Psicoeducativa en Alumnos con Síndrome de Down
+- [x] Design: Tarot, Lectura de cartas
+- [x] Design: Taller Cura de Heridas
+- [x] Design: Taller Plasma Rico en Plaquetas y Dermaplaning
+- [x] Design: Auxiliar de Laboratorio Clínico
+- [x] Design: Especialista en Podología Cosmiátrica
+- [x] Design: Taller en Sueroterapia Avanzada
+- [x] Design: Especialista en Tanatopraxia y Tanatoestética
 - [x] Design: Veterinaria Cartel
+- [x] Design: Peluquería y Belleza Integral
+- [x] Design: Especialista en Jardinería y Paisajismo
+- [x] Design: Certificación en Ecografía
+- [x] Design: Aprende a tocar guitarra
+- [x] Design: Peluquería y barbería para realizar cortes a caballeros
+- [x] Design: Maestra Artesana en Corte y Confección
+- [x] Design: Auxiliar de fisioterapia y rehabilitación mención Geriatría
+- [x] Design: Auxiliar de fisioterapia y rehabilitación mención Respiratoria
+- [x] Design: Quiropraxia cartel
+- [x] Design: Enfermería Cartel
+- [x] Design: Barbería y peluquería masculina cartel
 - [x] Design: Cartel forense y criminalística mención tantatopraxia
 
 
