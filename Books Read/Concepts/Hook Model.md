@@ -1,5 +1,3 @@
-# Hook Model
-
 Is a four-phase process that businesses can use to create products or services used habitually by customers. The goal is to result in voluntary, high-frequency engagement. At its core, the Hook Model is about creating a customer habit. It also seeks to connect a customer’s problem to a company’s solution with enough frequency to make the engagement an ongoing practice. The phases of this model are:
 
 ![[Pasted image 20220814232401.png]]
