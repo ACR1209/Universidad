@@ -1,0 +1,1 @@
+Un acuerdo de nivel de servicio (siglas ANS), también conocidas por las siglas SLA (del inglés Service Level Agreement), es un acuerdo escrito entre un proveedor de servicio y su cliente con objeto de fijar el nivel acordado para la calidad de dicho servicio. 

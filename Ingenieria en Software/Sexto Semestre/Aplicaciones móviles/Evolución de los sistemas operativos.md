@@ -10,4 +10,5 @@ Se basaban en transistores y [[Sistema batch|sistemas Batch ]]. Surge assembly y
 ### Tercera generación (1965-1980)
 Se basan en circuitos integrados y multiprogramación. Se debía reescribir programas dependiendo de los modelos físicos. Surge UNIX y en 1972 se reescribe en C.
 
-### 
+### Cuarta generación (1980-Presente)
+Surgen los PC forzando a que los programas y los SO sean mas fiables y adaptables 
