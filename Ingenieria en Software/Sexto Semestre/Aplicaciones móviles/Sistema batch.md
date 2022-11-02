@@ -1,0 +1,1 @@
+Un proceso batch se encarga de ejecutar de forma automatizada una serie de tareas, ejecutando para ello un archivo en formato . bat. Este tipo de archivos de texto contienen una serie de comandos encargados de ejecutar tareas de forma secuencial.
