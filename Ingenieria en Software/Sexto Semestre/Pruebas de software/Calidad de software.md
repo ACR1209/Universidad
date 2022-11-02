@@ -1,4 +1,6 @@
 Un concepto demasiado abstracto que necesita descomponerse en atributos mas palpable. 
+Diferencia entre la calidad del producto software y la calidad del proceso de desarrollo.
+
 
 ## Criterios de la calidad de software
 ### Funcional
