@@ -12,14 +12,20 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Design: INSCRIBETE EN DICIEMBRE Y ESTUDIA EN ENERO 10% DE. DESCUENTO EN TODO EL CURSO
 
 
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] Design: Ofimática Básica
 - [x] Design: Especialista en coctelería
+- [x] Design: INSCRIBETE EN DICIEMBRE Y ESTUDIA EN ENERO 10% DE. DESCUENTO EN TODO EL CURSO
 - [x] Design: Certificación en Intervención Psicoeducativa en Alumnos con Síndrome de Down
 - [x] Design: Tarot, Lectura de cartas
 - [x] Design: Taller Cura de Heridas
@@ -41,12 +47,6 @@ kanban-plugin: basic
 - [x] Design: Enfermería Cartel
 - [x] Design: Barbería y peluquería masculina cartel
 - [x] Design: Cartel forense y criminalística mención tantatopraxia
-
-
-***
-
-## Archive
-
 - [x] Diseño:  Certificados de<br>1.- Taller de inyectología y sueroterapia<br>2.- Taller de inyectología facial, corporal y capilar<br>3.- Curso de Auxiliar Veterinario<br>4.- Curso de Auxiliar Judicial<br>5.- Curso de Especialista Nutrición Ortomolecular<br>6.- Curso de Especialista del Trastorno Autista
 - [x] Diseño: auxiliar en laboratorio clinico y enfermería
 - [x] Diseño: Taller tratamientos capilares estéticos, camara
