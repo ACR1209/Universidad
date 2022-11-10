@@ -5,3 +5,11 @@
 Es parte del subproceso de aseguramiento de calidad de la [[Ingenieria De Requerimientos de Software]].
 
 Su objetivo principal es detectar conflictos en los requisitos obtenidos, normalmente mediante técnicas de modelado conceptual y de prototipado de interfaz de usuario. Los modelos generados también son una importante herramienta de comunicación con los diseñadores y programadores.
+
+
+Tiene 5 partes como tal:
+- Reconocimiento del problema
+- Evaluación y síntesis
+- Modelado
+- Especificación
+- Revisión
