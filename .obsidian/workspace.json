@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "292a7eee123beb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/Análisis estructurado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Prolog.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/Análisis estructurado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +140,10 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "b0348af7a10a9c17",
+  "active": "292a7eee123beb2a",
   "lastOpenFiles": [
-    "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Aplicaciones basadas en el conocimiento.md",
     "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Prolog.md",
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Aplicaciones basadas en el conocimiento.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Empirical Investigation of Personality Traits of Software Testers.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Tipos de redes.md",
