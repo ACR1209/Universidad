@@ -1,0 +1,3 @@
+Define la forma en la que los miembros de un equipo deben colaborar para conseguir entre todos acelerar los proyectos de desarrollo y control de calidad. Las prácticas de Scrum incluyen flujos de trabajo principales y terminología específica (sprints, bloques de tiempo, scrum diario o reunión), y roles designados (Scrum Master, propietario del producto o product owner).
+
+![[Pasted image 20221115160928.png|600]]
