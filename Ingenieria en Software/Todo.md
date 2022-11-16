@@ -6,8 +6,7 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
-- [ ] Homework: Resumen del paper pruebas de software
+- [ ] HW: Tipos Hipervisores, contenedores, VM, kubernets
 
 
 ## Doing
@@ -17,6 +16,8 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Homework: Resumen del paper pruebas de software
+- [x] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
 
 
 ***
