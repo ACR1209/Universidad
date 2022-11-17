@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a169f88801730dde",
+        "id": "375194c8f2436afe",
         "type": "tabs",
         "children": [
           {
-            "id": "18a90e9882e64dfc",
+            "id": "189ea0317b9373bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031e1dc418430451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff08ee39b163ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8e6c75a2be13894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +98,17 @@
     "width": 193,
     "collapsed": true
   },
-  "active": "c8e6c75a2be13894",
+  "active": "189ea0317b9373bb",
   "lastOpenFiles": [
+    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
+    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requisito.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
     "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/SLA.md",
     "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Aplicaciones móviles.md",
-    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Sistema batch.md",
-    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/MovieShake.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Calidad de software.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Un sondeo sobre la práctica actual de pruebas de software en España.md",
-    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md"
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Sistema batch.md"
   ]
 }
