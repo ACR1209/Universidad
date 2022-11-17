@@ -8,55 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "098417551fd7593d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Prolog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a9c7cdbea6f3c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/Análisis orientado a objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2152fd1e91595ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60b9694a7400cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistema Operativo.md",
-                "mode": "source",
-                "source": false
+                "file": "Ingenieria en Software/Todo.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/UML.md",
+                "file": "Ingenieria en Software/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +103,8 @@
   },
   "active": "2152fd1e91595ac1",
   "lastOpenFiles": [
+    "Ingenieria en Software/Ingenieria en Software.md",
+    "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/UML.md",
     "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software/Análisis orientado a objetos.md",
     "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento/Prolog.md",
     "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Hipervisor.md",
@@ -149,8 +112,6 @@
     "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
     "Ingenieria en Software/Todo.md",
     "Excalidraw/Drawing 2022-11-15 18.39.50.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-15 18.43.31.excalidraw.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Técnicas para las pruebas de software/Técnicas para las pruebas de software.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Técnicas para las pruebas de software/Prueba de caja negra.md"
+    "Excalidraw/Drawing 2022-11-15 18.43.31.excalidraw.md"
   ]
 }
