@@ -1,9 +1,9 @@
 Conocido también como monitor de máquinas virtuales, **es un proceso que crea y ejecuta máquinas virtuales**. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
 
 ## Limites
-### Para crear
+#### Para crear
 El limite es el almacenamiento como tal.
-### Para poner "en producción"
+#### Para poner "en producción"
 Se limita por el hardware o los recursos computacionales (CPU, Memoria y puertos I/O)
 
 ## Tipos
