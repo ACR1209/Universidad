@@ -11,12 +11,8 @@
             "id": "189ea0317b9373bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +100,15 @@
   },
   "active": "189ea0317b9373bb",
   "lastOpenFiles": [
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/DEVOPS.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
+    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistemas Operativos.md",
+    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Sistema Operativo.md",
+    "Ingenieria en Software/Sexto Semestre/Sistemas Operativos/Hipervisor.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Costo por la calidad de software.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Rol del Ingeniero de pruebas.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Pruebas de software.md",
     "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requerimiento.md",
-    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requisito.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
-    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Evolución de los sistemas operativos.md",
-    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
-    "Ingenieria en Software/Algorithms/Backtracking/Backtracking.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md"
+    "Ingenieria en Software/Quinto Semestre/Ingenieria De Requerimientos de Software/Requisito.md"
   ]
 }
