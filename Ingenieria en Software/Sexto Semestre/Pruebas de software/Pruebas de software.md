@@ -4,6 +4,8 @@
 - [[DEVOPS]]
 - **Resumenes Papers**
 	- [[An Empirical Investigation of Personality Traits of Software Testers]]
+	- [[REVISIÓN, VERIFICACIÓN Y VALIDACIÓN EN UN PROCESO DE DESARROLLO DE SOFTWARE]]
+	- [[Seven Principles of Software Testing]]
 	- [[Un sondeo sobre la práctica actual de pruebas de software en España]]
 - [[Rol del Ingeniero de pruebas]]
 - [[SCRUM]]

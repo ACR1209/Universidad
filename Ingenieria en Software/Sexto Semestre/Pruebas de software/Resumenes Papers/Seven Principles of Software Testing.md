@@ -1,0 +1,8 @@
+El paper fue realizado en 2008 y describe siete principios definidos para el testing de software; el autor destaca que los principios surgieron de su experiencia del testing y de el desarrollo de un aplicativo de testing automático. Los siete principios son: 
+1) Definición: testear un software es tratar de hacerlo fallar; se encarga de poner en términos claros que significa testear perse
+2) Test vs Especificaciones: los test no son substitutos para las especificaciones de software; se denota que las especificaciones ayudan a generar los test y que estos ultimo no facilitan lo mismo a lado opuesto.
+3) Testing de regresión: cualquier ejecución fallida debe producir un caso de prueba, para que permanezca como parte del conjunto de pruebas del proyecto; es decir los casos de prueba son incrementales a lo largo de todo el proyecto.
+4) Aplicar oráculos: la determinación del éxito o el fracaso de pruebas debe ser un proceso automático. 
+5) Los test manual y los test automáticos: un proceso de pruebas eficaz debe incluir casos de prueba tanto manuales como manualmente y automáticamente.
+6) Evaluar las herramientas empíricamente: evaluar cualquier estrategia de pruebas, por muy atractiva que sea en principio, mediante una evaluación objetiva utilizando criterios explícitos en un proceso de reproducible.
+7) Criterios de evaluación: la propiedad más importante de una estrategia de propiedad es el número de fallos que descubre en función del tiempo.
