@@ -11,8 +11,12 @@
             "id": "189ea0317b9373bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
