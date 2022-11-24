@@ -7,7 +7,7 @@ El limite es el almacenamiento como tal.
 Se limita por el hardware o los recursos computacionales (CPU, Memoria y puertos I/O)
 
 ## Tipos
-- Tipo 1 o "bare metal": actúa como un sistema operativo ligero y corre directamente en el hardware del host.
+- Tipo 1 o "bare metal": actúa como un [[Sistema Operativo|sistema operativo]] ligero y corre directamente en el hardware del host.
 	
 	![[Drawing 2022-11-15 18.43.31.excalidraw|350]]
 - Tipo 2 o "hosted": corre en la capa del software del sistema operativo, como cualquier otro programa.
