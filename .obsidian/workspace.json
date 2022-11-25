@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Ciclo de vida de una activada.md",
+                "file": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 200
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Ciclo de vida de una activada.md",
+                "file": "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "85b4fde852fc0c76",
   "lastOpenFiles": [
-    "Images/Pasted image 20221124194442.png",
     "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Ciclo de vida de una activada.md",
+    "Images/Pasted image 20221124194442.png",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Towards a unified catalog of attributes to guide industry in software testing technique selection.md",
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/REVISIÓN, VERIFICACIÓN Y VALIDACIÓN EN UN PROCESO DE DESARROLLO DE SOFTWARE.md",
