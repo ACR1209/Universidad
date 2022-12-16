@@ -4,6 +4,7 @@
 - [[DEVOPS]]
 - **Resumenes Papers**
 	- [[An Empirical Investigation of Personality Traits of Software Testers]]
+	- [[Calidad en la inspección de requerimientos de software una propuesta de medicion]]
 	- [[REVISIÓN, VERIFICACIÓN Y VALIDACIÓN EN UN PROCESO DE DESARROLLO DE SOFTWARE]]
 	- [[Seven Principles of Software Testing]]
 	- [[Towards a unified catalog of attributes to guide industry in software testing technique selection]]
