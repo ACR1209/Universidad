@@ -1,0 +1,1 @@
+In these type of machine learning, we feed the data to the algorithm without labels or we can say we don't know what our output should look like and there is not a relationship between input and output.
