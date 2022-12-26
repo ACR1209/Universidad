@@ -20,12 +20,26 @@
             }
           },
           {
-            "id": "7f1548cf31f72cd4",
+            "id": "97a487a7ff124976",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba0e3cf2a61bf715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Mean Square Error.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Supervised Learning.md",
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +150,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f1548cf31f72cd4",
+  "active": "97a487a7ff124976",
   "lastOpenFiles": [
+    "Ingenieria en Software/Data Science/Machine Learning/Mean Square Error.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Linear Regression.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Supervised Learning.md",
     "Ingenieria en Software/Data Science/Machine Learning/Label.md",
     "Ingenieria en Software/Data Science/Machine Learning/Feature.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Supervised Learning.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md",
     "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
     "Ingenieria en Software/Data Science/Data Science.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Overfitting training data.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Underfitting training data.md",
-    "Excalidraw/Drawing 2022-12-25 18.21.38.excalidraw.md",
-    "Writing/The Craft of Writing Effectively.md"
+    "Ingenieria en Software/Data Science/Machine Learning/Overfitting training data.md"
   ]
 }
