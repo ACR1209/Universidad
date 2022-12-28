@@ -2,7 +2,7 @@ In statistics, the mean squared error (MSE)or mean squared deviation (MSD) of an
 
 ## Mathematical formulation
 $$
-J(\beta) = \frac{1}{m} + \sum_{n=1}^{m} (\hat{y}-y_n)
+J(\beta) = \frac{1}{m} * \sum_{n=1}^{m} (\hat{y}-y_n)^2
 $$
 Where:
 - $m$ is the number of datapoints or actual values.
