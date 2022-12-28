@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe1dff57bbc10ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25b058f48ed575b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
+                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +150,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a23e1bfe4ace9c91",
+  "active": "25b058f48ed575b5",
   "lastOpenFiles": [
+    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 1.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Polynomial Regression.md",
     "Ingenieria en Software/Data Science/Machine Learning/Linear Regression.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Gradient Descent Algorithm.md",
     "Ingenieria en Software/Data Science/Machine Learning/Supervised Learning.md",
     "Ingenieria en Software/Data Science/Machine Learning/Mean Square Error.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Label.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Feature.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
-    "Ingenieria en Software/Data Science/Data Science.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Overfitting training data.md"
+    "Excalidraw/Drawing 2022-12-27 20.42.41.excalidraw.md",
+    "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md"
   ]
 }

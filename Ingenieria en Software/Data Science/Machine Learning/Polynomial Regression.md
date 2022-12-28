@@ -1,0 +1,1 @@
+It's like a [[Linear Regression]] but it takes into consideration that the data es not linear, needing more adaptation. 

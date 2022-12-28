@@ -30,4 +30,16 @@ x_p\\
 $$
 Thus the linear regression is:
 $$ y=\beta*X$$
+## Normal equation
+To get the optimal $\beta$ we can:
+$$
+\beta = (X^T*X)^-1*X^T*Y
+$$
+$X$ are the features
+$Y$ are labels
 
+## Uses
+The linear regression has several uses but we have to take into account the following:
+- The data should be linear meaning that the data should seem fit to be represented by a line.
+- The data should have no or little multicollinearity, meaning that every feature should be independent.
+- 
