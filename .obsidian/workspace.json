@@ -4,52 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a169f88801730dde",
+        "id": "db44ee06c22cb5ac",
         "type": "tabs",
         "children": [
           {
-            "id": "a23e1bfe4ace9c91",
+            "id": "2dc24060ec37c97e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
+                "file": "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c65d4acc9735fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Calidad en la inspección de requerimientos de software una propuesta de medicion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfe1dff57bbc10ca",
+            "id": "f22a1b09da9576bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b058f48ed575b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f18ecebe0a46666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Evaluation of Test Coverage Tools in Software Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 200
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -114,14 +102,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Evaluation of Test Coverage Tools in Software Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,30 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193,
-    "collapsed": true
+    "width": 200
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
-    }
-  },
-  "active": "25b058f48ed575b5",
+  "active": "f22a1b09da9576bc",
   "lastOpenFiles": [
-    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 1.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Polynomial Regression.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Linear Regression.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Gradient Descent Algorithm.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Supervised Learning.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Mean Square Error.md",
-    "Excalidraw/Drawing 2022-12-27 20.42.41.excalidraw.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Unsupervised Learning.md"
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Calidad en la inspección de requerimientos de software una propuesta de medicion.md",
+    "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Ciclo de vida de una activada.md",
+    "Images/Pasted image 20221124194442.png",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Towards a unified catalog of attributes to guide industry in software testing technique selection.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/REVISIÓN, VERIFICACIÓN Y VALIDACIÓN EN UN PROCESO DE DESARROLLO DE SOFTWARE.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Seven Principles of Software Testing.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Empirical Investigation of Personality Traits of Software Testers.md"
   ]
 }
