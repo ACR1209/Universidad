@@ -6,16 +6,30 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] HW: Tipos Hipervisores, contenedores, VM, kubernets
+- [ ] 2.- 2 cursos en 1 diseño: taller de ecografía ginecológica y taller de ecografía abdominal/ 2 meses/100% online/ avalado por la universidad de los hemisferios/ pago único:125 dólares/ 2 meses/ 2 meses es decir 8 clases
+- [ ] 3.- taller:  Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
+- [ ] 4. Taller: Aparatología en estética y mesoterapia corporal: técnicas y protocolos novedosos
+- [ ] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
+- [ ] 6.- Taller: Experto en el manejo de niños con disortografía, disgrafia y discalculia/ 100% online/ aval de la universidad
+- [ ] 7.- Taller: Experto en el manejo de niños con déficit de atención con y sin hiperactividad/100% online/ aval de la universidad/ 3 meses
+- [ ] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
+- [ ] 9.- Curso práctico de imageneología con la foto de Galo Sanpedro. Logo de la universidad
+- [ ] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
+- [ ] 11.- Taller de inyectología clínica, toma de signos vitales y sueroterapia. Logo de la cámara
+- [ ] 12. Taller Aplicación con plasma intraarticular. Sin logos
+- [ ] 13.- Convalida tu experiencia laboral: Obten tu certificado especialista en optometría
+- [ ] 14.- Convalida tu experiencia laboral: Obten tu certificado en Auxiliar en laboratorio Clínico
 
 
 ## Doing
 
+- [ ] 1.-  2 cursos en 1 diseño: taller de ecografía pediátrica/ taller de ecofast. 100% online/avalado por la universidad de los hemisferios/ 125 dólares/ 2 meses es decir 8 clases
 
 
 ## Done
 
 **Complete**
+- [x] HW: Tipos Hipervisores, contenedores, VM, kubernets
 - [x] Homework: Resumen del paper pruebas de software
 - [x] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
 
