@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
 - [ ] 13.- Convalida tu experiencia laboral: Obten tu certificado especialista en optometría
 - [ ] 14.- Convalida tu experiencia laboral: Obten tu certificado en Auxiliar en laboratorio Clínico
+- [ ] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
 
 
 ## Doing
