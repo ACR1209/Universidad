@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a893a7eb652b081",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +137,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a893a7eb652b081",
+  "active": "f22a1b09da9576bc",
   "lastOpenFiles": [
     "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Calidad en la inspección de requerimientos de software una propuesta de medicion.md",
     "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
