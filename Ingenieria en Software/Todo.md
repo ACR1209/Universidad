@@ -19,12 +19,12 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] 11.- Taller de inyectología clínica, toma de signos vitales y sueroterapia. Logo de la cámara
 
 
 ## Done
 
 **Complete**
+- [x] 11.- Taller de inyectología clínica, toma de signos vitales y sueroterapia. Logo de la cámara
 - [x] 4. Taller: Aparatología en estética y mesoterapia corporal: técnicas y protocolos novedosos
 - [x] 12. Taller Aplicación con plasma intraarticular. Sin logos
 - [x] 3.- taller:  Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
