@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] 2.- 2 cursos en 1 diseño: taller de ecografía ginecológica y taller de ecografía abdominal/ 2 meses/100% online/ avalado por la universidad de los hemisferios/ pago único:125 dólares/ 2 meses/ 2 meses es decir 8 clases
-- [ ] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
 - [ ] 6.- Taller: Experto en el manejo de niños con disortografía, disgrafia y discalculia/ 100% online/ aval de la universidad
 - [ ] 7.- Taller: Experto en el manejo de niños con déficit de atención con y sin hiperactividad/100% online/ aval de la universidad/ 3 meses
 - [ ] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
@@ -20,6 +19,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
 
 
 ## Done
