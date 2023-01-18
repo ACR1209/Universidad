@@ -12,28 +12,26 @@ kanban-plugin: basic
 - [ ] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
 - [ ] 9.- Curso práctico de imageneología con la foto de Galo Sanpedro. Logo de la universidad
 - [ ] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
-- [ ] 13.- Convalida tu experiencia laboral: Obten tu certificado especialista en optometría
-- [ ] 14.- Convalida tu experiencia laboral: Obten tu certificado en Auxiliar en laboratorio Clínico
 - [ ] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
+- [ ] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
 
 
 ## Doing
 
-- [ ] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
 
 
 ## Done
 
 **Complete**
+- [x] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
+- [x] 14.- Convalida tu experiencia laboral: Obten tu certificado en Auxiliar en laboratorio Clínico
+- [x] 13.- Convalida tu experiencia laboral: Obtén tu certificado especialista en optometría
 - [x] 11.- Taller de inyectología clínica, toma de signos vitales y sueroterapia. Logo de la cámara
 - [x] 4. Taller: Aparatología en estética y mesoterapia corporal: técnicas y protocolos novedosos
 - [x] 12. Taller Aplicación con plasma intraarticular. Sin logos
 - [x] 3.- taller:  Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
-- [x] HW: Tipos Hipervisores, contenedores, VM, kubernets
 - [x] Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
 - [x] 1.-  2 cursos en 1 diseño: taller de ecografía pediátrica/ taller de ecofast. 100% online/avalado por la universidad de los hemisferios/ 125 dólares/ 2 meses es decir 8 clases
-- [x] Homework: Resumen del paper pruebas de software
-- [x] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
 
 
 ***
@@ -102,6 +100,9 @@ kanban-plugin: basic
 - [x] Wheelchair ESPE: Add "show all markers" button @{2022-07-17}
 - [x] Wheelchair ESPE: Implement Dijkstra and A* algorithms @{2022-07-17}
 - [x] Wheelchair ESPE: Create graph data structure @{2022-07-17}
+- [x] Homework: Resumen del paper pruebas de software
+- [x] Homework: Sistemas Operativos, identificar dispositivos y sus respectivos SO
+- [x] HW: Tipos Hipervisores, contenedores, VM, kubernets
 
 %% kanban:settings
 ```
