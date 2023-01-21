@@ -29,7 +29,14 @@ def linearRegression(x: list[int], y:list[int])->tuple[int]:
 ```
 
 **4.) What is Overfitting and underfitting?**
+Overfitting: when the model only works in the data provided in training.
+Underfitting: when there is not enough data to make a good model.
+
 **5.) How can we prevent underfitting and overfitting?**
+Gather more data.
+
 **6.) What is regularization?**
+Allows the model to avoid overfitting by ignoring the unnecessary noise in it.
+
 **7.) Write Ridge and Lasso regression from scratch in python?** 
 **8.) Take a regression dataset from UCI ML Repo and Implement Linear Regression and regularized linear models using Sklearn.**
