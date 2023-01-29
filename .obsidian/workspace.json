@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a169f88801730dde",
+        "id": "98b1cd92d5654348",
         "type": "tabs",
         "children": [
           {
-            "id": "25b058f48ed575b5",
+            "id": "50b959ffecae581a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
-                "mode": "source",
-                "source": false
+                "file": "Ingenieria en Software/Todo.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
+                "file": "Ingenieria en Software/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +111,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "25b058f48ed575b5",
+  "active": "50b959ffecae581a",
   "lastOpenFiles": [
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+    "Ingenieria en Software/Todo.md",
+    "conflict-files-obsidian-git.md",
+    "Ingenieria en Software/Ingenieria en Software.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
     "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 1.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Introduction to Machine Learning.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Polynomial Regression.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Linear Regression.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Cost Function.md"
+    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md"
   ]
 }

@@ -6,14 +6,7 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] 2.- 2 cursos en 1 diseño: taller de ecografía ginecológica y taller de ecografía abdominal/ 2 meses/100% online/ avalado por la universidad de los hemisferios/ pago único:125 dólares/ 2 meses/ 2 meses es decir 8 clases
-- [ ] 6.- Taller: Experto en el manejo de niños con disortografía, disgrafia y discalculia/ 100% online/ aval de la universidad
-- [ ] 7.- Taller: Experto en el manejo de niños con déficit de atención con y sin hiperactividad/100% online/ aval de la universidad/ 3 meses
-- [ ] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
-- [ ] 9.- Curso práctico de imageneología con la foto de Galo Sanpedro. Logo de la universidad
-- [ ] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
 - [ ] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
-- [ ] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
 
 
 ## Doing
@@ -23,6 +16,13 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
+- [x] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
+- [x] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
+- [x] 7.- Taller: Experto en el manejo de niños con déficit de atención con y sin hiperactividad/100% online/ aval de la universidad/ 3 meses
+- [x] 9.- Curso práctico de imageneología con la foto de Galo Sanpedro. Logo de la universidad
+- [x] 6.- Taller: Experto en el manejo de niños con disortografía, disgrafia y discalculia/ 100% online/ aval de la universidad
+- [x] 2.- 2 cursos en 1 diseño: taller de ecografía ginecológica y taller de ecografía abdominal/ 2 meses/100% online/ avalado por la universidad de los hemisferios/ pago único:125 dólares/ 2 meses/ 2 meses es decir 8 clases
 - [x] 5. Curso Especialista en Enfermería en estética y dermatocosmiatria/ logo de la cámara artesanal de pichinca/ 8 meses/ 76 dólares
 - [x] 14.- Convalida tu experiencia laboral: Obten tu certificado en Auxiliar en laboratorio Clínico
 - [x] 13.- Convalida tu experiencia laboral: Obtén tu certificado especialista en optometría
