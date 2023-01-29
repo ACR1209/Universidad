@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98b1cd92d5654348",
+        "id": "db44ee06c22cb5ac",
         "type": "tabs",
         "children": [
           {
-            "id": "50b959ffecae581a",
+            "id": "f22a1b09da9576bc",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -59,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 200
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -82,7 +82,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -111,17 +111,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50b959ffecae581a",
+  "active": "f22a1b09da9576bc",
   "lastOpenFiles": [
-    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Normalización.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Vista.md",
     "Ingenieria en Software/Todo.md",
-    "conflict-files-obsidian-git.md",
-    "Ingenieria en Software/Ingenieria en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md",
-    "Ingenieria en Software/Data Science/Machine Learning/Problem Sets/Problem Set 2.md"
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Evaluation of Test Coverage Tools in Software Testing.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Calidad en la inspección de requerimientos de software una propuesta de medicion.md",
+    "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md",
+    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Tipos de defecto.md",
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+    "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles/Ciclo de vida de una activada.md"
   ]
 }
