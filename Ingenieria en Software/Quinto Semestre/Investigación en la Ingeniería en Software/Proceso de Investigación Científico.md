@@ -1,10 +1,10 @@
-Es el proceso de descubir hechos e información acerca sobre los fenómenos que suceden en nuestra realidad. Es importante porque mejora nuestro entendimiento y nos ayuda a solucionar problemas.
+Es el proceso de descubrir hechos e información acerca sobre los fenómenos que suceden en nuestra realidad. Es importante porque mejora nuestro entendimiento y nos ayuda a solucionar problemas.
 
 ## Características
-- Conciente: debe tener un objetivo o propósito.
+- Consiente: debe tener un objetivo o propósito.
 - Sistemática: debe seguir un plan definido de investigación.
 - Objetiva: debe estar separado de las opiniones y sentimientos del investigador.
-- Replicable: debe ser posible que la investigació sea reproducida por los demás.
+- Replicable: debe ser posible que la investigación sea reproducida por los demás.
 
 ## Pasos
 1. [[Definición del problema|Definir el problema]].

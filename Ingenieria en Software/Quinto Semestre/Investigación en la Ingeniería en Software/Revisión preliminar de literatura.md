@@ -16,7 +16,7 @@ Hay diferentes tipos de revisiones:
 	Es la busqueda de literatura desde diferentes fuentes, más esta es estructurada y sistematica. Estas fuentes son generalmente obtenidades de base de datos o librerias digitales. 
 	
 	Su propósito es encontrar datos empiricos de los experimentos similares.Es decir, resume los datos empiricos y los analiza dando una respuesta a una pregunta de investigación, encontrando nuevos hallazgos.
-- SMS (Buscan conecptos especificos en la literatura, se obtiene de 5 bases digitales)
+- SMS (Buscan conceptos especificos en la literatura, se obtiene de 5 bases digitales)
 	Es la búsqueda de literatura de diferentes fuentes, estructurada y sistematica. Su proposito es encontrar información especifica en las fuentes para posteriormente sintetizar la información, de igual manera da respuesta a una pregunta de investigación.
 - PLR (Mismo proceso pero en una sola base digital)
 	Es de igual manera investigar de diferentes fuentes/articulos, es estructurada y sistematica y esta basada en SLR o en una SMS. Es minima y reducida en comparación en la SLR o SMS usando una sola base digital. 
@@ -45,7 +45,7 @@ Las DDoL más importantes en Ing. en Software:
 - Cadena de búsqueda.
 	Revisar cada estudio del grupo de control para encontrar los términos representativos. Usar **OR** para conectar sinónimos (Grupo de palabras similares) y usar **AND** para unir otros términos. Usar solo una base digital, preferiblemente SCOPUS.
 	
-	El objetivo es encontrar un número manejable de estudios, que los titulos sean relacionados al tópico de estudio donde la mayoría de los estudios del grupo de control este contenido. Una vez se obtienen estas tres cosas, los estudios obtenidos son estudios candidatos. 
+	El objetivo es encontrar un número manejable de estudios, que los títulos sean relacionados al tópico de estudio donde la mayoría de los estudios del grupo de control este contenido. Una vez se obtienen estas tres cosas, los estudios obtenidos son estudios candidatos. 
 - Proceso de Selección.
 	Encontrar los estudios mas representativos pero no una gran cantidad de ellos. Generalmente se hace usando Focus Groups, que tan actual son, y cual es su impacto; esto resulta en los estudios primarios.
 	
