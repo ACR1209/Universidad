@@ -6,23 +6,24 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
 - [ ] Design: taller de Aplicación de ácido hialurónico avanzado
 - [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
-- [ ] Desing: ESPECIALISTA EN PODOLOGIA EN EL SUR/ CON EL LOGO DE LA UNIVERSIDAD
-- [ ] Desing: ESPECIALISTA EN QUIROPRAXIA EN EL SUR/ CON EL LOGO DE LA UNI8VERSIDAD
-- [ ] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
-- [ ] Desing: UN DISEÑO QUE DIGA DONDE ESTA pRAXIS? QUIKTO NORTE , QUITO SUR , GUAYAQUIL, MANTA CON EL LOGO DE LA UNI
 - [ ] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 
 
 ## Doing
 
-- [ ] Design: Casa Guayaquil edit
+- [ ] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
 
 
 ## Done
 
+**Complete**
+- [x] Desing: ESPECIALISTA EN PODOLOGIA EN EL SUR/ CON EL LOGO DE LA UNIVERSIDAD
+- [x] Desing: ESPECIALISTA EN QUIROPRAXIA EN EL SUR/ CON EL LOGO DE LA UNI8VERSIDAD
+- [x] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
+- [x] Desing: UN DISEÑO QUE DIGA DONDE ESTA pRAXIS? QUIKTO NORTE , QUITO SUR , GUAYAQUIL, MANTA CON EL LOGO DE LA UNI
+- [x] Design: Casa Guayaquil edit
 
 
 ***
