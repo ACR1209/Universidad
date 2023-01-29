@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Design: Casa Guayaquil edit
 - [ ] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
 - [ ] Design: taller de Aplicación de ácido hialurónico avanzado
 - [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
@@ -19,6 +18,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] Design: Casa Guayaquil edit
 
 
 ## Done
