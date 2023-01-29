@@ -6,7 +6,15 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
+- [ ] Design: Casa Guayaquil edit
+- [ ] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
+- [ ] Design: taller de Aplicación de ácido hialurónico avanzado
+- [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
+- [ ] Desing: ESPECIALISTA EN PODOLOGIA EN EL SUR/ CON EL LOGO DE LA UNIVERSIDAD
+- [ ] Desing: ESPECIALISTA EN QUIROPRAXIA EN EL SUR/ CON EL LOGO DE LA UNI8VERSIDAD
+- [ ] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
+- [ ] Desing: UN DISEÑO QUE DIGA DONDE ESTA pRAXIS? QUIKTO NORTE , QUITO SUR , GUAYAQUIL, MANTA CON EL LOGO DE LA UNI
+- [ ] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 
 
 ## Doing
@@ -15,7 +23,13 @@ kanban-plugin: basic
 
 ## Done
 
-**Complete**
+
+
+***
+
+## Archive
+
+- [x] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
 - [x] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
 - [x] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
 - [x] 8.- Taller 100% online/ gratuito ¿Cómo tratar el déficit de atención con hiperactividad en niños? La foto de la profesora Maria teresa/
@@ -32,12 +46,6 @@ kanban-plugin: basic
 - [x] 3.- taller:  Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
 - [x] Aparatología en estética y mesoterapia facial: técnicas y protocolos novedosos
 - [x] 1.-  2 cursos en 1 diseño: taller de ecografía pediátrica/ taller de ecofast. 100% online/avalado por la universidad de los hemisferios/ 125 dólares/ 2 meses es decir 8 clases
-
-
-***
-
-## Archive
-
 - [x] Design: Ofimática Básica
 - [x] Design: Especialista en coctelería
 - [x] Design: INSCRIBETE EN DICIEMBRE Y ESTUDIA EN ENERO 10% DE. DESCUENTO EN TODO EL CURSO
