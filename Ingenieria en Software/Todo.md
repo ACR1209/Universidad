@@ -6,19 +6,19 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Design: taller de Aplicación de ácido hialurónico avanzado
-- [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 - [ ] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 
 
 ## Doing
 
-- [ ] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
+- [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 
 
 ## Done
 
 **Complete**
+- [x] Design: taller de Aplicación de ácido hialurónico avanzado
+- [x] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
 - [x] Desing: ESPECIALISTA EN PODOLOGIA EN EL SUR/ CON EL LOGO DE LA UNIVERSIDAD
 - [x] Desing: ESPECIALISTA EN QUIROPRAXIA EN EL SUR/ CON EL LOGO DE LA UNI8VERSIDAD
 - [x] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
