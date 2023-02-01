@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 
 
 ## Doing
 
-- [ ] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 
 
 ## Done
 
 **Complete**
+- [x] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
+- [x] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 - [x] Design: taller de Aplicación de ácido hialurónico avanzado
 - [x] Design: taller de aparatologia y mesoterapia facial on el aval de la camara
 - [x] Desing: ESPECIALISTA EN PODOLOGIA EN EL SUR/ CON EL LOGO DE LA UNIVERSIDAD

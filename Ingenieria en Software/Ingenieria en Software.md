@@ -1,6 +1,7 @@
 # Ingenieria en Software
 %% Begin Waypoint %%
 - **[[Algorithms]]**
+- **[[Artificial Intelligence]]**
 - **[[Data Science]]**
 - **[[Data structures]]**
 - **[[Quinto Semestre]]**
