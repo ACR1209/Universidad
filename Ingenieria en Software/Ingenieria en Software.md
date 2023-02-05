@@ -4,6 +4,11 @@
 - **[[Artificial Intelligence]]**
 - **[[Data Science]]**
 - **[[Data structures]]**
+- **Google Data Analytics Course**
+	- **Foundations**
+		- **Module 1**
+			- [[Data Analysis]]
+			- [[Data]]
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**

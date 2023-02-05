@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "db44ee06c22cb5ac",
+        "id": "98b1cd92d5654348",
         "type": "tabs",
         "children": [
           {
-            "id": "f22a1b09da9576bc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Ingenieria en Software/Todo.md"
-              }
-            }
-          },
-          {
-            "id": "8a2f11f628c1b448",
+            "id": "d2ae61ef4b1bb336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Artificial Intelligence/Intelligent Agents.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ec80b4d9f3c59b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 428
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -88,14 +90,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Artificial Intelligence/Intelligent Agents.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -111,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 193,
     "collapsed": true
   },
   "left-ribbon": {
@@ -124,17 +126,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a2f11f628c1b448",
+  "active": "4ec80b4d9f3c59b4",
   "lastOpenFiles": [
-    "Ingenieria en Software/Artificial Intelligence/Artificial Intelligence.md",
-    "Ingenieria en Software/Artificial Intelligence/Intelligent Agents.md",
-    "Ingenieria en Software/Untitled.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
     "Ingenieria en Software/Todo.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Normalización.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Vista.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Particionamiento.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/An Evaluation of Test Coverage Tools in Software Testing.md",
-    "Ingenieria en Software/Sexto Semestre/Pruebas de software/Resumenes Papers/Calidad en la inspección de requerimientos de software una propuesta de medicion.md",
-    "Ingenieria en Software/Data Science/Sentiment Analysis/Naive Bayes Algorithm.md"
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
+    "conflict-files-obsidian-git.md",
+    "Ingenieria en Software/Ingenieria en Software.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Reporte de hallazgos.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Experimento.md",
+    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Revisión preliminar de literatura.md"
   ]
 }

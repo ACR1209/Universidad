@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabGoogle",
       "RiCodeSLine",
       "RiSmartphoneLine",
       "FasBrain",
-      "FabLinux",
-      "RiTestTubeLine"
+      "FabLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,5 @@
   "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento": "FasBrain",
   "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles": "RiSmartphoneLine",
   "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software": "RiCodeSLine",
-  "Ingenieria en Software/Artificial Intelligence": "FasBrain"
+  "Ingenieria en Software/Google Data Analytics Course": "FabGoogle"
 }
