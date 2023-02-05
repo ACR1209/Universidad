@@ -9,6 +9,7 @@
 		- **Module 1**
 			- [[Data Analysis Process]]
 			- [[Data Analysis]]
+			- [[Data Ecosystems]]
 			- [[Data]]
 			- [[People Analytics]]
 - **[[Quinto Semestre]]**

@@ -42,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "346b99878cda67a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +149,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "142d1989fe3e0638",
+  "active": "d2ae61ef4b1bb336",
   "lastOpenFiles": [
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
     "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
     "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "conflict-files-obsidian-git.md",
-    "Ingenieria en Software/Ingenieria en Software.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Análisis de datos.md",
-    "Ingenieria en Software/Quinto Semestre/Investigación en la Ingeniería en Software/Proceso de Investigación Científico.md"
+    "Ingenieria en Software/Ingenieria en Software.md"
   ]
 }

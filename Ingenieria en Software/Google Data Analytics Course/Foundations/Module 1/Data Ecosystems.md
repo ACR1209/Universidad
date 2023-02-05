@@ -1,0 +1,2 @@
+Are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and 
+the people who use them.
