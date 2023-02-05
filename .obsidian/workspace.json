@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +150,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d2ae61ef4b1bb336",
+  "active": "346b99878cda67a0",
   "lastOpenFiles": [
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
     "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
     "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
     "conflict-files-obsidian-git.md",
