@@ -1,0 +1,1 @@
+Using data analysis to gain insights about employees and how they experience their work lives. The insights are used to define and create a more productive and empowering workplace. This can unlock employee potential, motivate people to perform at their best, and ensure a fair and inclusive company culture.

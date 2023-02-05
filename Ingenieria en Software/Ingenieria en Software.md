@@ -10,6 +10,7 @@
 			- [[Data Analysis Process]]
 			- [[Data Analysis]]
 			- [[Data]]
+			- [[People Analytics]]
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**

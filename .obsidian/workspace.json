@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "142d1989fe3e0638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +138,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4ec80b4d9f3c59b4",
+  "active": "142d1989fe3e0638",
   "lastOpenFiles": [
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
     "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
     "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
