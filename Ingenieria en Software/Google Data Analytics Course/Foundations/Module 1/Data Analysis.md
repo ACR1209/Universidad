@@ -1,1 +1,1 @@
-Is the collection, transformation, and organization of data in order to draw conclusions,  make predictions, and drive informed decision-making
+Is the collection, transformation, and organization of [[Data|data]] in order to draw conclusions,  make predictions, and drive informed decision-making.
