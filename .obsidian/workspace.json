@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ec80b4d9f3c59b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "142d1989fe3e0638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "346b99878cda67a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +113,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "346b99878cda67a0",
+  "active": "d2ae61ef4b1bb336",
   "lastOpenFiles": [
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Science.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Dataset.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Analysis Process.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/People Analytics.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Module 1/Data Ecosystems.md",
     "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
     "Ingenieria en Software/Todo.md",
-    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md",
-    "conflict-files-obsidian-git.md",
-    "Ingenieria en Software/Ingenieria en Software.md"
+    "Ingenieria en Software/Algorithms/Backtracking/N Queens.md"
   ]
 }

@@ -10,7 +10,9 @@
 			- [[Data Analysis Process]]
 			- [[Data Analysis]]
 			- [[Data Ecosystems]]
+			- [[Data Science]]
 			- [[Data]]
+			- [[Dataset]]
 			- [[People Analytics]]
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**

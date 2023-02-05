@@ -1,6 +1,6 @@
 # Numsense! Data Science for the Layman (No Math Added) - Annalyn Ng and Kenneth Soo
 
-This is a non fiction book. Focused on [[Data Science]] and it's concepts. It explains these using real life examples like finding customers clusters, titanic survivors, relationships between countries and their influence, etc. Introduces concept vital to data science, such as A/B Testing, Neuronal Networks, Decision Tree and Random Forests, k-means Clustering, PCA, Social Network Analysis and Regression Analysis.
+This is a non fiction book. Focused on [[Ingenieria en Software/Data Science/Data Science]] and it's concepts. It explains these using real life examples like finding customers clusters, titanic survivors, relationships between countries and their influence, etc. Introduces concept vital to data science, such as A/B Testing, Neuronal Networks, Decision Tree and Random Forests, k-means Clustering, PCA, Social Network Analysis and Regression Analysis.
 
 > Imagine yourself as a young doctor. A patient enters your clinic, complaining of breathlessness, chest pains, and the occasional heartburn. You check that his blood pressure and heart rate readings are normal, and that he has had no previous medical conditions. Sizing him up, you notice that he looks plump. As his symptoms are common among people who are overweight, you reassure him that everything is under control and recommend that he finds time to exercise. 
 > 
