@@ -7,6 +7,7 @@
 - **Google Data Analytics Course**
 	- **Foundations**
 		- **Module 1**
+			- [[Data Analysis Process]]
 			- [[Data Analysis]]
 			- [[Data]]
 - **[[Quinto Semestre]]**
