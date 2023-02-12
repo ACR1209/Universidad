@@ -8,6 +8,9 @@ It has the following steps:
 5.  **Share**: Communicating and interpreting results 
 6.  **Act**:  Putting your insights to work to solve the problem
 
+![[XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf]]
+
+
 ## Dell's Process
 EMC Corporation's data analytics life cycle is cyclical with six steps:
 1.  Discovery
