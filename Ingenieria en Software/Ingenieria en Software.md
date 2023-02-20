@@ -5,15 +5,16 @@
 - **[[Data Science]]**
 - **[[Data structures]]**
 - **Google Data Analytics Course**
+	- **Ask**
+		- [[SMART questions]]
 	- **Foundations**
-		- **Module 1**
-			- [[Data Analysis Process]]
-			- [[Data Analysis]]
-			- [[Data Ecosystems]]
-			- [[Data Science]]
-			- [[Data]]
-			- [[Dataset]]
-			- [[People Analytics]]
+		- [[Data Analysis Process]]
+		- [[Data Analysis]]
+		- [[Data Ecosystems]]
+		- [[Data Science]]
+		- [[Data]]
+		- [[Dataset]]
+		- [[People Analytics]]
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**
