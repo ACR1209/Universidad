@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "c6f338572b18ab07",
+            "id": "f3ee02df23780e09",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +138,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c6f338572b18ab07",
+  "active": "f3ee02df23780e09",
   "lastOpenFiles": [
+    "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
     "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
     "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf",
