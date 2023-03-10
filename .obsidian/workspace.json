@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7de0472939fe886a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6f338572b18ab07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +136,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d2ae61ef4b1bb336",
+  "active": "c6f338572b18ab07",
   "lastOpenFiles": [
+    "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
     "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md",
@@ -123,7 +147,6 @@
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Dataset.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data.md",
-    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md",
-    "Ingenieria en Software/Todo.md"
+    "Ingenieria en Software/Quinto Semestre/Quinto Semestre.md"
   ]
 }

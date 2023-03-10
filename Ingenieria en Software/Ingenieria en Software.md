@@ -6,6 +6,7 @@
 - **[[Data structures]]**
 - **Google Data Analytics Course**
 	- **Ask**
+		- [[Context in data]]
 		- [[SMART questions]]
 	- **Foundations**
 		- [[Data Analysis Process]]
