@@ -14,12 +14,18 @@
 - **Prepare**
 	- [[Continuos Data]]
 	- [[Data formats]]
+	- [[Data Modeling]]
 	- [[Discrete Data]]
+	- [[External Data]]
 	- [[Internal Data]]
 	- [[Nominal data]]
 	- [[Ordinal data]]
+	- [[Primary Data]]
 	- [[Qualitative data]]
 	- [[Quantitative data]]
+	- [[Secondary data]]
 	- [[Selecting the right data]]
+	- [[Structured data]]
+	- [[Unstructured data]]
 
 %% End Waypoint %%

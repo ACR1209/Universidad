@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d187105f0252f3e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unstructured data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unstructured data.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,20 +113,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d187105f0252f3e2",
+  "active": "a7cfc6667b713738",
   "lastOpenFiles": [
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Data Modeling.md",
+    "Images/Pasted image 20230311104437.png",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Unstructured data.md",
+    "Images/Pasted image 20230311104105.png",
+    "Images/Pasted image 20230311104056.png",
     "Ingenieria en Software/Google Data Analytics Course/Google Data Analytics Course.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
     "Ingenieria en Software/Data Science/Data Science.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Dataset.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
-    "Secondary data.md",
-    "Primary Data.md",
-    "Unstructured data.md",
-    "Structured data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Secondary data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Primary Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Selecting the right data.md",
-    "External Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Internal Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Qualitative data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Ordinal data.md",
@@ -154,8 +145,6 @@
     "Images/Pasted image 20230311095435.png",
     "Ingenieria en Software/Google Data Analytics Course/Prepare",
     "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Ecosystems.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/People Analytics.md"
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md"
   ]
 }
