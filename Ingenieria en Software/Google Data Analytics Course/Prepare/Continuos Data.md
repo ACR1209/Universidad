@@ -1,0 +1,1 @@
+[[Data]] that is measured and can have almost any numeric value. Continuous data can be measured using a timer, and its value can be shown as a decimal with several places.

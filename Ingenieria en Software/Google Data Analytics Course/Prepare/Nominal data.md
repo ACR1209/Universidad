@@ -1,0 +1,1 @@
+A type of [[Qualitative data|qualitative data]] that is categorized without a set order. Yes and no are nominal for example.
