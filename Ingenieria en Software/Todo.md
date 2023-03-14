@@ -6,21 +6,21 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] especialista en peluquería canina
-- [ ] especialista en terapia de lenguaje
-- [ ] especialista en Quiropraxia
 - [ ] pilates
-- [ ] CAPACITATE EN ACUPUNTURA, DIGITOPUNTURA Y MOXIBUSTION
 
 
 ## Doing
 
-- [ ] especialista en podologia cosmiatrica
+- [ ] especialista en Quiropraxia
 
 
 ## Done
 
 **Complete**
+- [x] especialista en terapia de lenguaje
+- [x] CAPACITATE EN ACUPUNTURA, DIGITOPUNTURA Y MOXIBUSTION
+- [x] especialista en peluquería canina
+- [x] especialista en podologia cosmiatrica
 - [x] auxiliar de veterinaria (qué tenga varios animales)
 
 
