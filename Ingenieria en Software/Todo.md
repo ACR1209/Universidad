@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] pilates
 
 
 ## Doing
 
-- [ ] especialista en Quiropraxia
+- [ ] pilates
 
 
 ## Done
 
 **Complete**
+- [x] especialista en Quiropraxia
 - [x] especialista en terapia de lenguaje
 - [x] CAPACITATE EN ACUPUNTURA, DIGITOPUNTURA Y MOXIBUSTION
 - [x] especialista en peluquería canina
