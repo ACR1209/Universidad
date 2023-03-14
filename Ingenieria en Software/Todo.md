@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] auxiliar de veterinaria (qué tenga varios animales)
-- [ ] especialista en podologia cosmiatrica
 - [ ] especialista en peluquería canina
 - [ ] especialista en terapia de lenguaje
 - [ ] especialista en Quiropraxia
@@ -17,11 +15,13 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] especialista en podologia cosmiatrica
 
 
 ## Done
 
 **Complete**
+- [x] auxiliar de veterinaria (qué tenga varios animales)
 
 
 ***
