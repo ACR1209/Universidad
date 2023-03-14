@@ -6,6 +6,13 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] auxiliar de veterinaria (qué tenga varios animales)
+- [ ] especialista en podologia cosmiatrica
+- [ ] especialista en peluquería canina
+- [ ] especialista en terapia de lenguaje
+- [ ] especialista en Quiropraxia
+- [ ] pilates
+- [ ] CAPACITATE EN ACUPUNTURA, DIGITOPUNTURA Y MOXIBUSTION
 
 
 ## Doing
@@ -15,6 +22,12 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 - [x] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 - [x] Design: taller de Aplicación de ácido hialurónico avanzado
@@ -24,12 +37,6 @@ kanban-plugin: basic
 - [x] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
 - [x] Desing: UN DISEÑO QUE DIGA DONDE ESTA pRAXIS? QUIKTO NORTE , QUITO SUR , GUAYAQUIL, MANTA CON EL LOGO DE LA UNI
 - [x] Design: Casa Guayaquil edit
-
-
-***
-
-## Archive
-
 - [x] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
 - [x] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
 - [x] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios
