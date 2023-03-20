@@ -27,5 +27,7 @@
 	- [[Selecting the right data]]
 	- [[Structured data]]
 	- [[Unstructured data]]
+- **Proccess**
+	- [[Error in data]]
 
 %% End Waypoint %%

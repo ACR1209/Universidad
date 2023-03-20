@@ -16,8 +16,21 @@
                 "file": "Ingenieria en Software/Todo.md"
               }
             }
+          },
+          {
+            "id": "bde96ecee436220d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Proccess/Error in data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Todo.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Proccess/Error in data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +124,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a7cfc6667b713738",
+  "active": "bde96ecee436220d",
   "lastOpenFiles": [
+    "Images/Pasted image 20230319214157.png",
+    "Ingenieria en Software/Todo.md",
+    "Ingenieria en Software/Google Data Analytics Course/Proccess/Error in data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Proccess",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
@@ -139,10 +156,8 @@
     "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
     "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Discrete Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data.md",
     "Images/Pasted image 20230311095435.png",
     "Ingenieria en Software/Google Data Analytics Course/Prepare",
-    "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md"
+    "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf"
   ]
 }
