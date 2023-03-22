@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Cocteleria profesional 3 diseños
 - [ ] 1)	Auxiliar de forense y criminalística mención Tanatopraxia. Que diga capacítate como. Aval Universidad Hemisferios
 - [ ] 2)	Taller de Inyectología clínica, sueroterapia y toma de signos vitales. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
 - [ ] 3)	Auxiliar de Laboratorio Clínico. Que diga capacítate como. Aval Universidad Hemisferios
@@ -25,6 +24,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Cocteleria profesional 3 diseños
 
 
 ***
