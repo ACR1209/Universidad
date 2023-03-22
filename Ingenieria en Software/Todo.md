@@ -6,20 +6,20 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] 9)	Taller de Toxina Botulínica + ácido hialurónico. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
-- [ ] 8)	Especialista en Enfermería estética y dermatocosmeatria. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
-- [ ] 7)	Especialista en tanatopraxia y tanatoestética. Que diga fórmate como. Aval de la Universidad Hemisferios
-- [ ] 6)	Taller de plasma rico en plaquetas intraarticular. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
-- [ ] 5)	Especialista en Masajes terapéuticos. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
-- [ ] 4)	Especialista en trastorno del espectro autista. Que diga fórmate como. Aval Universidad Hemisferios
-- [ ] 3)	Auxiliar de Laboratorio Clínico. Que diga capacítate como. Aval Universidad Hemisferios
-- [ ] 2)	Taller de Inyectología clínica, sueroterapia y toma de signos vitales. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
-- [ ] 1)	Auxiliar de forense y criminalística mención Tanatopraxia. Que diga capacítate como. Aval Universidad Hemisferios
-- [ ] Cocteleria profesional 3 diseños
 
 
 ## Doing
 
+- [ ] Cocteleria profesional 3 diseños
+- [ ] 1)	Auxiliar de forense y criminalística mención Tanatopraxia. Que diga capacítate como. Aval Universidad Hemisferios
+- [ ] 2)	Taller de Inyectología clínica, sueroterapia y toma de signos vitales. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
+- [ ] 3)	Auxiliar de Laboratorio Clínico. Que diga capacítate como. Aval Universidad Hemisferios
+- [ ] 4)	Especialista en trastorno del espectro autista. Que diga fórmate como. Aval Universidad Hemisferios
+- [ ] 5)	Especialista en Masajes terapéuticos. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
+- [ ] 6)	Taller de plasma rico en plaquetas intraarticular. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
+- [ ] 7)	Especialista en tanatopraxia y tanatoestética. Que diga fórmate como. Aval de la Universidad Hemisferios
+- [ ] 8)	Especialista en Enfermería estética y dermatocosmeatria. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
+- [ ] 9)	Taller de Toxina Botulínica + ácido hialurónico. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
 
 
 ## Done
