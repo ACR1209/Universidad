@@ -10,14 +10,14 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] 7)	Especialista en tanatopraxia y tanatoestética. Que diga fórmate como. Aval de la Universidad Hemisferios
-- [ ] 8)	Especialista en Enfermería estética y dermatocosmeatria. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
 - [ ] 9)	Taller de Toxina Botulínica + ácido hialurónico. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
 
 
 ## Done
 
 **Complete**
+- [x] 8)	Especialista en Enfermería estética y dermatocosmeatria. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
+- [x] 7)	Especialista en tanatopraxia y tanatoestética. Que diga fórmate como. Aval de la Universidad Hemisferios
 - [x] 6)	Taller de plasma rico en plaquetas intraarticular. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
 - [x] 5)	Especialista en Masajes terapéuticos. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
 - [x] 4)	Especialista en trastorno del espectro autista. Que diga fórmate como. Aval Universidad Hemisferios
