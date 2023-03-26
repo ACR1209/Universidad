@@ -28,6 +28,7 @@
 	- [[Structured data]]
 	- [[Unstructured data]]
 - **Proccess**
+	- [[Data Cleaning Checklist]]
 	- [[Error in data]]
 
 %% End Waypoint %%

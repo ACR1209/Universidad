@@ -16,8 +16,21 @@
                 "file": "Ingenieria en Software/Todo.md"
               }
             }
+          },
+          {
+            "id": "41484e7106f47eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Todo.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +124,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a7cfc6667b713738",
+  "active": "41484e7106f47eb6",
   "lastOpenFiles": [
+    "Ingenieria en Software/Todo.md",
+    "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
     "Ingenieria en Software/Google Data Analytics Course/Proccess/Error in data.md",
     "Images/Pasted image 20230319214157.png",
-    "Ingenieria en Software/Todo.md",
     "Ingenieria en Software/Google Data Analytics Course/Proccess",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
