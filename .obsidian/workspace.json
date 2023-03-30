@@ -4,32 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "98b1cd92d5654348",
+        "id": "05f7b0ad337f5f96",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cfc6667b713738",
+            "id": "cdc41927f42a37a9",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Ingenieria en Software/Todo.md"
+                "file": "Trading Bot Documentation/Kanban/Main Spring.md"
               }
             }
           },
           {
-            "id": "41484e7106f47eb6",
+            "id": "ae49b3a85889b170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
+                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Todo.md",
+                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +124,30 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a7cfc6667b713738",
+  "active": "ae49b3a85889b170",
   "lastOpenFiles": [
-    "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
+    "Trading Bot Documentation/Kanban/Main Spring.md",
+    "Trading Bot Documentation/Documentation/Programming/Architecture.md",
+    "Trading Bot Documentation/Documentation/Programming",
+    "Trading Bot Documentation/Documentation/Trading/Tendency.md",
+    "Trading Bot Documentation/Documentation/Trading/Untitled.md",
+    "Trading Bot Documentation/Documentation/Trading/CHOCH.md",
+    "Trading Bot Documentation/Requirements/Requirements.md",
+    "Trading Bot Documentation/Documentation/Trading/BOS.md",
+    "Trading Bot Documentation/Documentation/Trading/Fibonacci.md",
+    "Trading Bot Documentation/Documentation/Trading/Consolidation rupture.md",
+    "Trading Bot Documentation/Documentation/Trading/Fair Value Gap.md",
+    "Trading Bot Documentation/Documentation/Trading/Order block.md",
+    "Trading Bot Documentation/Documentation/Trading",
     "Ingenieria en Software/Todo.md",
+    "Trading Bot Documentation/Documentation",
+    "Trading Bot Documentation/Kanban/Untitled.md",
+    "Trading Bot Documentation/Kanban",
+    "Trading Bot Documentation/Requirements",
+    "Trading Bot Documentation/Theory",
+    "Untitled",
+    "Trading Bot Documentation",
+    "Ingenieria en Software/Google Data Analytics Course/Proccess/Data Cleaning Checklist.md",
     "Ingenieria en Software/Google Data Analytics Course/Proccess/Error in data.md",
     "Images/Pasted image 20230319214157.png",
     "Ingenieria en Software/Google Data Analytics Course/Proccess",
@@ -144,20 +165,7 @@
     "Ingenieria en Software/Data Science/Data Science.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Dataset.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Secondary data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Primary Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Selecting the right data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Internal Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Qualitative data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Ordinal data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Continuos Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Nominal data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Quantitative data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Discrete Data.md",
     "Images/Pasted image 20230311095435.png",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare",
-    "Images/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf"
+    "Ingenieria en Software/Google Data Analytics Course/Prepare"
   ]
 }
