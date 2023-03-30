@@ -11,16 +11,6 @@
             "id": "cdc41927f42a37a9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Trading Bot Documentation/Kanban/Main Spring.md"
-              }
-            }
-          },
-          {
-            "id": "ae49b3a85889b170",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Trading Bot Documentation/Documentation/Trading/Tendency.md",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,11 +113,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ae49b3a85889b170",
+  "active": "cdc41927f42a37a9",
   "lastOpenFiles": [
-    "Trading Bot Documentation/Kanban/Main Spring.md",
     "Trading Bot Documentation/Documentation/Trading/CHOCH.md",
     "Trading Bot Documentation/Documentation/Trading/Fibonacci.md",
+    "Trading Bot Documentation/Documentation/Trading/Tendency.md",
+    "Trading Bot Documentation/Kanban/Main Spring.md",
     "Trading Bot Documentation/Documentation/Trading/BOS.md",
     "Trading Bot Documentation/Requirements/Requirements.md",
     "Trading Bot Documentation/Documentation/Trading/Order block.md",
@@ -139,7 +129,6 @@
     "Images/Pasted Image 20230330171043_440.png",
     "Images/Pasted Image 20230330170942_450.png",
     "Trading Bot Documentation/Documentation/Programming",
-    "Trading Bot Documentation/Documentation/Trading/Tendency.md",
     "Trading Bot Documentation/Documentation/Trading/Untitled.md",
     "Trading Bot Documentation/Documentation/Trading/Consolidation rupture.md",
     "Trading Bot Documentation/Documentation/Trading/Fair Value Gap.md",
