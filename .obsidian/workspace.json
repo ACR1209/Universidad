@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
+                "file": "Trading Bot Documentation/Documentation/Trading/Tendency.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
+                "file": "Trading Bot Documentation/Documentation/Trading/Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,22 @@
   "active": "ae49b3a85889b170",
   "lastOpenFiles": [
     "Trading Bot Documentation/Kanban/Main Spring.md",
+    "Trading Bot Documentation/Documentation/Trading/CHOCH.md",
+    "Trading Bot Documentation/Documentation/Trading/Fibonacci.md",
+    "Trading Bot Documentation/Documentation/Trading/BOS.md",
+    "Trading Bot Documentation/Requirements/Requirements.md",
+    "Trading Bot Documentation/Documentation/Trading/Order block.md",
     "Trading Bot Documentation/Documentation/Programming/Architecture.md",
+    "Excalidraw/Drawing 2023-03-30 17.08.47.excalidraw.md",
+    "Writing/The Craft of Writing Effectively.md",
+    "Excalidraw/Drawing 2022-11-05 20.57.46.excalidraw.md",
+    "Images/Pasted Image 20230330171043_440.png",
+    "Images/Pasted Image 20230330170942_450.png",
     "Trading Bot Documentation/Documentation/Programming",
     "Trading Bot Documentation/Documentation/Trading/Tendency.md",
     "Trading Bot Documentation/Documentation/Trading/Untitled.md",
-    "Trading Bot Documentation/Documentation/Trading/CHOCH.md",
-    "Trading Bot Documentation/Requirements/Requirements.md",
-    "Trading Bot Documentation/Documentation/Trading/BOS.md",
-    "Trading Bot Documentation/Documentation/Trading/Fibonacci.md",
     "Trading Bot Documentation/Documentation/Trading/Consolidation rupture.md",
     "Trading Bot Documentation/Documentation/Trading/Fair Value Gap.md",
-    "Trading Bot Documentation/Documentation/Trading/Order block.md",
     "Trading Bot Documentation/Documentation/Trading",
     "Ingenieria en Software/Todo.md",
     "Trading Bot Documentation/Documentation",
@@ -162,9 +167,6 @@
     "Ingenieria en Software/Google Data Analytics Course/Google Data Analytics Course.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
-    "Ingenieria en Software/Data Science/Data Science.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Dataset.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Secondary data.md",
     "Images/Pasted image 20230311095435.png",
     "Ingenieria en Software/Google Data Analytics Course/Prepare"
   ]
