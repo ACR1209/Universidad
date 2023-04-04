@@ -15,6 +15,46 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] 9)	Taller de Toxina Botulínica + ácido hialurónico. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
+- [x] 8)	Especialista en Enfermería estética y dermatocosmeatria. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
+- [x] 7)	Especialista en tanatopraxia y tanatoestética. Que diga fórmate como. Aval de la Universidad Hemisferios
+- [x] 6)	Taller de plasma rico en plaquetas intraarticular. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
+- [x] 5)	Especialista en Masajes terapéuticos. Que diga capacítate como. Aval de la Cámara artesanal de Pichincha
+- [x] 4)	Especialista en trastorno del espectro autista. Que diga fórmate como. Aval Universidad Hemisferios
+- [x] 3)	Auxiliar de Laboratorio Clínico. Que diga capacítate como. Aval Universidad Hemisferios
+- [x] 2)	Taller de Inyectología clínica, sueroterapia y toma de signos vitales. Que diga participa de nuestro. Aval de la cámara artesanal de Pichincha
+- [x] 1)	Auxiliar de forense y criminalística mención Tanatopraxia. Que diga capacítate como. Aval Universidad Hemisferios
+- [x] Cocteleria profesional 3 diseños
+- [x] 10)	Adiestrador Canino. Que diga fórmate como. Aval de CAP
+- [x] 11)	Auxiliar de Enfermería y Geriatría, mención Farmacología. Que diga capacítate como. Aval de la Universidad Hemisferios
+- [x] Certificado: •	Especialista en Masajes Terapeúticos
+- [x] Certificado: •	Especialista en Enfermería Estética y Dermatocosmiatría
+- [x] •	 Certificado Taller de toxina botulínica + ácido hialurónico
+- [x] Certificado: •	Auxiliar de Forense y Criminalística mención Tanatopraxia
+- [x] Certificado: •	Especialista en Podología Cosmiatría
+- [x] Certificado: •	Auxiliar Técnico Veterinario
+- [x] Certificado: •	Instructor de Pilates
+- [x] Certificado: •	Auxiliar de Fisioterapia y Rehabilitación mención Terapia Acuática
+- [x] Certificado: •	Adiestrador Canino
+- [x] Certificado: •	Taller en Sueroterapia avanzada
+- [x] Certificado: •	Taller de Inyectologia clínica, sueroterapia y toma de signos vitales
+- [x] Certificado: •	Taller de Plasma Rico en Plaquetas y Demaplaning
+- [x] Certificado: •	Auxiliar de Enfemería y Geriatría, mención Farmacología
+- [x] Certificado: •	Taller de cura de heridas
+- [x] Certificado: •	Taller de Plasma Rico en Plaquetas Intra-articular
+- [x] especialista en Quiropraxia
+- [x] pilates
+- [x] especialista en terapia de lenguaje
+- [x] CAPACITATE EN ACUPUNTURA, DIGITOPUNTURA Y MOXIBUSTION
+- [x] especialista en peluquería canina
+- [x] especialista en podologia cosmiatrica
+- [x] auxiliar de veterinaria (qué tenga varios animales)
 - [x] Tarea individual - cuadro comparativo entre estándares de calidad para desarrollo de software
 - [x] Desing: taller de toxina botulínica y ácidos hialuronico para tratamientos odontológico
 - [x] Design: taller de Aplicación de ácido hialurónico avanzado
@@ -24,12 +64,6 @@ kanban-plugin: basic
 - [x] Desing: ESPECIALISTA EN TANATOPRAXIA EN EL SUR CON EL LOGO DE LA UNIVERSIDAD
 - [x] Desing: UN DISEÑO QUE DIGA DONDE ESTA pRAXIS? QUIKTO NORTE , QUITO SUR , GUAYAQUIL, MANTA CON EL LOGO DE LA UNI
 - [x] Design: Casa Guayaquil edit
-
-
-***
-
-## Archive
-
 - [x] ademas necesito para un cartel de afuera nuevamente con la siguiente medida 5,30 por 1,20 de ancho otros cursos com podologia, quiropraxia
 - [x] Por el valor de 5$<br>Solo para caninos<br>Consulta general<br>Carnet de vacunacion<br>Desparasitacion<br>Vacunacion múltiple.
 - [x] 10.- taller Nutrición orthomolecular para la obesidad en tratamientos estéticos. Logo de la universidad de los hemisferios

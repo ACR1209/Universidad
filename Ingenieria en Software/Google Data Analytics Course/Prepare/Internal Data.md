@@ -1,0 +1,1 @@
+Is [[Data|data]] that lives within a company's own systems. Its generally more reliable and easier to collect.

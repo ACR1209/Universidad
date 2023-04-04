@@ -1,0 +1,1 @@
+External data is [[Data|data]] that lives and is generated outside of an organization. External data becomes particularly valuable when your analysis depends on as many sources as possible.

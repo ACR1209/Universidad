@@ -4,17 +4,7 @@
 - **[[Artificial Intelligence]]**
 - **[[Data Science]]**
 - **[[Data structures]]**
-- **Google Data Analytics Course**
-	- **Ask**
-		- [[SMART questions]]
-	- **Foundations**
-		- [[Data Analysis Process]]
-		- [[Data Analysis]]
-		- [[Data Ecosystems]]
-		- [[Data Science]]
-		- [[Data]]
-		- [[Dataset]]
-		- [[People Analytics]]
+- **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**

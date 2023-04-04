@@ -1,0 +1,1 @@
+A type of [[Qualitative data|qualitative data]] with a set order or scale. 

@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "db44ee06c22cb5ac",
+        "id": "55661792c7f51b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "f22a1b09da9576bc",
+            "id": "8cb9552217b1c7da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+                "file": "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffb62999fcd87fa4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "b5c2105dc53216f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5019836425781
+    "width": 428
   },
   "right": {
     "id": "f9693e44a28e403a",
@@ -77,30 +100,39 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b249d0054cfa5b6a",
+            "id": "087dd3a5ac096220",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0474c9859d5d5dda",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 193,
     "collapsed": true
   },
   "left-ribbon": {
@@ -113,17 +145,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f22a1b09da9576bc",
+  "active": "b5c2105dc53216f2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ingenieria en Software/Algorithms/Algorithms.md",
+    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento dinámico con ACLs y QoS.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Elementos de una red.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelos de redes.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo en capas.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo TCP IP.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Medios de red.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Tipos de redes.md",
-    "Ingenieria en Software/Todo.md"
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/TOAD.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
+    "Conflict files.md",
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md"
   ]
 }
