@@ -1,4 +1,3 @@
-# Enrutamiento estático básico en Packet Tracer
 
 El proceso de enrutamiento no es más que el proceso de escoger una ruta en la cual vamos a enviar los paquetes. El enrutamiento es necesario cuando se quiere entregar paquetes a una red que no esta directamente conectada con el emisor.
 
