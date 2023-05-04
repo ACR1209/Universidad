@@ -6,6 +6,8 @@
 - **[[Data structures]]**
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
+- **Septimo Semestre**
+	- **[[Videojuegos]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**
 	- **[[Aplicaciones basadas en el conocimiento]]**

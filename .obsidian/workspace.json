@@ -11,11 +11,28 @@
             "id": "74fbf08cd0430532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fe46f508d1f6c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +135,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fcf8cc18c4ae29d5",
+  "active": "7fe46f508d1f6c87",
   "lastOpenFiles": [
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos",
+    "Ingenieria en Software/Septimo Semestre",
     "Pasantias",
     "conflict-files-obsidian-git.md",
     "Ingenieria en Software/Algorithms/Algorithms.md",
