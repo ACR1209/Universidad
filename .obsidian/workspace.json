@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e0e688521ac4750",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,6 +78,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "3a40c9eef3794bc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -135,7 +153,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7fe46f508d1f6c87",
+  "active": "7e0e688521ac4750",
   "lastOpenFiles": [
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
