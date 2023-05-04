@@ -7,6 +7,7 @@
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
 - **Septimo Semestre**
+	- **[[Seguridad]]**
 	- **[[Videojuegos]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**
