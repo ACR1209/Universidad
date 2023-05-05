@@ -8,6 +8,7 @@
 - **[[Quinto Semestre]]**
 - **Septimo Semestre**
 	- **[[Seguridad]]**
+	- **[[Software Seguro]]**
 	- **[[Videojuegos]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**

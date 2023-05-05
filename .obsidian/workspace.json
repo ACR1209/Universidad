@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +132,14 @@
   },
   "active": "74fbf08cd0430532",
   "lastOpenFiles": [
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
+    "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
+    "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
