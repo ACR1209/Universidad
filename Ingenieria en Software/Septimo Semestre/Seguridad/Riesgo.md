@@ -1,0 +1,1 @@
+Probabilidad de ocurrencia y potencial perdida que posee  una [[Amenaza|amenaza]].

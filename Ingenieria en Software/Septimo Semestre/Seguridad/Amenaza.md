@@ -1,0 +1,1 @@
+Algo malo que puede suceder a un activo. 
