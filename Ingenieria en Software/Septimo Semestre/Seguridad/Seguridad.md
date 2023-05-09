@@ -1,12 +1,17 @@
 %% Begin Waypoint %%
 - [[Amenaza]]
 - [[Ataque]]
-- [[Gusano]]
-- [[Malware]]
+- **[[Malware]]**
+	- [[Adware]]
+	- [[Gusano]]
+	- [[Ransomware]]
+	- [[RAT]]
+	- [[Spyware]]
+	- [[Troyano]]
+	- [[Virus]]
 - [[Riesgo]]
 - [[Seguridad de Computadoras]]
 - [[Triada CIA]]
-- [[Virus]]
 - [[Vulnerabilidad]]
 
 %% End Waypoint %%

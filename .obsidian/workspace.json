@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +132,31 @@
   },
   "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Malware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/RAT.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Virus.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Gusano.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Virus.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Gusano.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
     "Images/Pasted image 20230504190257.png",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
     "Ingenieria en Software/Septimo Semestre/Videojuegos",
     "Ingenieria en Software/Septimo Semestre",
@@ -159,11 +164,6 @@
     "conflict-files-obsidian-git.md",
     "Ingenieria en Software/Algorithms/Algorithms.md",
     "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Enrutamiento estático básico en Packet Tracer.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/TOAD.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md"
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md"
   ]
 }
