@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74fbf08cd0430532",
+            "id": "6a7c3a3f1f7b79b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c0a2db4de554f034",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "Ethernet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+                "file": "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,10 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c0a2db4de554f034",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
+    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Virus.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Gusano.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
@@ -167,8 +164,6 @@
     "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Schema.md",
     "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/TOAD.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de InterVLAN con routers y servidores web-DNS.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md",
-    "Conflict files.md",
-    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Entidad.md"
+    "Ingenieria en Software/Quinto Semestre/Sistema de Base de Datos avanzada/Base de datos.md"
   ]
 }

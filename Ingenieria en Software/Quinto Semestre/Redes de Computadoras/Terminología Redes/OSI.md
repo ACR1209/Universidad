@@ -1,5 +1,4 @@
-# OSI
-## OSI
+
 El modelo de interconexión de sistemas abiertos (ISO/IEC/7498-1) tiene 7 capas:
 1. Fisica
 2. Enlace de datos
