@@ -7,6 +7,7 @@
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
 - **Septimo Semestre**
+	- **[[Distribuidas]]**
 	- **[[Seguridad]]**
 	- **[[Software Seguro]]**
 	- **[[Videojuegos]]**

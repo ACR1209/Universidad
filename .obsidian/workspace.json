@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,18 @@
   },
   "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+    "Images/Pasted image 20230510181640.png",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
+    "Images/Pasted image 20230510174617.png",
+    "Images/Pasted image 20230510174541.png",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
+    "Images/Pasted image 20230510173911.png",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
@@ -154,16 +164,10 @@
     "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
     "Ingenieria en Software/Septimo Semestre/Videojuegos",
     "Ingenieria en Software/Septimo Semestre",
-    "Pasantias",
-    "conflict-files-obsidian-git.md",
-    "Ingenieria en Software/Algorithms/Algorithms.md",
-    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md"
+    "Pasantias"
   ]
 }
