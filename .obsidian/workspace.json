@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,9 @@
   },
   "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Malware.md",
@@ -163,7 +164,6 @@
     "Pasantias",
     "conflict-files-obsidian-git.md",
     "Ingenieria en Software/Algorithms/Algorithms.md",
-    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Configuración de OSPF en Packet Tracer.md"
+    "Ingenieria en Software/Sexto Semestre/Lectura y escritura de textos académicos/Lectura y escritura de textos académicos.md"
   ]
 }
