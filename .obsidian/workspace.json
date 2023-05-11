@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec7d55f0fba800ba",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
+    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Aseguramiento de la calidad.md",
+    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
+    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
@@ -161,7 +166,6 @@
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
     "Images/Pasted image 20230510185215.png",
     "Images/Pasted image 20230510181640.png",
@@ -180,8 +184,6 @@
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Virus.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Gusano.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
