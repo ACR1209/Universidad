@@ -114,18 +114,18 @@
             }
           },
           {
-            "id": "f3d32287ff600fcf",
+            "id": "f7bfb5a032e06817",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "160674e52b4f1b71",
+            "id": "ec7d55f0fba800ba",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a7c3a3f1f7b79b3",
+  "active": "ec7d55f0fba800ba",
   "lastOpenFiles": [
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
