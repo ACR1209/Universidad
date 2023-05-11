@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,13 +112,29 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "f3d32287ff600fcf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "160674e52b4f1b71",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 193,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -127,28 +144,35 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Images/Pasted image 20230510181640.png",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
+    "Images/Pasted image 20230510185215.png",
+    "Images/Pasted image 20230510181640.png",
     "Images/Pasted image 20230510174617.png",
     "Images/Pasted image 20230510174541.png",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
     "Images/Pasted image 20230510173911.png",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Malware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/RAT.md",
@@ -159,10 +183,6 @@
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Virus.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Gusano.md",
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
-    "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
