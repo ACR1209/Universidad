@@ -5,6 +5,7 @@
 	- [[Adware]]
 	- [[Backdoor]]
 	- [[Bomba lógica]]
+	- [[Botnet]]
 	- [[Gusano]]
 	- [[Keylogger]]
 	- [[Ransomware]]

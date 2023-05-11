@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,9 @@
   },
   "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
@@ -183,7 +184,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/RAT.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
