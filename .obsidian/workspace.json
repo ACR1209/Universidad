@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02fec6511dcabfd9",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Aseguramiento de la calidad.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
     "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
+    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Aseguramiento de la calidad.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
     "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
@@ -158,8 +165,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
@@ -172,8 +177,6 @@
     "Images/Pasted image 20230510174541.png",
     "Images/Pasted image 20230510173911.png",
     "Ingenieria en Software/Septimo Semestre/Distribuidas",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Malware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
@@ -181,8 +184,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
     "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/Ethernet.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/OSI.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Terminología Redes/TCP/IP.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",

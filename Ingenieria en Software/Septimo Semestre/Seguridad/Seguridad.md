@@ -4,7 +4,9 @@
 - **[[Malware]]**
 	- [[Adware]]
 	- [[Backdoor]]
+	- [[Bomba lógica]]
 	- [[Gusano]]
+	- [[Keylogger]]
 	- [[Ransomware]]
 	- [[RAT]]
 	- [[Spyware]]
