@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "1ac89470d8a49b42",
+            "id": "a5ade00c646f2f82",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "ad9887f323b95059",
+            "id": "17a64cce54ec7423",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -147,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad9887f323b95059",
+  "active": "17a64cce54ec7423",
   "lastOpenFiles": [
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
