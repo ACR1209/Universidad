@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "a5ade00c646f2f82",
+            "id": "4d3f2c070f5707c4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "17a64cce54ec7423",
+            "id": "4c680a13b84c499e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a7c3a3f1f7b79b3",
+  "active": "4c680a13b84c499e",
   "lastOpenFiles": [
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
