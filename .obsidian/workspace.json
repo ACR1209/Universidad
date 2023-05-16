@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "4d3f2c070f5707c4",
+            "id": "8dc1dbe6e4198990",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "4c680a13b84c499e",
+            "id": "c223ebcc1b1291ab",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a7c3a3f1f7b79b3",
+  "active": "c223ebcc1b1291ab",
   "lastOpenFiles": [
     "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
