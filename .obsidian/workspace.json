@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
+                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
+                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +148,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c680a13b84c499e",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
@@ -170,7 +173,6 @@
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
     "Images/Pasted image 20230510185215.png",
     "Images/Pasted image 20230510181640.png",
     "Images/Pasted image 20230510174617.png",
@@ -182,7 +184,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/RAT.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
-    "Ingenieria en Software/Quinto Semestre/Redes de Computadoras/Modelo OSI ISO.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",
