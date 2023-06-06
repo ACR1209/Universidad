@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +129,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +147,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3bd9fd891339f7b9",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Criptografía.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Untitled.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
+    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
@@ -165,7 +171,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
@@ -178,11 +183,7 @@
     "Images/Pasted image 20230510174541.png",
     "Images/Pasted image 20230510173911.png",
     "Ingenieria en Software/Septimo Semestre/Distribuidas",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Malware.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/RAT.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
     "Ingenieria en Software/Septimo Semestre/Software Seguro",
     "Images/Pasted image 20230504190257.png",
     "Ingenieria en Software/Septimo Semestre/Seguridad",

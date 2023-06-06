@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - [[Amenaza]]
 - [[Ataque]]
+- **[[Criptografía]]**
+	- [[Encriptación]]
 - **[[Malware]]**
 	- [[Adware]]
 	- [[Backdoor]]
