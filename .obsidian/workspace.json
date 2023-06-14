@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ba25dbfdd6a5943",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
+                "file": "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,36 +146,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "343499e3a6d88d17",
+  "active": "6a7c3a3f1f7b79b3",
   "lastOpenFiles": [
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Discrete Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Ordinal data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Nominal data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Internal Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Primary Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Secondary data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Unstructured data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Quantitative data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Qualitative data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Selecting the right data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Prepare/Continuos Data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/People Analytics.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Ecosystems.md",
+    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md",
+    "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
+    "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
+    "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
+    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Criptografía.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Seguridad de Computadoras.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Untitled.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Keylogger.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Ransomware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
-    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Calidad.md",
-    "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad/Aseguramiento de la calidad.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
     "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Triada CIA.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Amenaza.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Riesgo.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Ataque.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
     "Images/Pasted image 20230510185215.png",
     "Images/Pasted image 20230510181640.png",
     "Images/Pasted image 20230510174617.png",
