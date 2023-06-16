@@ -111,25 +111,9 @@
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "447833ee6786b30c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "343499e3a6d88d17",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +130,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a7c3a3f1f7b79b3",
+  "active": "0474c9859d5d5dda",
   "lastOpenFiles": [
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Discrete Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
