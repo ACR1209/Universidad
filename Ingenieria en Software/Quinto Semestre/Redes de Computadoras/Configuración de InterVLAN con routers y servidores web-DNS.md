@@ -1,4 +1,3 @@
-# Configuración de InterVLAN con routers y servidores web-DNS
 
 ## Preparación de la red
 

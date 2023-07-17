@@ -11,12 +11,8 @@
             "id": "cdc41927f42a37a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ee538c7efe80096f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading Bot Documentation/Documentation/Programming/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +118,14 @@
   },
   "active": "cdc41927f42a37a9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-30 17.08.47.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Trading Bot Documentation/Documentation/Programming/Architecture.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Frameworks for organazing your thoughts about visualization.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Guidelines for Vizs.md",
+    "Images/Pasted image 20230415194211.png",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Desing Thinking.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share",
+    "Excalidraw/Drawing 2023-03-30 17.08.47.excalidraw.md",
     "Trading Bot Documentation/Documentation/Trading/Tendency.md",
     "Trading Bot Documentation/Documentation/Trading/CHOCH.md",
     "Trading Bot Documentation/Documentation/Trading/Fibonacci.md",
@@ -148,15 +157,9 @@
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Data Modeling.md",
     "Images/Pasted image 20230311104437.png",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/Unstructured data.md",
     "Images/Pasted image 20230311104105.png",
     "Images/Pasted image 20230311104056.png",
-    "Ingenieria en Software/Google Data Analytics Course/Google Data Analytics Course.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
-    "Images/Pasted image 20230311095435.png",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare"
+    "Images/Pasted image 20230311095435.png"
   ]
 }

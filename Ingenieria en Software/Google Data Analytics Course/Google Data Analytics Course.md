@@ -30,5 +30,9 @@
 - **Proccess**
 	- [[Data Cleaning Checklist]]
 	- [[Error in data]]
+- **Share**
+	- [[Desing Thinking]]
+	- [[Frameworks for organazing your thoughts about visualization]]
+	- [[Guidelines for Vizs]]
 
 %% End Waypoint %%

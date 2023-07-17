@@ -1,4 +1,3 @@
-# Configuración de OSPF en Packet Tracer
 
 Se va a realizar la siguiente topología para poder demostrar la utilización de OSPF:
 
