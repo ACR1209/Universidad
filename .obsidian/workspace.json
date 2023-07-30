@@ -11,11 +11,22 @@
             "id": "cdc41927f42a37a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f8969f99186f7069",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +127,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "cdc41927f42a37a9",
+  "active": "f8969f99186f7069",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-17 00.18.18.excalidraw.md",
+    "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Trading Bot Documentation/Documentation/Programming/Architecture.md",
     "Ingenieria en Software/Google Data Analytics Course/Share/Frameworks for organazing your thoughts about visualization.md",
@@ -156,7 +169,6 @@
     "Ingenieria en Software/Google Data Analytics Course/Proccess",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Structured data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
     "Images/Pasted image 20230311104437.png",
     "Images/Pasted image 20230311104105.png",
     "Images/Pasted image 20230311104056.png",
