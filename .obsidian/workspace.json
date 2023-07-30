@@ -11,8 +11,12 @@
             "id": "cdc41927f42a37a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Data structures/AB Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Data structures/AB Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,12 @@
   },
   "active": "cdc41927f42a37a9",
   "lastOpenFiles": [
+    "Ingenieria en Software/Data structures/Implementación de la lista simplemente enlazada.md",
+    "Ingenieria en Software/Data structures/AB Tree.md",
+    "Ingenieria en Software/Data structures/Implementación de la lista enlazada circular.md",
+    "Ingenieria en Software/Data structures/Implementación de la lista doblemente enlazada.md",
+    "Ingenieria en Software/Data structures/Data structures.md",
+    "Ingenieria en Software/Data structures/Estructuras de datos.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Virus.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Troyano.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Spyware.md",
@@ -138,12 +149,6 @@
     "Ingenieria en Software/Septimo Semestre/Software Seguro/Software Seguro.md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/SOA (Service oriented architecture).md",
     "Ingenieria en Software/Septimo Semestre/Distribuidas/Servicio.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Distribuidas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Componente.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Cliente Servidor 3 Capas.md",
-    "Ingenieria en Software/Septimo Semestre/Distribuidas/Arquitectura N Capas.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Vulnerabilidad.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
     "Ingenieria en Software/Septimo Semestre/Videojuegos",
