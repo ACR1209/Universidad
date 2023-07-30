@@ -1,0 +1,1 @@
+Es la ejecución de la [[Amenaza|amenaza]], explotando una [[Vulnerabilidad|vulnerabilidad]].

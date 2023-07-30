@@ -1,0 +1,1 @@
+Conjunto de características de un producto o servicio orientadas a su capacidad para satisfacer las necesidades del usuario.

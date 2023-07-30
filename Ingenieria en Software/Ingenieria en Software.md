@@ -6,6 +6,12 @@
 - **[[Data structures]]**
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
+- **Septimo Semestre**
+	- **[[Aseguramiento de la calidad]]**
+	- **[[Distribuidas]]**
+	- **[[Seguridad]]**
+	- **[[Software Seguro]]**
+	- **[[Videojuegos]]**
 - **Sexto Semestre**
 	- **[[Análisis y diseño de software]]**
 	- **[[Aplicaciones basadas en el conocimiento]]**

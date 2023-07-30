@@ -1,0 +1,1 @@
+Debilidades o fallas que facilita que sucedan [[Amenaza|amenazas]].

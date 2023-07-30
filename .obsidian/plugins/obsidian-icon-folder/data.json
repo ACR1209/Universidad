@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGamepad",
+      "RiBookFill",
       "FabGoogle",
       "RiCodeSLine",
-      "RiSmartphoneLine",
-      "FasBrain",
-      "FabLinux"
+      "RiSmartphoneLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "Ingenieria en Software/Sexto Semestre/Aplicaciones basadas en el conocimiento": "FasBrain",
   "Ingenieria en Software/Sexto Semestre/Aplicaciones móviles": "RiSmartphoneLine",
   "Ingenieria en Software/Sexto Semestre/Análisis y diseño de software": "RiCodeSLine",
-  "Ingenieria en Software/Google Data Analytics Course": "FabGoogle"
+  "Ingenieria en Software/Google Data Analytics Course": "FabGoogle",
+  "Ingenieria en Software/Septimo Semestre": "RiBookFill",
+  "Ingenieria en Software/Septimo Semestre/Videojuegos": "FasGamepad"
 }
