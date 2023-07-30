@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f8969f99186f7069",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f8969f99186f7069",
+  "active": "cdc41927f42a37a9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-07-17 00.18.18.excalidraw.md",
     "Untitled.canvas",
