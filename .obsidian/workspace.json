@@ -11,8 +11,12 @@
             "id": "3c1dd131d8d0d2ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +132,9 @@
   },
   "active": "3c1dd131d8d0d2ca",
   "lastOpenFiles": [
+    "Ingenieria en Software/Data structures/Implementación de la lista simplemente enlazada.md",
+    "Ingenieria en Software/Data structures/Lista enlazada.md",
+    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Data formats.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Discrete Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Prepare/External Data.md",
@@ -150,9 +158,6 @@
     "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
     "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Evolución Historica.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Criptografía.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
     "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad",
     "Images/Pasted image 20230510185215.png",

@@ -1,1 +1,1 @@
-Es el proceso mediante el cual cierta información es transformada de forma que el resultado sea ilegible a menos que se conozcan los datos necesarios para su interpretación.
+Es el proceso mediante el cual cierta información es transformada de forma que el resultado sea ilegible a menos que se conozcan los datos necesarios para su interpretación. 
