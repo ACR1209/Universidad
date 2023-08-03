@@ -4,6 +4,11 @@
 - **[[Artificial Intelligence]]**
 - **[[Data Science]]**
 - **[[Data structures]]**
+- **Devops**
+	- [[Containers]]
+	- [[Docker]]
+	- [[Linux namespaces]]
+	- [[Virtual Machine]]
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
 - **Septimo Semestre**
