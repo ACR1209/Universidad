@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "83449334c85b9636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +139,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c1dd131d8d0d2ca",
+  "active": "83449334c85b9636",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Frameworks for organazing your thoughts about visualization.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Guidelines for Vizs.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share/Desing Thinking.md",
+    "Ingenieria en Software/Google Data Analytics Course/Share",
+    "Ingenieria en Software/Data structures/AB Tree.md",
+    "Images/Pasted image 20230415194211.png",
+    "Excalidraw/Drawing 2023-07-17 00.18.18.excalidraw.md",
     "Ingenieria en Software/Septimo Semestre/Videojuegos/Tipos de programación aplicadas a los videojuegos.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
     "Ingenieria en Software/Data structures/Implementación de la lista simplemente enlazada.md",
@@ -147,12 +170,6 @@
     "Ingenieria en Software/Google Data Analytics Course/Prepare/Continuos Data.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis Process.md",
     "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Science.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/People Analytics.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Ecosystems.md",
-    "Ingenieria en Software/Google Data Analytics Course/Foundations/Data Analysis.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/Context in data.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/Clear Communication.md",
-    "Ingenieria en Software/Google Data Analytics Course/Ask/SMART questions.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
     "Ingenieria en Software/Septimo Semestre/Aseguramiento de la calidad",
     "Images/Pasted image 20230510185215.png",
