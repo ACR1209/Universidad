@@ -9,6 +9,11 @@
 	- [[Docker]]
 	- [[Linux namespaces]]
 	- [[Virtual Machine]]
+- **Full Stack Open**
+	- [[DOM]]
+	- [[HTTP Protocol]]
+	- [[Single Page App]]
+	- [[Traditional Web Apps]]
 - **[[Google Data Analytics Course]]**
 - **[[Quinto Semestre]]**
 - **Septimo Semestre**

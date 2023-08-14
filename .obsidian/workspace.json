@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria en Software/Data structures/AB Tree.md",
+                "file": "Ingenieria en Software/Full Stack Open/HTTP Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f3ae019532bec70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria en Software/Data structures/AB Tree.md",
+                "file": "Ingenieria en Software/Full Stack Open/HTTP Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +133,16 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "cdc41927f42a37a9",
+  "active": "1f3ae019532bec70",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230811225921.png",
+    "Ingenieria en Software/Full Stack Open/Single Page App.md",
+    "Ingenieria en Software/Full Stack Open/HTTP Protocol.md",
+    "Ingenieria en Software/Full Stack Open/DOM.md",
+    "Ingenieria en Software/Full Stack Open/Traditional Web Apps.md",
     "Ingenieria en Software/Data structures/AB Tree.md",
+    "Ingenieria en Software/Full Stack Open",
+    "conflict-files-obsidian-git.md",
     "Ingenieria en Software/Devops/Virtual Machine.md",
     "Ingenieria en Software/Devops/Linux namespaces.md",
     "Ingenieria en Software/Devops/Docker.md",
@@ -148,11 +165,6 @@
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Gusano.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Botnet.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Bomba lógica.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Backdoor.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Malware/Adware.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Encriptación.md",
-    "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía/Criptografía.md",
-    "Ingenieria en Software/Septimo Semestre/Videojuegos/Videojuegos.md",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Malware",
     "Ingenieria en Software/Septimo Semestre/Seguridad/Criptografía",
     "Ingenieria en Software/Septimo Semestre/Videojuegos",
@@ -169,7 +181,6 @@
     "Images/Pasted image 20230504190257.png",
     "Untitled.canvas",
     "Images/Pasted image 20230415194211.png",
-    "Ingenieria en Software/Google Data Analytics Course/Share",
     "Images/Pasted Image 20230330171043_440.png"
   ]
 }

@@ -10,10 +10,7 @@
     "margin": "0",
     "downscalePercent": 80
   },
-  "spellcheckLanguages": [
-    "es-MX",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "attachmentFolderPath": "Images"
 }
